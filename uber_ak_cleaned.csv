@@ -1,0 +1,535 @@
+name,location,rest_type,online_order,book_table,rate,votes,approx_cost,cuisines,listed_in_type,listed_in_city,price_segment,rating_category
+Jalsa,Banashankari,Casual Dining,Yes,Yes,4.1,775,800,"North Indian, Mughlai, Chinese",Buffet,Banashankari,High,Excellent
+Spice Elephant,Banashankari,Casual Dining,Yes,No,4.1,787,800,"Chinese, North Indian, Thai",Buffet,Banashankari,High,Excellent
+San Churro Cafe,Banashankari,"Cafe, Casual Dining",Yes,No,3.8,918,800,"Cafe, Mexican, Italian",Buffet,Banashankari,High,Average
+Addhuri Udupi Bhojana,Banashankari,Quick Bites,No,No,3.7,88,300,"South Indian, North Indian",Buffet,Banashankari,Medium,Average
+Grand Village,Basavanagudi,Casual Dining,No,No,3.8,166,600,"North Indian, Rajasthani",Buffet,Banashankari,Medium,Average
+Timepass Dinner,Basavanagudi,Casual Dining,Yes,No,3.8,286,600,North Indian,Buffet,Banashankari,Medium,Average
+Onesta,Banashankari,"Casual Dining, Cafe",Yes,Yes,4.6,2556,600,"Pizza, Cafe, Italian",Cafes,Banashankari,Medium,Excellent
+Penthouse Cafe,Banashankari,Cafe,Yes,No,4.0,324,700,"Cafe, Italian, Continental",Cafes,Banashankari,Medium,Excellent
+Smacznego,Banashankari,Cafe,Yes,No,4.2,504,550,"Cafe, Mexican, Italian, Momos, Beverages",Cafes,Banashankari,Medium,Excellent
+CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Down The Alley,Banashankari,Cafe,Yes,No,4.1,402,500,Cafe,Cafes,Banashankari,Medium,Excellent
+Cafe Shuffle,Banashankari,Cafe,Yes,Yes,4.2,150,600,"Cafe, Italian, Continental",Cafes,Banashankari,Medium,Excellent
+The Coffee Shack,Banashankari,Cafe,Yes,Yes,4.2,164,500,"Cafe, Chinese, Continental, Italian",Cafes,Banashankari,Medium,Excellent
+Caf-Eleven,Banashankari,Cafe,No,No,4.0,424,450,"Cafe, Continental",Cafes,Banashankari,Medium,Excellent
+San Churro Cafe,Banashankari,"Cafe, Casual Dining",Yes,No,3.8,918,800,"Cafe, Mexican, Italian",Cafes,Banashankari,High,Average
+Cafe Vivacity,Banashankari,Cafe,Yes,No,3.8,90,650,Cafe,Cafes,Banashankari,Medium,Average
+Catch-up-ino,Banashankari,Cafe,Yes,No,3.9,133,800,"Cafe, Fast Food, Continental, Chinese, Momos",Cafes,Banashankari,High,Average
+Kirthi's Biryani,Banashankari,Cafe,Yes,No,3.8,144,700,"Chinese, Cafe, Italian",Cafes,Banashankari,Medium,Average
+T3H Cafe,Banashankari,Cafe,No,No,3.9,93,300,"Cafe, Italian, American",Cafes,Banashankari,Medium,Average
+The Vintage Cafe,Banashankari,Cafe,Yes,No,3.0,62,400,"Cafe, French, North Indian",Cafes,Banashankari,Medium,Average
+Woodee Pizza,Banashankari,Cafe,Yes,No,3.7,180,500,"Cafe, Pizza, Fast Food, Beverages",Cafes,Banashankari,Medium,Average
+My Tea House,Banashankari,"Quick Bites, Cafe",Yes,No,3.6,62,600,"Italian, Fast Food, Cafe, European",Cafes,Banashankari,Medium,Average
+Srinathji's Cafe,Basavanagudi,"Casual Dining, Cafe",No,No,3.8,148,550,"North Indian, Cafe, Chinese, Fast Food",Cafes,Banashankari,Medium,Average
+Redberrys,Basavanagudi,Cafe,Yes,No,4.0,219,600,"Cafe, Italian",Cafes,Banashankari,Medium,Excellent
+Foodiction,Banashankari,Quick Bites,Yes,No,2.8,506,500,"North Indian, Fast Food, Chinese, Burger",Delivery,Banashankari,Medium,Poor
+Ovenstory Pizza,Banashankari,Delivery,Yes,No,3.9,172,750,Pizza,Delivery,Banashankari,High,Average
+Faasos,Banashankari,Quick Bites,Yes,No,4.2,415,500,"North Indian, Biryani, Fast Food",Delivery,Banashankari,Medium,Excellent
+Behrouz Biryani,Banashankari,Delivery,Yes,No,3.9,230,650,Biryani,Delivery,Banashankari,Medium,Average
+Szechuan Dragon,Banashankari,Casual Dining,Yes,No,4.2,1647,600,"Chinese, Thai, Momos",Delivery,Banashankari,Medium,Excellent
+Empire Restaurant,Jayanagar,Casual Dining,Yes,No,4.4,4884,750,"North Indian, Mughlai, South Indian, Chinese",Delivery,Banashankari,High,Excellent
+Chaatimes,Basavanagudi,Quick Bites,Yes,No,3.8,133,200,"Street Food, Fast Food",Delivery,Banashankari,Low,Average
+McDonald's,Banashankari,Quick Bites,Yes,No,3.9,286,500,"Burger, Fast Food",Delivery,Banashankari,Medium,Average
+Domino's Pizza,Banashankari,Quick Bites,Yes,No,3.9,540,800,"Pizza, Fast Food",Delivery,Banashankari,High,Average
+Onesta,Banashankari,"Casual Dining, Cafe",Yes,Yes,4.6,2556,600,"Pizza, Cafe, Italian",Delivery,Banashankari,Medium,Excellent
+Hotboxit,Banashankari,Delivery,No,No,3.8,36,400,"North Indian, Continental, Italian",Delivery,Banashankari,Medium,Average
+Kitchen Garden,Kumaraswamy Layout,Quick Bites,Yes,No,3.6,244,300,"North Indian, Chinese",Delivery,Banashankari,Medium,Average
+Recipe,Kumaraswamy Layout,Casual Dining,Yes,No,4.0,804,450,"North Indian, Chinese, Biryani, Rolls",Delivery,Banashankari,Medium,Excellent
+Beijing Bites,Rajarajeshwari Nagar,Casual Dining,Yes,No,3.7,679,850,"Chinese, Thai",Delivery,Banashankari,High,Average
+Tasty Bytes,Kumaraswamy Layout,Quick Bites,Yes,No,3.1,245,300,"North Indian, Chinese, Momos, Rolls",Delivery,Banashankari,Medium,Average
+Corner House Ice Cream,Banashankari,Dessert Parlor,No,No,4.3,345,400,"Ice Cream, Desserts",Delivery,Banashankari,Medium,Excellent
+Biryanis And More,Jayanagar,Casual Dining,Yes,No,4.0,618,750,"Biryani, North Indian, Chinese, Andhra, South Indian",Delivery,Banashankari,High,Excellent
+Roving Feast,Banashankari,Quick Bites,No,No,4.0,1047,450,"Italian, Continental, Fast Food, Chinese, Momos",Delivery,Banashankari,Medium,Excellent
+FreshMenu,Banashankari,Delivery,Yes,No,3.9,627,450,"Healthy Food, Chinese, Biryani, North Indian, Continental, Salad, American, Burger",Delivery,Banashankari,Medium,Average
+Wamama,Banashankari,Casual Dining,Yes,Yes,4.2,354,800,"Asian, Korean, Indonesian, Japanese, Chinese, Thai, Momos",Delivery,Banashankari,High,Excellent
+Peppy Peppers,Banashankari,Casual Dining,No,No,4.2,244,800,"Italian, North Indian, Mexican",Delivery,Banashankari,High,Excellent
+Goa 0 Km,Kumaraswamy Layout,Casual Dining,Yes,Yes,3.6,163,800,"Goan, Seafood, North Indian, Chinese, Biryani",Delivery,Banashankari,High,Average
+1947,Banashankari,Casual Dining,No,Yes,4.0,808,850,"North Indian, Chinese",Delivery,Banashankari,High,Excellent
+Kabab Magic,Basavanagudi,Quick Bites,Yes,No,4.1,1720,400,"North Indian, Kebab, Chinese, Fast Food",Delivery,Banashankari,Medium,Excellent
+Gustoes Beer House,Banashankari,Pub,No,No,4.1,868,1200,"Continental, Italian, Mexican, North Indian, Chinese, Steak",Delivery,Banashankari,High,Excellent
+The Biryani Cafe,Banashankari,Quick Bites,No,No,4.1,520,300,"Biryani, Chinese, Kebab",Delivery,Banashankari,Medium,Excellent
+Rolls On Wheels,Banashankari,Quick Bites,No,No,3.6,299,300,"Fast Food, Rolls, Momos",Delivery,Banashankari,Medium,Average
+Sri Guru Kottureshwara Davangere Benne Dosa,Basavanagudi,Quick Bites,Yes,No,4.1,558,150,South Indian,Delivery,Banashankari,Low,Excellent
+Upahar Sagar,Banashankari,Quick Bites,No,No,3.8,39,350,"South Indian, Chinese, North Indian",Delivery,Banashankari,Medium,Average
+Frozen Bottle,Banashankari,Beverage Shop,Yes,No,4.2,146,400,"Beverages, Desserts, Ice Cream",Delivery,Banashankari,Medium,Excellent
+Meghana Foods,Jayanagar,Casual Dining,Yes,No,4.4,4401,600,"Biryani, North Indian, Chinese",Delivery,Banashankari,Medium,Excellent
+Nandhini Deluxe,Banashankari,Casual Dining,No,No,2.6,283,600,North Indian,Delivery,Banashankari,Medium,Poor
+Vi Ra's Bar and Restaurant,Banashankari,Bar,No,No,3.3,62,800,"South Indian, North Indian, Chinese",Delivery,Banashankari,High,Average
+Chatar Patar,Banashankari,Quick Bites,No,No,3.7,65,300,"Fast Food, Street Food",Delivery,Banashankari,Medium,Average
+Polar Bear,Basavanagudi,Dessert Parlor,Yes,No,3.8,71,400,"Ice Cream, Desserts, Beverages, Sandwich",Delivery,Banashankari,Medium,Average
+Kidambi's Kitchen,Banashankari,Quick Bites,No,No,3.5,52,300,South Indian,Delivery,Banashankari,Medium,Average
+Mane Thindi,Banashankari,Quick Bites,No,No,3.7,130,200,South Indian,Delivery,Banashankari,Low,Average
+Floured-Baked With Love,Banashankari,"Takeaway, Delivery",No,No,3.8,45,400,Bakery,Delivery,Banashankari,Medium,Average
+Bengaluru Coffee House,Banashankari,Quick Bites,Yes,No,4.1,201,300,"South Indian, North Indian, Chinese, Street Food",Delivery,Banashankari,Medium,Excellent
+Anna Kuteera,Banashankari,Casual Dining,Yes,No,4.0,771,450,"South Indian, North Indian, Chinese",Delivery,Banashankari,Medium,Excellent
+Darbar,Banashankari,Bar,No,No,3.0,98,800,"North Indian, Chinese",Delivery,Banashankari,High,Average
+Sri Udupi Food Hub,Jayanagar,Casual Dining,Yes,Yes,4.1,175,500,"South Indian, North Indian, Chinese, Beverages",Delivery,Banashankari,Medium,Excellent
+House Of Kebabs,Basavanagudi,Casual Dining,Yes,No,3.8,540,650,"North Indian, Kebab, Biryani, Chinese",Delivery,Banashankari,Medium,Average
+Roll N Rock,Kumaraswamy Layout,Quick Bites,Yes,No,3.8,124,400,"Chinese, North Indian, Mughlai, Rolls",Delivery,Banashankari,Medium,Average
+BOX8- Desi Meals,Banashankari,"Takeaway, Delivery",Yes,No,4.1,340,500,"North Indian, Mughlai, Fast Food",Delivery,Banashankari,Medium,Excellent
+KFC,Banashankari,Quick Bites,Yes,No,3.8,505,450,"Burger, Fast Food",Delivery,Banashankari,Medium,Average
+Roll Over,Jayanagar,Dessert Parlor,Yes,No,4.1,438,500,"Desserts, Ice Cream, Beverages, Fast Food, Sandwich",Delivery,Banashankari,Medium,Excellent
+Imperial Restaurant,Mysore Road,Casual Dining,Yes,No,3.7,264,750,"North Indian, Chinese, Biryani, Beverages",Delivery,Banashankari,High,Average
+Wahab,Jayanagar,Quick Bites,Yes,No,3.7,97,350,"North Indian, Mughlai, Chinese",Delivery,Banashankari,Medium,Average
+Canton,Jayanagar,Casual Dining,Yes,No,3.6,195,800,"Chinese, Seafood, Biryani",Delivery,Banashankari,High,Average
+The Blue Wagon - Kitchen,Jayanagar,Cafe,Yes,No,4.6,228,400,"Cafe, Beverages",Delivery,Banashankari,Medium,Excellent
+Patio 805,Jayanagar,Casual Dining,Yes,Yes,4.1,364,1200,"Thai, Vietnamese, Asian, Chinese",Delivery,Banashankari,High,Excellent
+Lassi Corner,Basavanagudi,Beverage Shop,Yes,No,3.7,107,150,"Beverages, Ice Cream",Delivery,Banashankari,Low,Average
+Sagar Deluxe,Kumaraswamy Layout,Quick Bites,Yes,No,3.2,167,300,"South Indian, North Indian, Chinese, Juices",Delivery,Banashankari,Medium,Average
+Energy Addaa,Basavanagudi,Quick Bites,Yes,No,4.2,64,500,"Salad, Healthy Food, Sandwich, Juices, Burger, Desserts, Pizza",Delivery,Banashankari,Medium,Excellent
+Tandoori Knight,Banashankari,Quick Bites,Yes,No,3.0,290,450,"North Indian, Chinese, Biryani, Kebab",Delivery,Banashankari,Medium,Average
+Dev Sagar - Food Street,Basavanagudi,Quick Bites,Yes,No,4.1,233,200,Street Food,Delivery,Banashankari,Low,Excellent
+Mitraa Da Pizza,Kumaraswamy Layout,Quick Bites,Yes,No,3.8,115,250,"Fast Food, Pizza",Delivery,Banashankari,Low,Average
+Grazers,Jayanagar,Cafe,Yes,Yes,3.9,291,650,"Cafe, Burger, Continental, Italian, Desserts",Delivery,Banashankari,Medium,Average
+Shakes Theory,Jayanagar,Beverage Shop,Yes,No,4.5,155,300,"Beverages, Sandwich",Delivery,Banashankari,Medium,Excellent
+@Italy,Kumaraswamy Layout,Casual Dining,Yes,No,4.1,305,700,Italian,Delivery,Banashankari,Medium,Excellent
+Old Mumbai Ice Cream,Banashankari,Dessert Parlor,Yes,No,3.9,38,150,Ice Cream,Delivery,Banashankari,Low,Average
+Donne Biriyani House,Banashankari,Quick Bites,Yes,No,3.9,441,400,"South Indian, North Indian, Chinese, Biryani",Delivery,Banashankari,Medium,Average
+Kedia's Fun Food,Jayanagar,Quick Bites,Yes,No,4.3,630,200,"North Indian, Street Food, Juices",Delivery,Banashankari,Low,Excellent
+Just Shawarma,Kumaraswamy Layout,Quick Bites,Yes,No,3.9,160,300,Arabian,Delivery,Banashankari,Medium,Average
+Mini Punjabi Dhaba,Banashankari,Quick Bites,Yes,No,4.2,287,350,North Indian,Delivery,Banashankari,Medium,Excellent
+CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Down The Alley,Banashankari,Cafe,Yes,No,4.1,402,500,Cafe,Delivery,Banashankari,Medium,Excellent
+Gokul Veg,Basavanagudi,Casual Dining,Yes,No,3.8,469,750,"North Indian, Chinese, Beverages",Delivery,Banashankari,High,Average
+Olive - Era,Kumaraswamy Layout,Casual Dining,Yes,No,3.3,511,550,"BBQ, Arabian, Rolls, Chinese, North Indian, Juices, Kebab, Desserts",Delivery,Banashankari,Medium,Average
+Gama Gama,Banashankari,Quick Bites,Yes,No,3.9,264,200,South Indian,Delivery,Banashankari,Low,Average
+The Vintage Cafe,Banashankari,Cafe,Yes,No,3.0,62,400,"Cafe, French, North Indian",Delivery,Banashankari,Medium,Average
+Pizza Hut,Banashankari,Casual Dining,Yes,No,3.8,693,750,"Pizza, Fast Food",Delivery,Banashankari,High,Average
+Mangalore Pearl,Jayanagar,Casual Dining,Yes,No,3.8,242,650,"Mangalorean, Seafood, Chinese, Biryani",Delivery,Banashankari,Medium,Average
+Twiststick House,Basavanagudi,Quick Bites,Yes,No,4.1,163,500,"Continental, Fast Food, Street Food, Momos",Delivery,Banashankari,Medium,Excellent
+Cool Corner,Basavanagudi,Quick Bites,Yes,No,4.2,191,250,"Street Food, Fast Food",Delivery,Banashankari,Low,Excellent
+Pizza Mane,Banashankari,Quick Bites,Yes,No,3.5,32,150,"Pizza, Sandwich, Burger, Fast Food",Delivery,Banashankari,Low,Average
+Dal Tadkaa,Banashankari,Casual Dining,Yes,No,2.5,247,500,North Indian,Delivery,Banashankari,Medium,Poor
+Chutney Chang,Jayanagar,Casual Dining,Yes,Yes,4.1,2339,1500,"North Indian, Chinese, BBQ",Delivery,Banashankari,High,Excellent
+Mystique Palate,Jayanagar,Quick Bites,Yes,No,4.1,337,300,"Chinese, Fast Food",Delivery,Banashankari,Medium,Excellent
+Thamboola,Banashankari,Casual Dining,Yes,No,3.9,135,800,"North Indian, Chinese, Continental",Delivery,Banashankari,High,Average
+Castle Rock,Uttarahalli,Casual Dining,Yes,No,3.6,172,700,"North Indian, Chinese",Delivery,Banashankari,Medium,Average
+Vietnamese Kitchen,Banashankari,Casual Dining,Yes,No,3.6,105,700,Vietnamese,Delivery,Banashankari,Medium,Average
+Smacznego,Banashankari,Cafe,Yes,No,4.2,504,550,"Cafe, Mexican, Italian, Momos, Beverages",Delivery,Banashankari,Medium,Excellent
+Toscano,Jayanagar,Casual Dining,Yes,Yes,4.3,1129,1300,"Italian, Salad",Delivery,Banashankari,High,Excellent
+Stoned Monkey,Banashankari,Dessert Parlor,Yes,No,4.3,860,500,"Desserts, Ice Cream",Delivery,Banashankari,Medium,Excellent
+Central Jail Restaurant,Jayanagar,Casual Dining,Yes,No,3.8,412,700,"Andhra, Seafood, North Indian, Chinese",Delivery,Banashankari,Medium,Average
+Bella,Jayanagar,Casual Dining,Yes,Yes,3.9,142,1000,"Mangalorean, Seafood, South Indian",Delivery,Banashankari,High,Average
+New Prashanth Hotel,Jayanagar,Casual Dining,Yes,No,3.6,143,750,"South Indian, Biryani, Chinese, North Indian",Delivery,Banashankari,High,Average
+Karma Kaapi,Jayanagar,Beverage Shop,Yes,No,4.4,181,250,"Beverages, Tea",Delivery,Banashankari,Low,Excellent
+Tiwari's,Jayanagar,Quick Bites,Yes,No,3.8,70,200,"North Indian, Street Food",Delivery,Banashankari,Low,Average
+Pizza Stop,Basavanagudi,Quick Bites,Yes,No,3.8,164,600,"Pizza, Italian",Delivery,Banashankari,Medium,Average
+Biggies Burger 'n' More,Kumaraswamy Layout,Quick Bites,Yes,No,3.6,58,650,"Cafe, Burger, Beverages",Delivery,Banashankari,Medium,Average
+Srinathji's Cafe,Basavanagudi,"Casual Dining, Cafe",No,No,3.8,148,550,"North Indian, Cafe, Chinese, Fast Food",Delivery,Banashankari,Medium,Average
+Kollapuri's,Basavanagudi,Quick Bites,No,No,3.9,206,450,"South Indian, Mangalorean",Delivery,Banashankari,Medium,Average
+RS Shiv Sagar,Basavanagudi,Casual Dining,No,No,3.7,217,450,"North Indian, Chinese, South Indian, Fast Food, Juices",Delivery,Banashankari,Medium,Average
+Harshi Super Sandwich,Basavanagudi,Quick Bites,No,No,3.8,148,150,"Fast Food, Street Food",Delivery,Banashankari,Low,Average
+Ugadi,Jayanagar,Casual Dining,Yes,No,2.9,177,700,"North Indian, Chinese, Biryani, Andhra, Mangalorean",Delivery,Banashankari,Medium,Poor
+Subway,Banashankari,Quick Bites,Yes,No,3.7,136,600,"Salad, Fast Food",Delivery,Banashankari,Medium,Average
+The Lassi Park,Jayanagar,Quick Bites,Yes,No,4.1,185,200,"Juices, Desserts",Delivery,Banashankari,Low,Excellent
+A2B - Adyar Ananda Bhavan,Mysore Road,Casual Dining,Yes,No,3.8,155,400,"South Indian, North Indian, Chinese, Street Food",Delivery,Banashankari,Medium,Average
+Srikrishna Bhavan,Banashankari,Quick Bites,Yes,No,3.8,42,300,"South Indian, North Indian, Chinese",Delivery,Banashankari,Medium,Average
+Timepass Dinner,Basavanagudi,Casual Dining,Yes,No,3.8,286,600,North Indian,Delivery,Banashankari,Medium,Average
+Green Gardenia,Banashankari,Casual Dining,Yes,No,3.8,160,700,"North Indian, Chinese",Delivery,Banashankari,Medium,Average
+J Spice,Banashankari,Casual Dining,Yes,No,3.8,59,750,"North Indian, Chinese",Delivery,Banashankari,High,Average
+Hatti Kaapi,Jayanagar,Quick Bites,Yes,No,4.0,89,200,"South Indian, Beverages",Delivery,Banashankari,Low,Excellent
+Upahara Darshini,Basavanagudi,Casual Dining,Yes,No,3.9,40,600,"North Indian, Chinese, South Indian, Fast Food",Delivery,Banashankari,Medium,Average
+The Chaat Shop,Basavanagudi,Quick Bites,Yes,No,2.5,35,200,Fast Food,Delivery,Banashankari,Low,Poor
+My Tea House,Banashankari,"Quick Bites, Cafe",Yes,No,3.6,62,600,"Italian, Fast Food, Cafe, European",Delivery,Banashankari,Medium,Average
+Samskruti - Sanman Gardenia,Jayanagar,Casual Dining,Yes,No,4.1,139,550,"North Indian, Chinese, South Indian",Delivery,Banashankari,Medium,Excellent
+Chumma Delicious,Banashankari,Quick Bites,Yes,No,3.7,237,200,"South Indian, Fast Food",Delivery,Banashankari,Low,Average
+New Prashanth Hotel,Banashankari,Casual Dining,Yes,No,3.9,388,650,"Biryani, North Indian, Seafood, Andhra",Delivery,Banashankari,Medium,Average
+Dwaraka Grand,Kumaraswamy Layout,Casual Dining,Yes,No,3.9,128,500,"South Indian, Chinese, Street Food, Juices",Delivery,Banashankari,Medium,Average
+Gufha - The President Hotel,Jayanagar,Casual Dining,Yes,Yes,4.1,1875,1200,"North Indian, Afghani, Mughlai",Delivery,Banashankari,High,Excellent
+Cafe Vivacity,Banashankari,Cafe,Yes,No,3.8,90,650,Cafe,Delivery,Banashankari,Medium,Average
+Mojo Pizza - 2X Toppings,Banashankari,Delivery,Yes,No,4.2,179,600,Pizza,Delivery,Banashankari,Medium,Excellent
+South Kitchen,Basavanagudi,Quick Bites,Yes,No,4.3,275,100,South Indian,Delivery,Banashankari,Low,Excellent
+Chung Wah,Jayanagar,Casual Dining,Yes,No,3.7,323,850,"Chinese, Thai, Momos",Delivery,Banashankari,High,Average
+Prems Graama Bhojanam,Jayanagar,Casual Dining,Yes,No,4.3,322,400,South Indian,Delivery,Banashankari,Medium,Excellent
+Java City,Jayanagar,Cafe,Yes,No,2.6,157,450,"Cafe, American, Pizza",Delivery,Banashankari,Medium,Poor
+Kamat Bugle Rock,Basavanagudi,Quick Bites,Yes,No,3.9,543,300,"South Indian, Fast Food",Delivery,Banashankari,Medium,Average
+Woodee Pizza,Banashankari,Cafe,Yes,No,3.7,180,500,"Cafe, Pizza, Fast Food, Beverages",Delivery,Banashankari,Medium,Average
+Puliyogare Point,Basavanagudi,Quick Bites,Yes,No,4.2,444,100,South Indian,Delivery,Banashankari,Low,Excellent
+Bangalore Agarwal Bhavan,Jayanagar,Quick Bites,Yes,No,3.9,134,400,"Street Food, North Indian, South Indian",Delivery,Banashankari,Medium,Average
+Rustic Stove,Jayanagar,Casual Dining,Yes,No,3.8,577,900,"North Indian, South Indian, Biryani, Beverages",Delivery,Banashankari,High,Average
+De Thaali,Jayanagar,Casual Dining,Yes,No,3.9,144,550,"North Indian, Chinese, Rolls",Delivery,Banashankari,Medium,Average
+Spice Elephant,Banashankari,Casual Dining,Yes,No,4.1,787,800,"Chinese, North Indian, Thai",Delivery,Banashankari,High,Excellent
+Matru Sagar,Banashankari,Quick Bites,Yes,No,3.6,84,250,"South Indian, North Indian, Chinese",Delivery,Banashankari,Low,Average
+Sea Spice by 7 Star,Banashankari,Casual Dining,Yes,Yes,4.0,349,1200,"Seafood, Biryani, Beverages, South Indian, North Indian, Kebab",Delivery,Banashankari,High,Excellent
+Desi Dawat,Kumaraswamy Layout,Quick Bites,Yes,No,3.7,248,400,"North Indian, Fast Food",Delivery,Banashankari,Medium,Average
+Cafe Aira,Basavanagudi,Cafe,Yes,No,4.1,216,500,"Cafe, Continental, Beverages, Desserts",Delivery,Banashankari,Medium,Excellent
+Penthouse Cafe,Banashankari,Cafe,Yes,No,4.0,324,700,"Cafe, Italian, Continental",Delivery,Banashankari,Medium,Excellent
+Mast Punjabi,Kumaraswamy Layout,Quick Bites,Yes,No,2.6,231,400,"North Indian, Chinese, Rolls, Biryani, Kebab",Delivery,Banashankari,Medium,Poor
+South Grand,Uttarahalli,Casual Dining,Yes,No,3.4,102,400,"South Indian, North Indian, Chinese, Beverages",Delivery,Banashankari,Medium,Average
+Catch-up-ino,Banashankari,Cafe,Yes,No,3.9,133,800,"Cafe, Fast Food, Continental, Chinese, Momos",Delivery,Banashankari,High,Average
+The Pizzeria,Banashankari,Casual Dining,Yes,No,2.8,45,800,"Pizza, Italian, Salad",Delivery,Banashankari,High,Poor
+Ruchis Point,Banashankari,Quick Bites,Yes,No,3.8,75,200,"Fast Food, Chinese",Delivery,Banashankari,Low,Average
+Firangi Bake,Rajarajeshwari Nagar,Delivery,Yes,No,4.0,53,600,"Mexican, Italian",Delivery,Banashankari,Medium,Excellent
+The Royal Corner - Pai Viceroy,Jayanagar,Casual Dining,Yes,Yes,4.2,815,900,"North Indian, Chinese",Delivery,Banashankari,High,Excellent
+Hara Fine Dine,Banashankari,Casual Dining,Yes,Yes,4.0,633,800,"North Indian, Chinese",Delivery,Banashankari,High,Excellent
+Chocoberry,Jayanagar,Dessert Parlor,Yes,No,3.5,56,400,"Ice Cream, Desserts, Beverages",Delivery,Banashankari,Medium,Average
+Waffle-A-Go Go,Banashankari,Dessert Parlor,Yes,No,3.9,70,400,"Fast Food, Desserts, Ice Cream",Delivery,Banashankari,Medium,Average
+Cross Road Cafe,Jayanagar,Cafe,Yes,No,3.9,91,300,"Cafe, Fast Food, Chinese",Delivery,Banashankari,Medium,Average
+Bakers Town,Kumaraswamy Layout,Cafe,Yes,No,3.8,77,650,"Cafe, Continental, Fast Food",Delivery,Banashankari,Medium,Average
+Ivy,Kumaraswamy Layout,Casual Dining,Yes,No,3.8,210,600,"North Indian, Chinese, Fast Food",Delivery,Banashankari,Medium,Average
+The Airos,Jayanagar,Cafe,Yes,No,4.1,130,650,"Cafe, Italian, Pizza",Delivery,Banashankari,Medium,Excellent
+Chai Kraft,Jayanagar,Beverage Shop,Yes,No,4.1,30,100,"Beverages, Tea",Delivery,Banashankari,Low,Excellent
+Kirthi's Biryani,Banashankari,Cafe,Yes,No,3.8,144,700,"Chinese, Cafe, Italian",Delivery,Banashankari,Medium,Average
+The Trundle,Jayanagar,Casual Dining,Yes,No,3.7,133,700,"Chinese, Thai, Continental, North Indian",Delivery,Banashankari,Medium,Average
+The Krishna Grand Xpress,Jayanagar,Quick Bites,Yes,No,4.0,136,350,"South Indian, Fast Food",Delivery,Banashankari,Medium,Excellent
+Udupi Grand,Basavanagudi,Quick Bites,Yes,No,3.8,74,300,"South Indian, North Indian, Chinese",Delivery,Banashankari,Medium,Average
+Little Cafe,Basavanagudi,Cafe,Yes,No,3.7,54,600,"Cafe, Beverages",Delivery,Banashankari,Medium,Average
+1980s Games Cafe,Basavanagudi,Cafe,Yes,No,3.4,58,400,"Cafe, Fast Food",Delivery,Banashankari,Medium,Average
+Kadala Tarangaa,Banashankari,Casual Dining,Yes,No,3.6,129,600,"Mangalorean, Seafood, North Indian",Delivery,Banashankari,Medium,Average
+As On Fire,South Bangalore,Food Truck,Yes,No,3.5,41,400,"Pizza, Fast Food, BBQ",Delivery,Banashankari,Medium,Average
+Curry Leaves,Basavanagudi,Casual Dining,Yes,No,4.1,176,800,"Andhra, North Indian, Chinese",Delivery,Banashankari,High,Excellent
+Magic Meals,Jayanagar,"Quick Bites, Dessert Parlor",Yes,No,3.7,47,400,"Fast Food, Desserts, Beverages",Delivery,Banashankari,Medium,Average
+Desi Cream Junction,Jayanagar,Casual Dining,Yes,Yes,3.7,36,650,"Chinese, North Indian, Pizza, Italian",Delivery,Banashankari,Medium,Average
+Eat Repeat,Basavanagudi,Quick Bites,Yes,No,3.9,101,150,South Indian,Delivery,Banashankari,Low,Average
+Salut,Jayanagar,"Pub, Casual Dining",Yes,Yes,4.1,442,1200,"Continental, Finger Food, Seafood, Pizza",Delivery,Banashankari,High,Excellent
+Sandwich Mama's And Frozen Monster,Jayanagar,Quick Bites,Yes,No,3.8,53,250,"Ice Cream, Beverages, Fast Food",Delivery,Banashankari,Low,Average
+Food Springs,Jayanagar,Quick Bites,Yes,No,4.0,232,400,"South Indian, Chinese",Delivery,Banashankari,Medium,Excellent
+Chung's Chinese Corner,Jayanagar,Casual Dining,Yes,No,3.9,221,700,Chinese,Delivery,Banashankari,Medium,Average
+Eurasia Pasta and Barbeque by Little Italy,Jayanagar,"Casual Dining, Bar",Yes,Yes,4.1,1063,1200,"Italian, Fast Food, Salad, BBQ",Delivery,Banashankari,High,Excellent
+Goli Vada Pav No. 1,Basavanagudi,Quick Bites,Yes,No,3.7,93,200,Street Food,Delivery,Banashankari,Low,Average
+Ragoo's,Jayanagar,Casual Dining,Yes,No,3.9,233,800,"Italian, Pizza, North Indian, Salad",Delivery,Banashankari,High,Average
+Pure & Natural,Jayanagar,Casual Dining,Yes,No,3.9,211,500,"Fast Food, Continental, Beverages, Salad, Healthy Food",Delivery,Banashankari,Medium,Average
+Maiyas,Jayanagar,Quick Bites,Yes,No,4.0,1778,200,"North Indian, South Indian, Fast Food, Juices",Delivery,Banashankari,Low,Excellent
+Sip n Dine,Vijay Nagar,Casual Dining,Yes,No,3.6,218,800,"North Indian, Chinese, South Indian",Delivery,Banashankari,High,Average
+Cafe Mondo,Basavanagudi,Cafe,Yes,No,3.7,514,600,"Cafe, Italian, Beverages",Delivery,Banashankari,Medium,Average
+Jalpaan,Jayanagar,Casual Dining,Yes,Yes,4.0,866,900,"North Indian, Continental",Delivery,Banashankari,High,Excellent
+Kataria's Pakwan,Kumaraswamy Layout,Quick Bites,Yes,No,3.2,96,400,North Indian,Delivery,Banashankari,Medium,Average
+Juicy Momos,Banashankari,Quick Bites,Yes,No,3.5,80,250,"Tibetan, Momos",Delivery,Banashankari,Low,Average
+Amande Patisserie,Basavanagudi,Bakery,Yes,No,4.0,73,300,"Bakery, French, Desserts",Delivery,Banashankari,Medium,Excellent
+Anand Sweets and Savouries,Jayanagar,Sweet Shop,Yes,No,3.9,84,400,"Mithai, Street Food",Delivery,Banashankari,Medium,Average
+Chicken Hunt,Banashankari,Quick Bites,Yes,No,3.5,88,350,"South Indian, North Indian, Chinese, Biryani",Delivery,Banashankari,Medium,Average
+Swadesh Tadka,Banashankari,Casual Dining,Yes,No,3.5,179,600,"North Indian, Chinese, Beverages",Delivery,Banashankari,Medium,Average
+Cane-O-La,Basavanagudi,Quick Bites,Yes,No,3.8,61,100,Juices,Delivery,Banashankari,Low,Average
+New Biryani Mane,Uttarahalli,Casual Dining,Yes,No,3.7,128,450,"North Indian, Chinese, Biryani, South Indian",Delivery,Banashankari,Medium,Average
+Upahara Darshini,Jayanagar,Quick Bites,Yes,No,3.8,339,400,"South Indian, North Indian, Chinese",Delivery,Banashankari,Medium,Average
+Karnataka Bhel House,Basavanagudi,Quick Bites,Yes,No,4.1,449,100,Street Food,Delivery,Banashankari,Low,Excellent
+Sreeraj Lassi Bar,Jayanagar,"Dessert Parlor, Beverage Shop",Yes,No,4.1,210,150,Beverages,Delivery,Banashankari,Low,Excellent
+Bunt's Biriyani Palace,Banashankari,Quick Bites,Yes,No,3.0,213,400,"North Indian, South Indian, Chinese, Biryani, Seafood",Delivery,Banashankari,Medium,Average
+Chai Point,Jayanagar,"Beverage Shop, Quick Bites",Yes,No,3.2,208,250,"Tea, Beverages, Fast Food",Delivery,Banashankari,Low,Average
+Janahaar,Banashankari,Quick Bites,Yes,No,3.8,70,100,South Indian,Delivery,Banashankari,Low,Average
+Redberrys,Basavanagudi,Cafe,Yes,No,4.0,219,600,"Cafe, Italian",Delivery,Banashankari,Medium,Excellent
+Utsav,Banashankari,Quick Bites,Yes,No,3.7,59,200,"North Indian, Street Food",Delivery,Banashankari,Low,Average
+The Spice Saga,Kumaraswamy Layout,Casual Dining,Yes,No,3.7,124,750,"Biryani, North Indian, Chinese, Seafood",Delivery,Banashankari,High,Average
+Jalsa,Banashankari,Casual Dining,Yes,Yes,4.1,775,800,"North Indian, Mughlai, Chinese",Delivery,Banashankari,High,Excellent
+Subz,Jayanagar,Casual Dining,Yes,Yes,4.2,2022,1000,"North Indian, South Indian",Delivery,Banashankari,High,Excellent
+Cafe Shuffle,Banashankari,Cafe,Yes,Yes,4.2,150,600,"Cafe, Italian, Continental",Delivery,Banashankari,Medium,Excellent
+Mint and Mustard,Basavanagudi,Casual Dining,Yes,No,4.0,232,750,"North Indian, Chinese",Delivery,Banashankari,High,Excellent
+Punjabi Raswada,Jayanagar,Casual Dining,Yes,Yes,3.5,431,800,North Indian,Delivery,Banashankari,High,Average
+Vinny's,Banashankari,Casual Dining,Yes,Yes,4.2,2115,800,"Pizza, Italian, Continental, Desserts",Delivery,Banashankari,High,Excellent
+Sukh Sagar,Jayanagar,Casual Dining,Yes,No,3.8,155,450,"South Indian, North Indian, Chinese, Street Food",Delivery,Banashankari,Medium,Average
+Andhra Ruchulu,Jayanagar,"Casual Dining, Bar",Yes,Yes,4.1,666,1000,"Andhra, Biryani, North Indian, Chinese",Delivery,Banashankari,High,Excellent
+Steaming Mugs,Basavanagudi,Cafe,Yes,No,3.9,240,700,Cafe,Delivery,Banashankari,Medium,Average
+San Churro Cafe,Banashankari,"Cafe, Casual Dining",Yes,No,3.8,918,800,"Cafe, Mexican, Italian",Delivery,Banashankari,High,Average
+Rajathadri Food Fort,Jayanagar,Casual Dining,Yes,No,4.0,465,600,"South Indian, North Indian, Chinese, Street Food",Delivery,Banashankari,Medium,Excellent
+Brew Meister,Jayanagar,"Microbrewery, Casual Dining",Yes,Yes,4.1,970,1500,"North Indian, Continental, Finger Food, American, Asian",Delivery,Banashankari,High,Excellent
+Rasoi,Banashankari,Quick Bites,Yes,No,3.3,128,300,"North Indian, Chinese",Delivery,Banashankari,Medium,Average
+Mr. Singh Da Dhaba,Kumaraswamy Layout,Quick Bites,Yes,No,3.6,241,300,"North Indian, Chinese",Delivery,Banashankari,Medium,Average
+Ayodhya Upachar,Banashankari,Quick Bites,Yes,No,4.3,734,200,"South Indian, North Indian, Chinese, Street Food",Delivery,Banashankari,Low,Excellent
+Biriyani Mane,Jayanagar,Quick Bites,Yes,No,3.8,130,400,"North Indian, Biryani",Delivery,Banashankari,Medium,Average
+Cafe Ajfan,Jayanagar,Cafe,Yes,No,4.2,261,700,"Cafe, Continental, Beverages",Delivery,Banashankari,Medium,Excellent
+Brundhavana Food Point,Kumaraswamy Layout,Quick Bites,Yes,No,4.0,191,300,"South Indian, North Indian, Chinese, Street Food, Beverages",Delivery,Banashankari,Medium,Excellent
+SLV Corner Restaurant,Basavanagudi,Casual Dining,Yes,No,4.1,364,550,"South Indian, Chinese, North Indian, Street Food, Rolls, Juices",Delivery,Banashankari,Medium,Excellent
+The Krishna Grand,Banashankari,Casual Dining,Yes,No,3.9,888,750,"North Indian, South Indian, Chinese, Fast Food, Juices",Delivery,Banashankari,High,Average
+Roti Ghar,Basavanagudi,Casual Dining,Yes,No,3.9,750,500,"North Indian, Chinese, South Indian",Delivery,Banashankari,Medium,Average
+The Coffee Shack,Banashankari,Cafe,Yes,Yes,4.2,164,500,"Cafe, Chinese, Continental, Italian",Delivery,Banashankari,Medium,Excellent
+Baisakhi,Basavanagudi,Casual Dining,Yes,No,3.8,527,500,North Indian,Delivery,Banashankari,Medium,Average
+Corner House Ice Cream,Banashankari,Dessert Parlor,No,No,4.3,345,400,"Ice Cream, Desserts",Desserts,Banashankari,Medium,Excellent
+Poonam Sweets,Banashankari,Sweet Shop,No,No,4.4,356,150,Mithai,Desserts,Banashankari,Low,Excellent
+Old Mumbai Ice Cream,Banashankari,Dessert Parlor,Yes,No,3.9,38,150,Ice Cream,Desserts,Banashankari,Low,Average
+Polar Bear,Banashankari,Dessert Parlor,Yes,No,3.9,116,400,"Ice Cream, Desserts, Beverages, Sandwich",Desserts,Banashankari,Medium,Average
+San Churro Cafe,Banashankari,"Cafe, Casual Dining",Yes,No,3.8,918,800,"Cafe, Mexican, Italian",Desserts,Banashankari,High,Average
+Kirthi's Biryani,Banashankari,Cafe,Yes,No,3.8,144,700,"Chinese, Cafe, Italian",Desserts,Banashankari,Medium,Average
+Stoned Monkey,Banashankari,Dessert Parlor,Yes,No,4.3,860,500,"Desserts, Ice Cream",Desserts,Banashankari,Medium,Excellent
+Floured-Baked With Love,Banashankari,"Takeaway, Delivery",No,No,3.8,45,400,Bakery,Desserts,Banashankari,Medium,Average
+Waffle-A-Go Go,Banashankari,Dessert Parlor,Yes,No,3.9,70,400,"Fast Food, Desserts, Ice Cream",Desserts,Banashankari,Medium,Average
+Sri Venkateshwara Sweet Meat Stall,Basavanagudi,"Sweet Shop, Quick Bites",No,No,4.0,98,400,"Mithai, Street Food, North Indian, Chinese",Desserts,Banashankari,Medium,Excellent
+Redberrys,Basavanagudi,Cafe,Yes,No,4.0,219,600,"Cafe, Italian",Desserts,Banashankari,Medium,Excellent
+Amande Patisserie,Basavanagudi,Bakery,Yes,No,4.0,73,300,"Bakery, French, Desserts",Desserts,Banashankari,Medium,Excellent
+A2B Veg - Adyar Ananda Bhavan,Basavanagudi,Casual Dining,Yes,No,2.7,97,400,"South Indian, North Indian, Chinese, Street Food",Desserts,Banashankari,Medium,Poor
+The Krishna Grand,Banashankari,Casual Dining,Yes,No,3.9,888,750,"North Indian, South Indian, Chinese, Fast Food, Juices",Dine-out,Banashankari,High,Average
+Sea Spice by 7 Star,Banashankari,Casual Dining,Yes,Yes,4.0,349,1200,"Seafood, Biryani, Beverages, South Indian, North Indian, Kebab",Dine-out,Banashankari,High,Excellent
+Mini Punjabi Dhaba,Banashankari,Quick Bites,Yes,No,4.2,287,350,North Indian,Dine-out,Banashankari,Medium,Excellent
+Onesta,Banashankari,"Casual Dining, Cafe",Yes,Yes,4.6,2556,600,"Pizza, Cafe, Italian",Dine-out,Banashankari,Medium,Excellent
+Wamama,Banashankari,Casual Dining,Yes,Yes,4.2,354,800,"Asian, Korean, Indonesian, Japanese, Chinese, Thai, Momos",Dine-out,Banashankari,High,Excellent
+Jalsa,Banashankari,Casual Dining,Yes,Yes,4.1,775,800,"North Indian, Mughlai, Chinese",Dine-out,Banashankari,High,Excellent
+Vinny's,Banashankari,Casual Dining,Yes,Yes,4.2,2115,800,"Pizza, Italian, Continental, Desserts",Dine-out,Banashankari,High,Excellent
+Jcubez,Banashankari,Lounge,No,Yes,3.8,977,1300,Finger Food,Dine-out,Banashankari,High,Average
+Gustoes Beer House,Banashankari,Pub,No,No,4.1,868,1200,"Continental, Italian, Mexican, North Indian, Chinese, Steak",Dine-out,Banashankari,High,Excellent
+Penthouse Cafe,Banashankari,Cafe,Yes,No,4.0,324,700,"Cafe, Italian, Continental",Dine-out,Banashankari,Medium,Excellent
+Spice Elephant,Banashankari,Casual Dining,Yes,No,4.1,787,800,"Chinese, North Indian, Thai",Dine-out,Banashankari,High,Excellent
+Smacznego,Banashankari,Cafe,Yes,No,4.2,504,550,"Cafe, Mexican, Italian, Momos, Beverages",Dine-out,Banashankari,Medium,Excellent
+CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Down The Alley,Banashankari,Cafe,Yes,No,4.1,402,500,Cafe,Dine-out,Banashankari,Medium,Excellent
+Cafe Shuffle,Banashankari,Cafe,Yes,Yes,4.2,150,600,"Cafe, Italian, Continental",Dine-out,Banashankari,Medium,Excellent
+The Coffee Shack,Banashankari,Cafe,Yes,Yes,4.2,164,500,"Cafe, Chinese, Continental, Italian",Dine-out,Banashankari,Medium,Excellent
+Peppy Peppers,Banashankari,Casual Dining,No,No,4.2,244,800,"Italian, North Indian, Mexican",Dine-out,Banashankari,High,Excellent
+Anna Kuteera,Banashankari,Casual Dining,Yes,No,4.0,771,450,"South Indian, North Indian, Chinese",Dine-out,Banashankari,Medium,Excellent
+Szechuan Dragon,Banashankari,Casual Dining,Yes,No,4.2,1647,600,"Chinese, Thai, Momos",Dine-out,Banashankari,Medium,Excellent
+1947,Banashankari,Casual Dining,No,Yes,4.0,808,850,"North Indian, Chinese",Dine-out,Banashankari,High,Excellent
+Caf-Eleven,Banashankari,Cafe,No,No,4.0,424,450,"Cafe, Continental",Dine-out,Banashankari,Medium,Excellent
+Thamboola,Banashankari,Casual Dining,Yes,No,3.9,135,800,"North Indian, Chinese, Continental",Dine-out,Banashankari,High,Average
+San Churro Cafe,Banashankari,"Cafe, Casual Dining",Yes,No,3.8,918,800,"Cafe, Mexican, Italian",Dine-out,Banashankari,High,Average
+Cafe Vivacity,Banashankari,Cafe,Yes,No,3.8,90,650,Cafe,Dine-out,Banashankari,Medium,Average
+Chung Wah,Banashankari,Casual Dining,Yes,No,3.9,519,900,"Chinese, Momos, Thai, Vietnamese",Dine-out,Banashankari,High,Average
+Vietnamese Kitchen,Banashankari,Casual Dining,Yes,No,3.6,105,700,Vietnamese,Dine-out,Banashankari,Medium,Average
+Catch-up-ino,Banashankari,Cafe,Yes,No,3.9,133,800,"Cafe, Fast Food, Continental, Chinese, Momos",Dine-out,Banashankari,High,Average
+Kirthi's Biryani,Banashankari,Cafe,Yes,No,3.8,144,700,"Chinese, Cafe, Italian",Dine-out,Banashankari,Medium,Average
+T3H Cafe,Banashankari,Cafe,No,No,3.9,93,300,"Cafe, Italian, American",Dine-out,Banashankari,Medium,Average
+Srikrishna Bhavan,Banashankari,Quick Bites,Yes,No,3.8,42,300,"South Indian, North Indian, Chinese",Dine-out,Banashankari,Medium,Average
+Dal Tadkaa,Banashankari,Casual Dining,Yes,No,2.5,247,500,North Indian,Dine-out,Banashankari,Medium,Poor
+The Vintage Cafe,Banashankari,Cafe,Yes,No,3.0,62,400,"Cafe, French, North Indian",Dine-out,Banashankari,Medium,Average
+Green Gardenia,Banashankari,Casual Dining,Yes,No,3.8,160,700,"North Indian, Chinese",Dine-out,Banashankari,Medium,Average
+Kadala Tarangaa,Banashankari,Casual Dining,Yes,No,3.6,129,600,"Mangalorean, Seafood, North Indian",Dine-out,Banashankari,Medium,Average
+Vi Ra's Bar and Restaurant,Banashankari,Bar,No,No,3.3,62,800,"South Indian, North Indian, Chinese",Dine-out,Banashankari,High,Average
+Nandhini Deluxe,Banashankari,Casual Dining,No,No,2.6,283,600,North Indian,Dine-out,Banashankari,Medium,Poor
+J Spice,Banashankari,Casual Dining,Yes,No,3.8,59,750,"North Indian, Chinese",Dine-out,Banashankari,High,Average
+Swadesh Tadka,Banashankari,Casual Dining,Yes,No,3.5,179,600,"North Indian, Chinese, Beverages",Dine-out,Banashankari,Medium,Average
+Iyer's Tiffin Centre,Banashankari,Quick Bites,No,No,3.8,62,150,"South Indian, Chinese",Dine-out,Banashankari,Low,Average
+Darbar,Banashankari,Bar,No,No,3.0,98,800,"North Indian, Chinese",Dine-out,Banashankari,High,Average
+Beijing Bites,Banashankari,Casual Dining,No,No,2.7,128,850,"Chinese, Thai",Dine-out,Banashankari,High,Poor
+The Pizzeria,Banashankari,Casual Dining,Yes,No,2.8,45,800,"Pizza, Italian, Salad",Dine-out,Banashankari,High,Poor
+As On Fire,South Bangalore,Food Truck,Yes,No,3.5,41,400,"Pizza, Fast Food, BBQ",Dine-out,Banashankari,Medium,Average
+Pizza Hut,Banashankari,Casual Dining,Yes,No,3.7,405,750,"Pizza, Fast Food",Dine-out,Banashankari,High,Average
+New Prashanth Hotel,Banashankari,Casual Dining,Yes,No,3.9,388,650,"Biryani, North Indian, Seafood, Andhra",Dine-out,Banashankari,Medium,Average
+Taaza Thindi,Banashankari,Quick Bites,No,No,4.7,651,100,South Indian,Dine-out,Banashankari,Low,Excellent
+Ayodhya Upachar,Banashankari,Quick Bites,Yes,No,4.3,734,200,"South Indian, North Indian, Chinese, Street Food",Dine-out,Banashankari,Low,Excellent
+Roving Feast,Banashankari,Quick Bites,No,No,4.0,1047,450,"Italian, Continental, Fast Food, Chinese, Momos",Dine-out,Banashankari,Medium,Excellent
+KFC,Banashankari,Quick Bites,Yes,No,3.8,505,450,"Burger, Fast Food",Dine-out,Banashankari,Medium,Average
+Gama Gama,Banashankari,Quick Bites,Yes,No,3.9,264,200,South Indian,Dine-out,Banashankari,Low,Average
+McDonald's,Banashankari,Quick Bites,Yes,No,3.9,286,500,"Burger, Fast Food",Dine-out,Banashankari,Medium,Average
+Sri Laxmi Venkateshwara Coffee Bar,Banashankari,Quick Bites,No,No,4.4,343,100,South Indian,Dine-out,Banashankari,Low,Excellent
+Messy Bowl,Banashankari,Quick Bites,No,No,3.8,70,500,"Fast Food, Beverages",Dine-out,Banashankari,Medium,Average
+Janahaar,Banashankari,Quick Bites,Yes,No,3.8,70,100,South Indian,Dine-out,Banashankari,Low,Average
+Chumma Delicious,Banashankari,Quick Bites,Yes,No,3.7,237,200,"South Indian, Fast Food",Dine-out,Banashankari,Low,Average
+Bengaluru Coffee House,Banashankari,Quick Bites,Yes,No,4.1,201,300,"South Indian, North Indian, Chinese, Street Food",Dine-out,Banashankari,Medium,Excellent
+Foodiction,Banashankari,Quick Bites,Yes,No,2.8,506,500,"North Indian, Fast Food, Chinese, Burger",Dine-out,Banashankari,Medium,Poor
+The Biryani Cafe,Banashankari,Quick Bites,No,No,4.1,520,300,"Biryani, Chinese, Kebab",Dine-out,Banashankari,Medium,Excellent
+Addhuri Udupi Bhojana,Banashankari,Quick Bites,No,No,3.7,88,300,"South Indian, North Indian",Dine-out,Banashankari,Medium,Average
+Subway,Banashankari,Quick Bites,Yes,No,3.7,136,600,"Salad, Fast Food",Dine-out,Banashankari,Medium,Average
+Hotel Mangala,Banashankari,Quick Bites,No,No,3.9,88,250,South Indian,Dine-out,Banashankari,Low,Average
+SLV Swadishta,Banashankari,Quick Bites,No,No,3.8,189,300,South Indian,Dine-out,Banashankari,Medium,Average
+Upahar Sagar,Banashankari,Quick Bites,No,No,3.8,39,350,"South Indian, Chinese, North Indian",Dine-out,Banashankari,Medium,Average
+Domino's Pizza,Banashankari,Quick Bites,Yes,No,3.9,540,800,"Pizza, Fast Food",Dine-out,Banashankari,High,Average
+New Sagar Fast Food,Banashankari,Quick Bites,No,No,3.6,71,250,"North Indian, South Indian",Dine-out,Banashankari,Low,Average
+Chicken Hunt,Banashankari,Quick Bites,Yes,No,3.5,88,350,"South Indian, North Indian, Chinese, Biryani",Dine-out,Banashankari,Medium,Average
+Pizza Stop,Banashankari,Quick Bites,Yes,No,3.0,87,600,"Pizza, Italian",Dine-out,Banashankari,Medium,Average
+Faasos,Banashankari,Quick Bites,Yes,No,4.2,415,500,"North Indian, Biryani, Fast Food",Dine-out,Banashankari,Medium,Excellent
+Rasoi,Banashankari,Quick Bites,Yes,No,3.3,128,300,"North Indian, Chinese",Dine-out,Banashankari,Medium,Average
+SLV Refreshment,Banashankari,Quick Bites,No,No,4.1,94,100,South Indian,Dine-out,Banashankari,Low,Excellent
+Chatar Patar,Banashankari,Quick Bites,No,No,3.7,65,300,"Fast Food, Street Food",Dine-out,Banashankari,Medium,Average
+Kidambi's Kitchen,Banashankari,Quick Bites,No,No,3.5,52,300,South Indian,Dine-out,Banashankari,Medium,Average
+Tandoori Knight,Banashankari,Quick Bites,Yes,No,3.0,290,450,"North Indian, Chinese, Biryani, Kebab",Dine-out,Banashankari,Medium,Average
+Utsav,Banashankari,Quick Bites,Yes,No,3.7,59,200,"North Indian, Street Food",Dine-out,Banashankari,Low,Average
+Mane Thindi,Banashankari,Quick Bites,No,No,3.7,130,200,South Indian,Dine-out,Banashankari,Low,Average
+Juicy Momos,Banashankari,Quick Bites,Yes,No,3.5,80,250,"Tibetan, Momos",Dine-out,Banashankari,Low,Average
+Donne Biriyani House,Banashankari,Quick Bites,Yes,No,3.9,441,400,"South Indian, North Indian, Chinese, Biryani",Dine-out,Banashankari,Medium,Average
+Matru Sagar,Banashankari,Quick Bites,Yes,No,3.6,84,250,"South Indian, North Indian, Chinese",Dine-out,Banashankari,Low,Average
+Kavali,Banashankari,Quick Bites,No,No,4.0,42,300,"South Indian, Street Food",Dine-out,Banashankari,Medium,Excellent
+Bunt's Biriyani Palace,Banashankari,Quick Bites,Yes,No,3.0,213,400,"North Indian, South Indian, Chinese, Biryani, Seafood",Dine-out,Banashankari,Medium,Average
+Ranganna Military Hotel,Jayanagar,Quick Bites,No,No,4.2,725,350,"South Indian, Biryani",Dine-out,Banashankari,Medium,Excellent
+Roti Ghar,Basavanagudi,Casual Dining,Yes,No,3.9,750,500,"North Indian, Chinese, South Indian",Dine-out,Banashankari,Medium,Average
+Grand Village,Basavanagudi,Casual Dining,No,No,3.8,166,600,"North Indian, Rajasthani",Dine-out,Banashankari,Medium,Average
+Vidyarthi Bhavan,Basavanagudi,Quick Bites,No,No,4.4,4460,150,South Indian,Dine-out,Banashankari,Low,Excellent
+Bharjari Oota,Basavanagudi,Casual Dining,No,No,3.9,153,350,South Indian,Dine-out,Banashankari,Medium,Average
+Gokul Veg,Basavanagudi,Casual Dining,Yes,No,3.8,469,750,"North Indian, Chinese, Beverages",Dine-out,Banashankari,High,Average
+SLV Corner Restaurant,Basavanagudi,Casual Dining,Yes,No,4.1,364,550,"South Indian, Chinese, North Indian, Street Food, Rolls, Juices",Dine-out,Banashankari,Medium,Excellent
+Timepass Dinner,Basavanagudi,Casual Dining,Yes,No,3.8,286,600,North Indian,Dine-out,Banashankari,Medium,Average
+Baisakhi,Basavanagudi,Casual Dining,Yes,No,3.8,527,500,North Indian,Dine-out,Banashankari,Medium,Average
+Eat Repeat,Basavanagudi,Quick Bites,Yes,No,3.9,101,150,South Indian,Dine-out,Banashankari,Low,Average
+Sri Guru Kottureshwara Davangere Benne Dosa,Basavanagudi,Quick Bites,Yes,No,4.1,558,150,South Indian,Dine-out,Banashankari,Low,Excellent
+Srinathji's Cafe,Basavanagudi,"Casual Dining, Cafe",No,No,3.8,148,550,"North Indian, Cafe, Chinese, Fast Food",Dine-out,Banashankari,Medium,Average
+Soho Bar & Grill,Basavanagudi,Pub,No,No,2.7,377,1100,"North Indian, Chinese, Thai",Dine-out,Banashankari,High,Poor
+Kollapuri's,Basavanagudi,Quick Bites,No,No,3.9,206,450,"South Indian, Mangalorean",Dine-out,Banashankari,Medium,Average
+Bhavani Restaurant,Basavanagudi,Quick Bites,No,No,3.9,100,300,"South Indian, North Indian, Chinese",Dine-out,Banashankari,Medium,Average
+Puliyogare Point,Basavanagudi,Quick Bites,Yes,No,4.2,444,100,South Indian,Dine-out,Banashankari,Low,Excellent
+Zephyr,Basavanagudi,Casual Dining,No,No,3.9,133,650,"Italian, Continental",Dine-out,Banashankari,Medium,Average
+Redberrys,Basavanagudi,Cafe,Yes,No,4.0,219,600,"Cafe, Italian",Dine-out,Banashankari,Medium,Excellent
+Hotel Dwarka,Basavanagudi,Quick Bites,No,No,4.2,253,250,South Indian,Dine-out,Banashankari,Low,Excellent
+Ma-Arya Family Restaurant,Basavanagudi,Casual Dining,No,No,3.7,61,600,"Biryani, South Indian, North Indian, Chinese, Andhra",Dine-out,Banashankari,Medium,Average
+A2B - Adyar Ananda Bhavan,Mysore Road,Casual Dining,Yes,No,3.8,155,400,"South Indian, Fast Food, Street Food",Dine-out,Banashankari,Medium,Average
+Ragoo's,Jayanagar,Casual Dining,Yes,No,3.9,233,800,"Italian, Pizza, North Indian, Salad",Dine-out,Banashankari,High,Average
+Imperial Restaurant,Mysore Road,Casual Dining,Yes,No,3.7,264,750,"North Indian, Chinese, Biryani, Beverages",Dine-out,Banashankari,High,Average
+Udupi Sri Krishna Bhavan,Basavanagudi,Quick Bites,No,No,4.1,238,600,South Indian,Dine-out,Banashankari,Medium,Excellent
+Curry Leaves,Basavanagudi,Casual Dining,Yes,No,4.1,176,800,"Andhra, North Indian, Chinese",Dine-out,Banashankari,High,Excellent
+Goli Vada Pav No. 1,Basavanagudi,Quick Bites,Yes,No,3.7,93,200,Street Food,Dine-out,Banashankari,Low,Average
+Ice Thunder,Basavanagudi,Quick Bites,No,No,3.8,124,300,"South Indian, Fast Food, North Indian, Desserts",Dine-out,Banashankari,Medium,Average
+South Kitchen,Basavanagudi,Quick Bites,Yes,No,4.3,275,100,South Indian,Dine-out,Banashankari,Low,Excellent
+Upahara Darshini,Basavanagudi,Quick Bites,No,No,4.2,254,150,South Indian,Dine-out,Banashankari,Low,Excellent
+Mahalaxmi Tiffin Room,Basavanagudi,Quick Bites,No,No,4.1,177,100,South Indian,Dine-out,Banashankari,Low,Excellent
+Sandwichwallas,Basavanagudi,Quick Bites,Yes,No,4.0,132,200,Fast Food,Dine-out,Banashankari,Low,Excellent
+Udupi Grand,Basavanagudi,Quick Bites,Yes,No,3.8,74,300,"South Indian, North Indian, Chinese",Dine-out,Banashankari,Medium,Average
+Castle Rock,Uttarahalli,Casual Dining,Yes,No,3.6,172,700,"North Indian, Chinese",Dine-out,Banashankari,Medium,Average
+Kamat Bugle Rock,Basavanagudi,Quick Bites,Yes,No,3.9,543,300,"South Indian, Fast Food",Dine-out,Banashankari,Medium,Average
+Basavanagudi Mylari,Basavanagudi,Quick Bites,No,No,4.0,52,300,South Indian,Dine-out,Banashankari,Medium,Excellent
+RS Shiv Sagar,Basavanagudi,Casual Dining,No,No,3.7,217,450,"North Indian, Chinese, South Indian, Fast Food, Juices",Dine-out,Banashankari,Medium,Average
+Pramukh Family Restaurant,Basavanagudi,Casual Dining,No,No,3.9,111,700,"North Indian, Chinese, Mughlai",Dine-out,Banashankari,Medium,Average
+Chaatimes,Basavanagudi,Quick Bites,Yes,No,3.8,133,200,"Street Food, Fast Food",Dine-out,Banashankari,Low,Average
+Vybhava,Jayanagar,Quick Bites,No,No,3.8,39,250,"South Indian, North Indian",Dine-out,Banashankari,Low,Average
+Shree Venkateshwara North Karnataka Hotel,Basavanagudi,Quick Bites,No,No,4.0,64,200,South Indian,Dine-out,Banashankari,Low,Excellent
+Harshi Super Sandwich,Basavanagudi,Quick Bites,No,No,3.8,148,150,"Fast Food, Street Food",Dine-out,Banashankari,Low,Average
+Belly Squad Food Truck,South Bangalore,Food Truck,No,No,3.8,55,300,"Chinese, Rolls, Biryani, Momos",Dine-out,Banashankari,Medium,Average
+Jcubez,Banashankari,Lounge,No,Yes,3.8,977,1300,Finger Food,Drinks & nightlife,Banashankari,High,Average
+Gustoes Beer House,Banashankari,Pub,No,No,4.1,868,1200,"Continental, Italian, Mexican, North Indian, Chinese, Steak",Drinks & nightlife,Banashankari,High,Excellent
+Vi Ra's Bar and Restaurant,Banashankari,Bar,No,No,3.3,62,800,"South Indian, North Indian, Chinese",Drinks & nightlife,Banashankari,High,Average
+Darbar,Banashankari,Bar,No,No,3.0,98,800,"North Indian, Chinese",Drinks & nightlife,Banashankari,High,Average
+Soho Bar & Grill,Basavanagudi,Pub,No,No,2.7,377,1100,"North Indian, Chinese, Thai",Drinks & nightlife,Banashankari,High,Poor
+Deja Vu Resto Bar,Bannerghatta Road,Pub,Yes,Yes,4.4,2487,900,"North Indian, Italian",Buffet,Bannerghatta Road,High,Excellent
+Fattoush,Bannerghatta Road,Casual Dining,Yes,Yes,4.2,1964,1000,"Arabian, Biryani, Chinese, Middle Eastern, Fast Food, North Indian, Mughlai, Seafood",Buffet,Bannerghatta Road,High,Excellent
+Empire Restaurant,Bannerghatta Road,Casual Dining,Yes,No,4.3,3178,750,"North Indian, Mughlai, South Indian, Chinese",Buffet,Bannerghatta Road,High,Excellent
+Abhiruchi Hotel,Bannerghatta Road,Casual Dining,Yes,No,3.3,455,550,"Andhra, Biryani, North Indian, Chinese",Buffet,Bannerghatta Road,Medium,Average
+Barbeque Nation,JP Nagar,Casual Dining,No,Yes,4.7,3845,1600,"North Indian, European, Mediterranean, BBQ, Kebab",Buffet,Bannerghatta Road,High,Excellent
+Sattvam,JP Nagar,Casual Dining,No,No,4.3,353,1200,"North Indian, South Indian",Buffet,Bannerghatta Road,High,Excellent
+24th Main,JP Nagar,Casual Dining,No,Yes,4.1,1234,800,"North Indian, South Indian, Chinese",Buffet,Bannerghatta Road,High,Excellent
+Zaitoon,JP Nagar,Casual Dining,Yes,Yes,4.1,1538,1000,"BBQ, Arabian, Chinese, North Indian, Desserts",Buffet,Bannerghatta Road,High,Excellent
+Oye Amritsar,JP Nagar,Casual Dining,Yes,Yes,3.8,756,1000,North Indian,Buffet,Bannerghatta Road,High,Average
+Melt - Eden Park,JP Nagar,Casual Dining,Yes,Yes,4.0,347,1000,"North Indian, Chinese, Thai, Mughlai, Seafood",Buffet,Bannerghatta Road,High,Excellent
+Spice Code,JP Nagar,Casual Dining,No,Yes,4.0,165,1000,"South Indian, North Indian, Chinese, Biryani",Buffet,Bannerghatta Road,High,Excellent
+The Onyx - The HHI Select Bengaluru,JP Nagar,Casual Dining,No,No,3.3,177,950,"North Indian, Chinese, Continental",Buffet,Bannerghatta Road,High,Average
+Sankranthi Veg Restaurant,BTM,Casual Dining,Yes,No,3.0,102,600,"South Indian, North Indian, Chinese",Buffet,Bannerghatta Road,Medium,Average
+Cafe Kabana,Bannerghatta Road,Cafe,No,Yes,4.0,200,700,"Cafe, Continental",Cafes,Bannerghatta Road,Medium,Excellent
+Butterly,Bannerghatta Road,Cafe,Yes,No,3.9,102,450,"Cafe, Bakery, Beverages",Cafes,Bannerghatta Road,Medium,Average
+Black Mug Cafe,Bannerghatta Road,Cafe,Yes,No,3.7,171,300,Cafe,Cafes,Bannerghatta Road,Medium,Average
+#refuel,Bannerghatta Road,Cafe,Yes,No,3.7,37,400,"Cafe, Beverages",Cafes,Bannerghatta Road,Medium,Average
+WAFL,Bannerghatta Road,Food Court,Yes,No,3.9,40,400,"Cafe, Fast Food, Desserts, Beverages",Cafes,Bannerghatta Road,Medium,Average
+Vaho Kafe & Pressery,Bannerghatta Road,Cafe,No,No,3.9,125,500,"Cafe, Healthy Food, Asian, Italian, North Indian, Biryani, Juices",Cafes,Bannerghatta Road,Medium,Average
+Dreamcatcher,Bannerghatta Road,Cafe,Yes,No,3.9,49,600,Cafe,Cafes,Bannerghatta Road,Medium,Average
+Cafe Arabica,Bannerghatta Road,"Cafe, Bakery",No,No,3.8,69,700,"Cafe, Bakery",Cafes,Bannerghatta Road,Medium,Average
+Kalmane Koffees,Bannerghatta Road,Cafe,No,No,3.9,78,350,Cafe,Cafes,Bannerghatta Road,Medium,Average
+Brews N Bites,Bannerghatta Road,"Quick Bites, Cafe",Yes,No,2.7,48,650,"Chinese, Fast Food, Cafe, Street Food, Finger Food",Cafes,Bannerghatta Road,Medium,Poor
+Slate Cafe,JP Nagar,Cafe,Yes,No,4.1,46,600,"Cafe, Sandwich, Burger",Cafes,Bannerghatta Road,Medium,Excellent
+Dialogues,JP Nagar,Cafe,No,No,4.0,129,600,"Cafe, Continental",Cafes,Bannerghatta Road,Medium,Excellent
+Mudpipe Cafe,JP Nagar,Cafe,Yes,Yes,3.9,727,800,"Cafe, Continental, North Indian",Cafes,Bannerghatta Road,High,Average
+TAB - Take A Break,JP Nagar,Cafe,No,No,4.1,521,550,"Cafe, Continental, Italian",Cafes,Bannerghatta Road,Medium,Excellent
+Biggies Burger 'n' More,JP Nagar,"Quick Bites, Cafe",Yes,No,4.1,203,650,"Cafe, Burger, Beverages",Cafes,Bannerghatta Road,Medium,Excellent
+Onesta,JP Nagar,"Casual Dining, Cafe",Yes,Yes,4.4,4381,600,"Pizza, Cafe, Italian",Cafes,Bannerghatta Road,Medium,Excellent
+Cafe Potpourri,JP Nagar,Cafe,Yes,No,3.7,131,400,"Cafe, Sandwich, North Indian, Beverages, Desserts",Cafes,Bannerghatta Road,Medium,Average
+Vinaya Coffee Moments,JP Nagar,Cafe,Yes,No,3.7,46,450,"Burger, Cafe, Desserts, Sandwich, Italian",Cafes,Bannerghatta Road,Medium,Average
+Cuppa,JP Nagar,Cafe,No,No,3.4,48,550,"Cafe, Fast Food",Cafes,Bannerghatta Road,Medium,Average
+Skytouch Le Cafe,JP Nagar,Cafe,Yes,No,3.7,127,700,"Cafe, Italian, Desserts",Cafes,Bannerghatta Road,Medium,Average
+Woodee Pizza,JP Nagar,Cafe,Yes,No,2.7,85,500,"Cafe, Pizza, Fast Food, Beverages",Cafes,Bannerghatta Road,Medium,Poor
+Sai Abhiruchi,BTM,Casual Dining,Yes,No,3.7,335,800,"Andhra, North Indian, Biryani",Delivery,Bannerghatta Road,High,Average
+Capsicum Family Restaurant,BTM,Casual Dining,Yes,No,3.8,254,800,"Biryani, North Indian",Delivery,Bannerghatta Road,High,Average
+Easy Bites,JP Nagar,"Takeaway, Delivery",Yes,No,4.1,63,300,"Fast Food, Sandwich",Delivery,Bannerghatta Road,Medium,Excellent
+Hiyar Majhe Kolkata,BTM,Quick Bites,Yes,No,4.0,244,400,"Bengali, North Indian",Delivery,Bannerghatta Road,Medium,Excellent
+Sri Lakshmi Dhaba,BTM,Quick Bites,Yes,No,2.9,255,250,North Indian,Delivery,Bannerghatta Road,Low,Poor
+XO Belgian Waffle,BTM,Dessert Parlor,Yes,No,4.5,549,400,"Desserts, Beverages",Delivery,Bannerghatta Road,Medium,Excellent
+Swadista Aahar,BTM,Quick Bites,Yes,No,4.1,775,300,"South Indian, North Indian, Chinese, Street Food",Delivery,Bannerghatta Road,Medium,Excellent
+Al-Bek,JP Nagar,"Takeaway, Delivery",Yes,No,3.6,208,300,"Biryani, North Indian, Charcoal Chicken, Chinese, Seafood, Rolls",Delivery,Bannerghatta Road,Medium,Average
+Aniram's,JP Nagar,Delivery,Yes,No,4.1,739,500,"Chinese, North Indian",Delivery,Bannerghatta Road,Medium,Excellent
+Punjabi Nawabi,Bannerghatta Road,Quick Bites,Yes,No,3.8,310,400,North Indian,Delivery,Bannerghatta Road,Medium,Average
+Swad Punjab Da,BTM,Quick Bites,Yes,No,4.0,126,150,North Indian,Delivery,Bannerghatta Road,Low,Excellent
+BOX8- Desi Meals,Bannerghatta Road,"Takeaway, Delivery",Yes,No,4.1,427,500,"North Indian, Mughlai, Fast Food",Delivery,Bannerghatta Road,Medium,Excellent
+Roti Wala,BTM,Quick Bites,Yes,No,4.0,197,300,North Indian,Delivery,Bannerghatta Road,Medium,Excellent
+Midnight Mania,BTM,Quick Bites,Yes,No,4.1,601,700,"Pizza, Italian, Beverages",Delivery,Bannerghatta Road,Medium,Excellent
+Kitchens@JP Nagar,JP Nagar,"Takeaway, Delivery",Yes,No,3.9,488,400,"Biryani, Kerala, Mughlai, Street Food, North Indian, Chinese, South Indian, Andhra",Delivery,Bannerghatta Road,Medium,Average
+Krishna Kuteera,Bannerghatta Road,Quick Bites,Yes,No,4.0,396,400,"South Indian, North Indian, Chinese",Delivery,Bannerghatta Road,Medium,Excellent
+Apna Punjab,BTM,Quick Bites,Yes,No,3.6,474,450,"North Indian, Chinese, Fast Food",Delivery,Bannerghatta Road,Medium,Average
+Paratha Junction,BTM,Quick Bites,Yes,No,2.9,172,300,"North Indian, Chinese",Delivery,Bannerghatta Road,Medium,Poor
+Nellore Bhojanam,Bannerghatta Road,Quick Bites,Yes,No,3.1,175,250,Andhra,Delivery,Bannerghatta Road,Low,Average
+Momoz,BTM,Casual Dining,Yes,No,4.0,939,600,"Chinese, Momos",Delivery,Bannerghatta Road,Medium,Excellent
+Kalingas,BTM,Quick Bites,Yes,No,3.9,173,250,"Oriya, Fast Food",Delivery,Bannerghatta Road,Low,Average
+Kanteen The Eatery,Bannerghatta Road,Quick Bites,Yes,No,3.9,77,400,North Indian,Delivery,Bannerghatta Road,Medium,Average
+Kullad Cafe,BTM,Cafe,Yes,No,3.9,326,200,"North Indian, Cafe, Fast Food, Beverages",Delivery,Bannerghatta Road,Low,Average
+Donne Biriyani House,JP Nagar,Quick Bites,Yes,No,3.3,212,350,"Biryani, Andhra",Delivery,Bannerghatta Road,Medium,Average
+Litti Twist,BTM,Quick Bites,Yes,No,4.1,464,300,"North Indian, Bihari",Delivery,Bannerghatta Road,Medium,Excellent
+FreshMenu,Bannerghatta Road,Delivery,Yes,No,3.3,628,450,"Healthy Food, Chinese, Biryani, North Indian, Continental, Salad, American, Burger",Delivery,Bannerghatta Road,Medium,Average
+Shanthi Sagar,JP Nagar,Casual Dining,Yes,No,3.6,518,400,"South Indian, North Indian, Chinese",Delivery,Bannerghatta Road,Medium,Average
+Cakebuy,Bannerghatta Road,Dessert Parlor,Yes,No,3.9,70,350,Desserts,Delivery,Bannerghatta Road,Medium,Average
+Five Star Chicken,JP Nagar,Quick Bites,Yes,No,3.9,62,300,"Burger, Fast Food, Roast Chicken, Finger Food",Delivery,Bannerghatta Road,Medium,Average
+Corner House Ice Cream,Jayanagar,Dessert Parlor,Yes,No,4.4,819,400,"Ice Cream, Desserts",Delivery,Bannerghatta Road,Medium,Excellent
+Fattoush,Bannerghatta Road,Casual Dining,Yes,Yes,4.2,1964,1000,"Arabian, Biryani, Chinese, Middle Eastern, Fast Food, North Indian, Mughlai, Seafood",Delivery,Bannerghatta Road,High,Excellent
+Behrouz Biryani,Bannerghatta Road,Delivery,Yes,No,4.0,138,650,Biryani,Delivery,Bannerghatta Road,Medium,Excellent
+Abhiruchi Hotel,Bannerghatta Road,Casual Dining,Yes,No,3.3,455,550,"Andhra, Biryani, North Indian, Chinese",Delivery,Bannerghatta Road,Medium,Average
+Hind Ka Chulah,Bannerghatta Road,Food Court,Yes,No,3.8,181,600,"North Indian, Biryani",Delivery,Bannerghatta Road,Medium,Average
+Bohra Bohra CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,JP Nagar,Quick Bites,Yes,No,3.6,43,300,Bohri,Delivery,Bannerghatta Road,Medium,Average
+Pizza Hut,JP Nagar,Quick Bites,Yes,No,2.7,159,750,Pizza,Delivery,Bannerghatta Road,High,Poor
+Subway,Bannerghatta Road,Quick Bites,Yes,No,3.2,166,600,"Salad, Fast Food",Delivery,Bannerghatta Road,Medium,Average
+Biryani Durbar,Bannerghatta Road,"Takeaway, Delivery",Yes,No,3.7,128,400,"Biryani, North Indian",Delivery,Bannerghatta Road,Medium,Average
+Mahesh Friends Food Center,BTM,Quick Bites,Yes,No,2.9,126,300,"Chinese, North Indian",Delivery,Bannerghatta Road,Medium,Poor
+Kabab Magic,Jayanagar,Quick Bites,Yes,No,4.0,952,400,"North Indian, Kebab, Chinese, Fast Food",Delivery,Bannerghatta Road,Medium,Excellent
+Burger King,Bannerghatta Road,Quick Bites,Yes,No,3.8,472,600,"Burger, Fast Food, Beverages",Delivery,Bannerghatta Road,Medium,Average
+Dadi's Dum Biryani,Bannerghatta Road,Casual Dining,Yes,Yes,4.0,739,800,"Biryani, North Indian, Mughlai",Delivery,Bannerghatta Road,High,Excellent
+Alankrutha,BTM,Casual Dining,Yes,No,3.9,255,500,"Andhra, Biryani, North Indian, Chinese",Delivery,Bannerghatta Road,Medium,Average
+Paradise,JP Nagar,Casual Dining,Yes,No,4.0,1974,800,"Biryani, North Indian, Kebab",Delivery,Bannerghatta Road,High,Excellent
+Andhra Ruchulu,JP Nagar,Casual Dining,Yes,Yes,4.2,1428,800,"Andhra, North Indian",Delivery,Bannerghatta Road,High,Excellent
+Adithya,JP Nagar,Quick Bites,Yes,No,4.0,332,300,"South Indian, North Indian, Chinese",Delivery,Bannerghatta Road,Medium,Excellent
+Cheesiano Pizza,JP Nagar,Quick Bites,Yes,Yes,4.0,199,700,"Pizza, Italian",Delivery,Bannerghatta Road,Medium,Excellent
+KFC,JP Nagar,Quick Bites,Yes,No,3.9,437,400,"Burger, Fast Food",Delivery,Bannerghatta Road,Medium,Average
+Dande's Hyderabad Biryani,Bannerghatta Road,Casual Dining,Yes,No,3.8,207,700,"Biryani, Andhra, North Indian",Delivery,Bannerghatta Road,Medium,Average
+Onesta,JP Nagar,"Casual Dining, Cafe",Yes,Yes,4.4,4381,600,"Pizza, Cafe, Italian",Delivery,Bannerghatta Road,Medium,Excellent
+Upahara Bhavan,Bannerghatta Road,Quick Bites,Yes,No,3.8,55,300,"South Indian, North Indian, Chinese",Delivery,Bannerghatta Road,Medium,Average
+Shuddh Desi Khana,Bannerghatta Road,Quick Bites,Yes,No,4.0,597,400,North Indian,Delivery,Bannerghatta Road,Medium,Excellent
+Sankranthi Veg Restaurant,BTM,Casual Dining,Yes,No,3.0,102,600,"South Indian, North Indian, Chinese",Delivery,Bannerghatta Road,Medium,Average
+Aramane Donne Biriyani,BTM,Quick Bites,Yes,No,3.9,189,300,"Biryani, Fast Food",Delivery,Bannerghatta Road,Medium,Average
+Cafe Potpourri,JP Nagar,Cafe,Yes,No,3.7,131,400,"Cafe, Sandwich, North Indian, Beverages, Desserts",Delivery,Bannerghatta Road,Medium,Average
+Mani's Dum Biryani,JP Nagar,Casual Dining,Yes,No,4.2,373,750,"Biryani, Kebab",Delivery,Bannerghatta Road,High,Excellent
+Amontron,BTM,Casual Dining,Yes,No,3.9,435,650,Bengali,Delivery,Bannerghatta Road,Medium,Average
+Birinz,BTM,Casual Dining,Yes,No,4.1,292,700,"Biryani, Chinese, Mughlai, Fast Food, Kebab",Delivery,Bannerghatta Road,Medium,Excellent
+Just Shawarma,Bannerghatta Road,Quick Bites,Yes,No,3.6,137,300,Arabian,Delivery,Bannerghatta Road,Medium,Average
+Hyderabadi Bawarchi,Bannerghatta Road,Casual Dining,Yes,No,3.2,133,500,"North Indian, Chinese, Biryani",Delivery,Bannerghatta Road,Medium,Average
+Fish Chain,JP Nagar,"Takeaway, Delivery",Yes,No,3.9,37,250,"Seafood, BBQ, Biryani",Delivery,Bannerghatta Road,Low,Average
+Prasiddhi Food Corner,JP Nagar,Quick Bites,Yes,No,3.7,170,200,"Fast Food, North Indian, South Indian",Delivery,Bannerghatta Road,Low,Average
+Hyderabad Biryaani House,Bannerghatta Road,Casual Dining,Yes,No,3.6,794,550,"Biryani, North Indian, Chinese",Delivery,Bannerghatta Road,Medium,Average
+Galito's,Bannerghatta Road,Casual Dining,Yes,No,4.6,404,1000,"African, Burger",Delivery,Bannerghatta Road,High,Excellent
+Rajdhani Thali Restaurant,Bannerghatta Road,Casual Dining,Yes,Yes,3.9,561,900,North Indian,Delivery,Bannerghatta Road,High,Average
+PHEW (Play Hard Eat Wild),BTM,Cafe,Yes,Yes,3.9,486,700,"Continental, Lebanese, Middle Eastern, North Indian, Chinese, BBQ, Cafe",Delivery,Bannerghatta Road,Medium,Average
+Chicken County Grand,Bannerghatta Road,Casual Dining,Yes,No,3.9,320,650,"North Indian, Chinese",Delivery,Bannerghatta Road,Medium,Average
+Roll Over,JP Nagar,Dessert Parlor,Yes,No,4.1,237,500,"Desserts, Ice Cream, Beverages, Fast Food, Sandwich",Delivery,Bannerghatta Road,Medium,Excellent
+Savoury - Sea Shell Restaurant,Bannerghatta Road,Casual Dining,Yes,Yes,3.9,1227,900,"Arabian, North Indian, Chinese, Seafood, Biryani, Rolls, Beverages",Delivery,Bannerghatta Road,High,Average
+Firangi Bake,Bannerghatta Road,Delivery,Yes,No,4.0,95,600,"Mexican, Italian",Delivery,Bannerghatta Road,Medium,Excellent
+Zaitoon,JP Nagar,Casual Dining,Yes,Yes,4.1,1538,1000,"BBQ, Arabian, Chinese, North Indian, Desserts",Delivery,Bannerghatta Road,High,Excellent
+Kundana,Bannerghatta Road,Casual Dining,Yes,No,3.7,110,800,"Andhra, Biryani",Delivery,Bannerghatta Road,High,Average
+The Shawarma Shop,BTM,Quick Bites,Yes,No,4.1,381,250,Arabian,Delivery,Bannerghatta Road,Low,Excellent
+Faasos,Bannerghatta Road,Delivery,Yes,No,3.9,251,500,"North Indian, Biryani, Fast Food",Delivery,Bannerghatta Road,Medium,Average
+Punjabi Food Corner,JP Nagar,Quick Bites,Yes,No,3.0,353,400,"North Indian, Chinese, Street Food",Delivery,Bannerghatta Road,Medium,Average
+Mealer.in,JP Nagar,Delivery,Yes,No,4.0,205,450,"North Indian, Biryani",Delivery,Bannerghatta Road,Medium,Excellent
+Pathaan Sir,BTM,Quick Bites,Yes,No,3.9,183,250,"Fast Food, Rolls, Momos",Delivery,Bannerghatta Road,Low,Average
+Cold Stone Creamery,Bannerghatta Road,Dessert Parlor,Yes,No,3.9,99,400,"Ice Cream, Desserts",Delivery,Bannerghatta Road,Medium,Average
+Amritsari Kulcha Land,JP Nagar,Quick Bites,Yes,No,4.1,260,300,North Indian,Delivery,Bannerghatta Road,Medium,Excellent
+Chokha Chowka,BTM,Quick Bites,Yes,No,3.9,355,400,"North Indian, Chinese",Delivery,Bannerghatta Road,Medium,Average
+Gorbandh,BTM,Quick Bites,Yes,No,4.1,83,400,"Fast Food, North Indian",Delivery,Bannerghatta Road,Medium,Excellent
+Grills & Rolls,JP Nagar,Quick Bites,Yes,No,2.5,321,400,"North Indian, Chinese, Fast Food, Rolls, Juices",Delivery,Bannerghatta Road,Medium,Poor
+Bathinda Junction,BTM,Casual Dining,Yes,No,3.9,362,600,North Indian,Delivery,Bannerghatta Road,Medium,Average
+Stories,JP Nagar,"Pub, Casual Dining",Yes,Yes,4.2,2166,1200,"American, Chinese, Continental, North Indian",Delivery,Bannerghatta Road,High,Excellent
+Kanti Sweets,JP Nagar,Sweet Shop,Yes,No,4.0,182,400,"Mithai, Street Food",Delivery,Bannerghatta Road,Medium,Excellent
+Seasons,Bannerghatta Road,Casual Dining,Yes,Yes,3.8,500,1000,"North Indian, South Indian, Chinese, Seafood, Kerala, Arabian, Juices",Delivery,Bannerghatta Road,High,Average
+Chung Wah,Bannerghatta Road,Casual Dining,Yes,No,4.0,532,800,"Chinese, Thai, Momos, Vietnamese",Delivery,Bannerghatta Road,High,Excellent
+Marwa Restaurant,Bannerghatta Road,Casual Dining,Yes,Yes,3.5,551,600,"North Indian, Chinese, Fast Food, BBQ",Delivery,Bannerghatta Road,Medium,Average
+Shanghai Court,Bannerghatta Road,Casual Dining,Yes,No,4.2,421,700,"Chinese, Thai",Delivery,Bannerghatta Road,Medium,Excellent
+Bhojohori Manna,JP Nagar,Casual Dining,Yes,No,3.7,662,650,"Bengali, Mughlai",Delivery,Bannerghatta Road,Medium,Average
+Hunger Bee,Bannerghatta Road,Quick Bites,Yes,No,3.8,54,500,"Biryani, North Indian, South Indian",Delivery,Bannerghatta Road,Medium,Average
+Yum In My Tum,BTM,Quick Bites,Yes,No,4.1,92,300,"Chinese, Continental, Fast Food, Healthy Food",Delivery,Bannerghatta Road,Medium,Excellent
+Biryani Miya,JP Nagar,Delivery,Yes,No,3.7,36,600,"Biryani, North Indian",Delivery,Bannerghatta Road,Medium,Average
+Chulha Chauki Da Dhaba,JP Nagar,Casual Dining,Yes,No,4.2,2350,800,North Indian,Delivery,Bannerghatta Road,High,Excellent
+Dreamcatcher,Bannerghatta Road,Cafe,Yes,No,3.9,49,600,Cafe,Delivery,Bannerghatta Road,Medium,Average
+Magix's Parattha Roll,BTM,Quick Bites,Yes,No,3.7,184,400,"Fast Food, North Indian, Chinese, Mughlai, Rolls",Delivery,Bannerghatta Road,Medium,Average
+Elegant Dining,Bannerghatta Road,Casual Dining,Yes,Yes,3.6,225,700,"Biryani, North Indian, Chinese",Delivery,Bannerghatta Road,Medium,Average
+Waffle Head,BTM,"Dessert Parlor, Beverage Shop",Yes,No,4.0,35,300,"Desserts, Beverages, Bakery, Ice Cream",Delivery,Bannerghatta Road,Medium,Excellent
+Basmati Delights,BTM,Delivery,Yes,No,4.0,869,500,"Biryani, Chinese, Mughlai, Fast Food, Kebab",Delivery,Bannerghatta Road,Medium,Excellent
+Samosa Singh,JP Nagar,Quick Bites,Yes,No,4.0,153,200,"Street Food, Fast Food, Rolls, Desserts",Delivery,Bannerghatta Road,Low,Excellent
+Cravings,Bannerghatta Road,Quick Bites,Yes,No,3.7,139,400,"North Indian, Chinese, Rolls",Delivery,Bannerghatta Road,Medium,Average
+Matka,Bannerghatta Road,Delivery,Yes,No,3.7,181,500,"Biryani, North Indian",Delivery,Bannerghatta Road,Medium,Average
+Punjabi Swag,BTM,Casual Dining,Yes,No,3.9,669,500,North Indian,Delivery,Bannerghatta Road,Medium,Average
+Taco Bell,Bannerghatta Road,Quick Bites,Yes,No,3.7,168,600,"Mexican, American, Fast Food",Delivery,Bannerghatta Road,Medium,Average
+Mother's Rasoi,Bannerghatta Road,Quick Bites,Yes,No,3.8,170,250,"North Indian, Chinese, Momos",Delivery,Bannerghatta Road,Low,Average
+Dosa Bazaar,JP Nagar,Quick Bites,Yes,No,4.0,112,200,"Street Food, South Indian",Delivery,Bannerghatta Road,Low,Excellent
+The Bong Palate,BTM,Quick Bites,Yes,No,3.8,58,300,"Bengali, North Indian, Chinese",Delivery,Bannerghatta Road,Medium,Average
+Upahara Darshini,Jayanagar,Quick Bites,Yes,No,4.0,167,400,"South Indian, North Indian, Chinese",Delivery,Bannerghatta Road,Medium,Excellent
+Bikaner Jn,JP Nagar,Quick Bites,Yes,No,3.9,85,300,Rajasthani,Delivery,Bannerghatta Road,Medium,Average
+Crunch Pizzas,BTM,Quick Bites,Yes,No,2.6,473,600,"Italian, Pizza",Delivery,Bannerghatta Road,Medium,Poor
+Kakal-Kai Ruchi,JP Nagar,Casual Dining,Yes,No,3.7,217,500,"North Indian, South Indian, Chinese",Delivery,Bannerghatta Road,Medium,Average
+Calorie Express,BTM,Delivery,Yes,No,3.6,192,450,Healthy Food,Delivery,Bannerghatta Road,Medium,Average
+BANGALORE BOX,BTM,"Casual Dining, Bar",Yes,Yes,4.2,611,1500,"Asian, Continental, Finger Food",Delivery,Bannerghatta Road,High,Excellent
+Ovenstory Pizza,Bannerghatta Road,Delivery,Yes,No,4.0,166,750,Pizza,Delivery,Bannerghatta Road,High,Excellent
+Slate Cafe,JP Nagar,Cafe,Yes,No,4.1,46,600,"Cafe, Sandwich, Burger",Delivery,Bannerghatta Road,Medium,Excellent
+Chavadi,Bannerghatta Road,"Casual Dining, Bar",Yes,Yes,4.4,2233,1200,"Continental, North Indian, Pizza, Italian",Delivery,Bannerghatta Road,High,Excellent
+Nanna Munna Paratha House,BTM,Quick Bites,Yes,No,4.0,107,300,North Indian,Delivery,Bannerghatta Road,Medium,Excellent
+Cucumber Town,BTM,Delivery,Yes,No,4.2,306,600,"Kerala, North Indian",Delivery,Bannerghatta Road,Medium,Excellent
+Oye Amritsar,JP Nagar,Casual Dining,Yes,Yes,3.8,756,1000,North Indian,Delivery,Bannerghatta Road,High,Average
+Brewsky,JP Nagar,Microbrewery,Yes,Yes,4.4,4309,1600,"Continental, American",Delivery,Bannerghatta Road,High,Excellent
+Chefeana,Bannerghatta Road,Quick Bites,Yes,No,4.0,212,400,North Indian,Delivery,Bannerghatta Road,Medium,Excellent
+Bangaliana,Bannerghatta Road,Quick Bites,Yes,No,2.9,153,600,Bengali,Delivery,Bannerghatta Road,Medium,Poor
+Gud Dhani,BTM,Casual Dining,Yes,No,4.0,827,500,Rajasthani,Delivery,Bannerghatta Road,Medium,Excellent
+McDonald's,Bannerghatta Road,Quick Bites,Yes,No,4.0,256,500,"Burger, Fast Food",Delivery,Bannerghatta Road,Medium,Excellent
+WAFL,Bannerghatta Road,Food Court,Yes,No,3.9,40,400,"Cafe, Fast Food, Desserts, Beverages",Delivery,Bannerghatta Road,Medium,Average
+Deejas Kitchen,Bannerghatta Road,"Takeaway, Delivery",Yes,No,3.9,73,400,"South Indian, Kerala",Delivery,Bannerghatta Road,Medium,Average
+Pancuzzi,JP Nagar,Cafe,Yes,No,4.2,169,600,"Cafe, Beverages, Desserts",Delivery,Bannerghatta Road,Medium,Excellent
+Zhang's - Chinese Restaurant,JP Nagar,Casual Dining,Yes,No,4.1,586,700,"Chinese, Momos",Delivery,Bannerghatta Road,Medium,Excellent

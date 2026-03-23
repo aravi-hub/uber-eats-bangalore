@@ -34,17 +34,11 @@ CREATE TABLE restaurants (
 )
 """)
 
-# ── Load and clean CSV ──
-df = pd.read_csv("uber_ak.csv")
-df.columns = [c.rstrip(',').strip() for c in df.columns]
-for col in df.select_dtypes(include='object').columns:
-    df[col] = df[col].astype(str).str.strip().str.rstrip(',')
-
-df['rate']        = pd.to_numeric(df['rate'],        errors='coerce')
+# ── Load cleaned CSV (output of data_cleaning.py) ──
+df = pd.read_csv("uber_ak_cleaned.csv")
+df['rate']        = pd.to_numeric(df['rate'],        errors='coerce').fillna(0)
 df['votes']       = pd.to_numeric(df['votes'],       errors='coerce').fillna(0).astype(int)
 df['approx_cost'] = pd.to_numeric(df['approx_cost'], errors='coerce').fillna(0).astype(int)
-df.drop_duplicates(subset=['name','location'], inplace=True)
-df.dropna(subset=['rate'], inplace=True)
 
 # ── Insert restaurants ──
 for _, row in df.iterrows():
