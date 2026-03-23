@@ -1,0 +1,811 @@
+"name,","online_order,","book_table,","rate,","votes,","phone,","location,","rest_type,","dish_liked,","cuisines,","approx_cost,","listed_in_type,","listed_in_city,","price_segment,",rating_category
+Jalsa,Yes,Yes,4.1,775,"080 42297555
++91 9743772233",Banashankari,Casual Dining,"Pasta, Lunch Buffet, Masala Papad, Paneer Lajawab, Tomato Shorba, Dum Biryani, Sweet Corn Soup","North Indian, Mughlai, Chinese",800,Buffet,Banashankari,Medium,Excellent
+Spice Elephant,Yes,No,4.1,787,080 41714161,Banashankari,Casual Dining,"Momos, Lunch Buffet, Chocolate Nirvana, Thai Green Curry, Paneer Tikka, Dum Biryani, Chicken Biryani","Chinese, North Indian, Thai",800,Buffet,Banashankari,Medium,Excellent
+San Churro Cafe,Yes,No,3.8,918,+91 9663487993,Banashankari,"Cafe, Casual Dining","Churros, Cannelloni, Minestrone Soup, Hot Chocolate, Pink Sauce Pasta, Salsa, Veg Supreme Pizza","Cafe, Mexican, Italian",800,Buffet,Banashankari,Medium,Average
+Addhuri Udupi Bhojana,No,No,3.7,88,+91 9620009302,Banashankari,Quick Bites,Masala Dosa,"South Indian, North Indian",300,Buffet,Banashankari,Low,Average
+Grand Village,No,No,3.8,166,"+91 8026612447
++91 9901210005",Basavanagudi,Casual Dining,"Panipuri, Gol Gappe","North Indian, Rajasthani",600,Buffet,Banashankari,Medium,Average
+Timepass Dinner,Yes,No,3.8,286,"+91 9980040002
++91 9980063005",Basavanagudi,Casual Dining,"Onion Rings, Pasta, Kadhai Paneer, Salads, Salad, Roti, Jeera Rice",North Indian,600,Buffet,Banashankari,Medium,Average
+Onesta,Yes,Yes,4.6,2556,"080 48653961
+080 48655715",Banashankari,"Casual Dining, Cafe","Farmhouse Pizza, Chocolate Banana, Virgin Mojito, Pasta, Paneer Tikka, Lime Soda, Prawn Pizza","Pizza, Cafe, Italian",600,Cafes,Banashankari,Medium,Excellent
+Penthouse Cafe,Yes,No,4,324,"+91 8884135549
++91 9449449316",Banashankari,Cafe,"Pizza, Mocktails, Coffee, Nachos, Salad, Pasta, Sandwiches","Cafe, Italian, Continental",700,Cafes,Banashankari,Medium,Excellent
+Smacznego,Yes,No,4.2,504,"+91 9945230807
++91 9743804471",Banashankari,Cafe,"Waffles, Pasta, Coleslaw Sandwich, Choco Waffle, Tacos, Momos, Cheese Nachos","Cafe, Mexican, Italian, Momos, Beverages",550,Cafes,Banashankari,Medium,Excellent
+CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Down The Alley,Yes,No,4.1,402,"080 26724489
++91 7406048982",Banashankari,Cafe,"Waffles, Pasta, Crispy Chicken, Honey Chilli Chicken, Sandwich, Coffee, Crepe",Cafe,500,Cafes,Banashankari,Medium,Excellent
+Cafe Shuffle,Yes,Yes,4.2,150,+91 9742166777,Banashankari,Cafe,"Mocktails, Peri Fries, Lasagne, Pizza, Chicken Bbq Wings, Virgin Mojito, Nachos","Cafe, Italian, Continental",600,Cafes,Banashankari,Medium,Excellent
+The Coffee Shack,Yes,Yes,4.2,164,+91 9731644212,Banashankari,Cafe,"Coffee, Spaghetti, Pancakes, Nachos, Pasta, Sandwich, Garlic Bread","Cafe, Chinese, Continental, Italian",500,Cafes,Banashankari,Medium,Excellent
+Caf-Eleven,No,No,4,424,080 49577715,Banashankari,Cafe,"Sandwich, Omelette, Ice Tea, Virgin Mojito, Hot Chocolate, Pasta Arrabiata, Hazelnut Cappuccino","Cafe, Continental",450,Cafes,Banashankari,Low,Excellent
+San Churro Cafe,Yes,No,3.8,918,+91 9663487993,Banashankari,"Cafe, Casual Dining","Churros, Cannelloni, Minestrone Soup, Hot Chocolate, Pink Sauce Pasta, Salsa, Veg Supreme Pizza","Cafe, Mexican, Italian",800,Cafes,Banashankari,Medium,Average
+Cafe Vivacity,Yes,No,3.8,90,"080 26768182
++91 9845704455",Banashankari,Cafe,"Garlic Bread, Burgers, Sandwiches, Pizza, Hot Chocolate Fudge, Waffles, Potato Wedges",Cafe,650,Cafes,Banashankari,Medium,Average
+Catch-up-ino,Yes,No,3.9,133,"+91 9972988038
++91 9900121238",Banashankari,Cafe,"Momos, Mushroom Bruschettas, Jalapeno Cheeseballs, Pasta, Red Velvet Shake, Red Velvet Milkshake, Maggi","Cafe, Fast Food, Continental, Chinese, Momos",800,Cafes,Banashankari,Medium,Average
+Kirthi's Biryani,Yes,No,3.8,144,"080 26711554
++91 9741406338",Banashankari,Cafe,"Pasta, Gelato, Garlic Bread, Mojito, Nachos, Paneer Pizza, Mocktails","Chinese, Cafe, Italian",700,Cafes,Banashankari,Medium,Average
+T3H Cafe,No,No,3.9,93,+91 8884726600,Banashankari,Cafe,"Cheese Maggi, Peri Peri Fries, Pasta Arrabiata","Cafe, Italian, American",300,Cafes,Banashankari,Low,Average
+The Vintage Cafe,Yes,No,3,62,"+91 9880016665
++91 8217311687",Banashankari,Cafe,"Burgers, Caramel Milkshake, Iced Coffee, Iced Tea","Cafe, French, North Indian",400,Cafes,Banashankari,Low,Average
+Woodee Pizza,Yes,No,3.7,180,+91 7406822844,Banashankari,Cafe,"Pizza, Garlic Bread","Cafe, Pizza, Fast Food, Beverages",500,Cafes,Banashankari,Medium,Average
+My Tea House,Yes,No,3.6,62,"080 65975430
++91 7337733798",Banashankari,"Quick Bites, Cafe","Pasta, Iced Tea","Italian, Fast Food, Cafe, European",600,Cafes,Banashankari,Medium,Average
+Srinathji's Cafe,No,No,3.8,148,"080 26600704
++91 9342593424",Basavanagudi,"Casual Dining, Cafe","Paratha, Sandwich, Chilli Idli, Noodles, Sandwiches, Lime Soda","North Indian, Cafe, Chinese, Fast Food",550,Cafes,Banashankari,Medium,Average
+Redberrys,Yes,No,4,219,+91 9148421256,Basavanagudi,Cafe,"Pizza, Fries, Anjeer Ice Cream, Sandwiches, Gelato, Burgers, Kesar Badam","Cafe, Italian",600,Cafes,Banashankari,Medium,Excellent
+Foodiction,Yes,No,2.8,506,+91 9916107070,Banashankari,Quick Bites,"Burgers, Lassi, Chicken Grill, Naan, Momos, Chicken Burger, Biryani","North Indian, Fast Food, Chinese, Burger",500,Delivery,Banashankari,Medium,Poor
+Ovenstory Pizza,Yes,No,3.9,172,+91 7738383000,Banashankari,Delivery,"Paneer Tikka, Garlic Bread, Thin Crust Pizza, Falafel, Veggie Pizza",Pizza,750,Delivery,Banashankari,Medium,Average
+Faasos,Yes,No,4.2,415,+91 7700020020,Banashankari,Quick Bites,"Rolls, Veggie Wrap, Chocolate Fantasy, Rice Bowls, Chicken Rice, Paneer Makhanwala, Chicken Tikka Wrap","North Indian, Biryani, Fast Food",500,Delivery,Banashankari,Medium,Excellent
+Behrouz Biryani,Yes,No,3.9,230,"+91 7022260661
++91 7022260662",Banashankari,Delivery,"Raita, Gulab Jamun, Paneer Biryani, Vegetable Biryani, Gosht Dum Biryani, Chicken Biryani, Murgh Biryani",Biryani,650,Delivery,Banashankari,Medium,Average
+Szechuan Dragon,Yes,No,4.2,1647,"00 919663567711
++91 9916326323",Banashankari,Casual Dining,"Noodles, Momos, Veg Manchow Soup, Kung Pao Chicken, Chicken Lollipop, Chop Suey, Dragon Chicken","Chinese, Thai, Momos",600,Delivery,Banashankari,Medium,Excellent
+Empire Restaurant,Yes,No,4.4,4884,080 49653266,Jayanagar,Casual Dining,"Chicken Tikka Masala, Mutton Keema Dosa, Mutton Biryani, Raan Biryani, Brain Fry, Chicken Grill, Ghee Rice","North Indian, Mughlai, South Indian, Chinese",750,Delivery,Banashankari,Medium,Excellent
+Chaatimes,Yes,No,3.8,133,+91 8884232233,Basavanagudi,Quick Bites,"Dabeli, Faluda, Masala Poori, Sandwiches, Tokri Chaat, Pav Bhaji, Dahipuri","Street Food, Fast Food",200,Delivery,Banashankari,Low,Average
+McDonald's,Yes,No,3.9,286,"080 66000666
+080 42005285",Banashankari,Quick Bites,"Burgers, Fries, Hot Chocolate","Burger, Fast Food",500,Delivery,Banashankari,Medium,Average
+Domino's Pizza,Yes,No,3.9,540,"080 26710070
+18602100000",Banashankari,Quick Bites,"Pane Pizza, Lava Cake, Pasta, Stuffed Garlic Bread, Chocolava Cake, Tacos","Pizza, Fast Food",800,Delivery,Banashankari,Medium,Average
+Onesta,Yes,Yes,4.6,2556,"080 48653961
+080 48655715",Banashankari,"Casual Dining, Cafe","Farmhouse Pizza, Chocolate Banana, Virgin Mojito, Pasta, Paneer Tikka, Lime Soda, Prawn Pizza","Pizza, Cafe, Italian",600,Delivery,Banashankari,Medium,Excellent
+Hotboxit,No,No,3.8,36,"+91 7026677677
++91 7026577577",Banashankari,Delivery,Prompt Service,"North Indian, Continental, Italian",400,Delivery,Banashankari,Low,Average
+Kitchen Garden,Yes,No,3.6,244,080 49652867,Kumaraswamy Layout,Quick Bites,Biryani,"North Indian, Chinese",300,Delivery,Banashankari,Low,Average
+Recipe,Yes,No,4,804,"+91 8043755256
++91 9886073774",Kumaraswamy Layout,Casual Dining,"Butter Chicken, Noodles, Thali, Biryani","North Indian, Chinese, Biryani, Rolls",450,Delivery,Banashankari,Low,Excellent
+Beijing Bites,Yes,No,3.7,679,"080 28606888
+080 28606886",Rajarajeshwari Nagar,Casual Dining,"Momos, Dragon Chicken, Hakka Noodles, Chowmein, Chop Suey, Chilli Garlic Noodles, Garlic Rice","Chinese, Thai",850,Delivery,Banashankari,Medium,Average
+Tasty Bytes,Yes,No,3.1,245,"+91 8553317408
++91 7899687127",Kumaraswamy Layout,Quick Bites,"Paratha, Pasta","North Indian, Chinese, Momos, Rolls",300,Delivery,Banashankari,Low,Average
+Corner House Ice Cream,No,No,4.3,345,"080 26713965
++91 9845444155",Banashankari,Dessert Parlor,"Hot Chocolate Fudge, Vanilla Ice Cream, Fudge Cake, Chocolate Mousse","Ice Cream, Desserts",400,Delivery,Banashankari,Low,Excellent
+Biryanis And More,Yes,No,4,618,"080 48542442
++91 7337271771",Jayanagar,Casual Dining,"Prawn Biryani, Dragon Chicken, Chicken Boneless Biryani, Afghani Biryani, Mughlai Biryani, Paneer Tikka Biryani, Gongura Biryani","Biryani, North Indian, Chinese, Andhra, South Indian",750,Delivery,Banashankari,Medium,Excellent
+Roving Feast,No,No,4,1047,"080 42024092
+080 42274242",Banashankari,Quick Bites,"Pasta, Momos, Rolls, Chicken Roll, Chilli Chicken, Paneer Roll, Spaghetti","Italian, Continental, Fast Food, Chinese, Momos",450,Delivery,Banashankari,Low,Excellent
+FreshMenu,Yes,No,3.9,627,080 40424242,Banashankari,Delivery,"Salads, Sandwiches, Salad, Thai Rice, Pasta, Noodles, Pizza","Healthy Food, Chinese, Biryani, North Indian, Continental, Salad, American, Burger",450,Delivery,Banashankari,Low,Average
+Wamama,Yes,Yes,4.2,354,"+91 8042111599
++91 8971818009",Banashankari,Casual Dining,"Sushi, Noodles, Wine, Khau Suey, Mocktails, Yakisoba, Spring Roll","Asian, Korean, Indonesian, Japanese, Chinese, Thai, Momos",800,Delivery,Banashankari,Medium,Excellent
+Peppy Peppers,No,No,4.2,244,"+91 8042297555
++91 7022455300",Banashankari,Casual Dining,"Pasta, Pepper Pizza, Paneer Pizza, Peppy Paneer, Nachos, Supreme Pizza, Manchow Soup","Italian, North Indian, Mexican",800,Delivery,Banashankari,Medium,Excellent
+Goa 0 Km,Yes,Yes,3.6,163,080 49653548,Kumaraswamy Layout,Casual Dining,"Sea Food, Crab Meat, Crab Soup, Fish Curry, Chicken Cafreal, Butter Naan, Butter Chicken","Goan, Seafood, North Indian, Chinese, Biryani",800,Delivery,Banashankari,Medium,Average
+1947,No,Yes,4,808,"080 26791213
++91 9739989446",Banashankari,Casual Dining,"Salads, Panneer Butter Masala, Rabri, Gajar Ka Halwa, Manchow Soup, Aam Panna, Tomato Basil Soup","North Indian, Chinese",850,Delivery,Banashankari,Medium,Excellent
+Kabab Magic,Yes,No,4.1,1720,080 26570381,Basavanagudi,Quick Bites,"Grape Juice, Chicken Grill, Chicken Tikka Roll, Shawarma Roll, Chicken Shawarama, Biryani Combo, Rolls","North Indian, Kebab, Chinese, Fast Food",400,Delivery,Banashankari,Low,Excellent
+Gustoes Beer House,No,No,4.1,868,080 49653521,Banashankari,Pub,"Beer, Wedges, Pizza, Nachos, Salads, Papaya Salad, Buffalo Wings","Continental, Italian, Mexican, North Indian, Chinese, Steak",1200,Delivery,Banashankari,High,Excellent
+The Biryani Cafe,No,No,4.1,520,+91 7010846043,Banashankari,Quick Bites,"Vegetable Biryani, Ginger Chicken, Chicken Biryani, Donne Biryani, Chicken Kebab, Egg Bhurji, Dum Biryani","Biryani, Chinese, Kebab",300,Delivery,Banashankari,Low,Excellent
+Rolls On Wheels,No,No,3.6,299,"+91 9071734101
++91 9071496800",Banashankari,Quick Bites,"Rolls, Momos, Fries, Veggie Roll, Chicken Kebab Roll, Paneer Roll, Cheese Roll","Fast Food, Rolls, Momos",300,Delivery,Banashankari,Low,Average
+Sri Guru Kottureshwara Davangere Benne Dosa,Yes,No,4.1,558,"+91 9448305384
++91 9060079480",Basavanagudi,Quick Bites,"Benne Dosa, Mirchi Bajji, Filter Coffee, Poha, Tea, Butter Dosa, Crispy Dosa",South Indian,150,Delivery,Banashankari,Low,Excellent
+Upahar Sagar,No,No,3.8,39,"+91 9164571705
+080 26760336",Banashankari,Quick Bites,Masala Dosa,"South Indian, Chinese, North Indian",350,Delivery,Banashankari,Low,Average
+Frozen Bottle,Yes,No,4.2,146,080 48664811,Banashankari,Beverage Shop,"Berryblast, Waffles, Cheesecake, Salted Caramel","Beverages, Desserts, Ice Cream",400,Delivery,Banashankari,Low,Excellent
+Meghana Foods,Yes,No,4.4,4401,080 49653564,Jayanagar,Casual Dining,"Chicken Boneless Biryani, Hyderabadi Biryani, Paneer Biryani, Tandoori Chicken, Vegetable Biryani, Chicken Kebab, Raita","Biryani, North Indian, Chinese",600,Delivery,Banashankari,Medium,Excellent
+Nandhini Deluxe,No,No,2.6,283,"080 26890011
+080 26890033",Banashankari,Casual Dining,"Biryani, Chicken Guntur, Thali, Buttermilk, Manchurian",North Indian,600,Delivery,Banashankari,Medium,Poor
+Vi Ra's Bar and Restaurant,No,No,3.3,62,"+91 9845063930
++91 7411148111",Banashankari,Bar,Chilli Chicken,"South Indian, North Indian, Chinese",800,Delivery,Banashankari,Medium,Average
+Chatar Patar,No,No,3.7,65,+91 7619353103,Banashankari,Quick Bites,"Panipuri, Chaat, Noodles, Dahi Bhalle","Fast Food, Street Food",300,Delivery,Banashankari,Low,Average
+Polar Bear,Yes,No,3.8,71,080 49652725,Basavanagudi,Dessert Parlor,Hot Chocolate Fudge,"Ice Cream, Desserts, Beverages, Sandwich",400,Delivery,Banashankari,Low,Average
+Kidambi's Kitchen,No,No,3.5,52,"080 42112211
++91 9880412211",Banashankari,Quick Bites,Rooftop Ambience,South Indian,300,Delivery,Banashankari,Low,Average
+Mane Thindi,No,No,3.7,130,+91 9964410276,Banashankari,Quick Bites,"Coffee, Tea, Kesari Bath, Open Dosa, Vada, Idli, Bread Dosa",South Indian,200,Delivery,Banashankari,Low,Average
+Floured-Baked With Love,No,No,3.8,45,"+91 9845552266
++91 9845552288",Banashankari,"Takeaway, Delivery","Cup Cake, Chocolate Cake",Bakery,400,Delivery,Banashankari,Low,Average
+Bengaluru Coffee House,Yes,No,4.1,201,+91 9740180090,Banashankari,Quick Bites,"Masala Dosa, Tirupathi Pongal, Filter Coffee, Vada, Kharabath, Kali Dosa, Rava Idli","South Indian, North Indian, Chinese, Street Food",300,Delivery,Banashankari,Low,Excellent
+Anna Kuteera,Yes,No,4,771,+91 9620009302,Banashankari,Casual Dining,"Panner Tikka, Kulfi, Coffee, Pav Bhaji, Carrot Halwa, Fried Rice, Set Dosa","South Indian, North Indian, Chinese",450,Delivery,Banashankari,Low,Excellent
+Darbar,No,No,3,98,+91 8861271465,Banashankari,Bar,"Paneer Tikka, Dal Kichadi, French Fries","North Indian, Chinese",800,Delivery,Banashankari,Medium,Average
+Sri Udupi Food Hub,Yes,Yes,4.1,175,+91 9916866033,Jayanagar,Casual Dining,"Filter Coffee, Masala Dosa, Idli, Vada","South Indian, North Indian, Chinese, Beverages",500,Delivery,Banashankari,Medium,Excellent
+House Of Kebabs,Yes,No,3.8,540,080 49653042,Basavanagudi,Casual Dining,"Rolls, Shawarma, Butter Chicken, Mutton Biryani, Lahori Chicken, Chicken Roll, Grape Juice","North Indian, Kebab, Biryani, Chinese",650,Delivery,Banashankari,Medium,Average
+Roll N Rock,Yes,No,3.8,124,+91 9590941992,Kumaraswamy Layout,Quick Bites,"Rolls, Paratha, Chicken Biryani","Chinese, North Indian, Mughlai, Rolls",400,Delivery,Banashankari,Low,Average
+BOX8- Desi Meals,Yes,No,4.1,340,022 33552698,Banashankari,"Takeaway, Delivery","Paratha, Mughlai Chicken, Masala Lemonade, Butter Chicken, Rajma, Sandwich, Salad","North Indian, Mughlai, Fast Food",500,Delivery,Banashankari,Medium,Excellent
+KFC,Yes,No,3.8,505,080 33994444,Banashankari,Quick Bites,"Burgers, French Fries","Burger, Fast Food",450,Delivery,Banashankari,Low,Average
+Roll Over,Yes,No,4.1,438,"+91 8884942976
++91 8884942900",Jayanagar,Dessert Parlor,"Rolls, Ice Cream Roll, Paan Ice Cream, Coffee, Vanilla Ice Cream, Chocolate Icecreams, Mississippi Mudpie","Desserts, Ice Cream, Beverages, Fast Food, Sandwich",500,Delivery,Banashankari,Medium,Excellent
+Imperial Restaurant,Yes,No,3.7,264,"+91 7338431313
+080 26741313",Mysore Road,Casual Dining,"Kadhai Paneer, Ghee Rice, Chicken Grill, Shawarma, Paratha, Biryani, Butter Chicken","North Indian, Chinese, Biryani, Beverages",750,Delivery,Banashankari,Medium,Average
+Wahab,Yes,No,3.7,97,+91 9845088001,Jayanagar,Quick Bites,"Chicken Biryani, Rolls","North Indian, Mughlai, Chinese",350,Delivery,Banashankari,Low,Average
+Canton,Yes,No,3.6,195,"080 41410069
++91 9611320069",Jayanagar,Casual Dining,"Roast Pork, Tai Pai Chicken, Beer, Sweet Corn Chicken Soup, Masala Peanuts, Chinese Chop Suey, Chicken Lollipop","Chinese, Seafood, Biryani",800,Delivery,Banashankari,Medium,Average
+The Blue Wagon - Kitchen,Yes,No,4.6,228,"+91 8105485007
++91 8095904280",Jayanagar,Cafe,"Pizza, Nachos, Garlic Maggi, Burgers, Cheese Maggi, Bruschetta Bites, Sandwich","Cafe, Beverages",400,Delivery,Banashankari,Low,Excellent
+Patio 805,Yes,Yes,4.1,364,+91 8884999805,Jayanagar,Casual Dining,"Noodles, Laksa Soup, Coffee, Veg Fritters, Vegetarian, Babycorn Manchurian, Mango Salad","Thai, Vietnamese, Asian, Chinese",1200,Delivery,Banashankari,High,Excellent
+Lassi Corner,Yes,No,3.7,107,"+91 9972348689
++91 7204756477",Basavanagudi,Beverage Shop,Lassi,"Beverages, Ice Cream",150,Delivery,Banashankari,Low,Average
+Sagar Deluxe,Yes,No,3.2,167,"080 32963232
++91 9620284767",Kumaraswamy Layout,Quick Bites,"Coffee, Chaat","South Indian, North Indian, Chinese, Juices",300,Delivery,Banashankari,Low,Average
+Energy Addaa,Yes,No,4.2,64,080 49652857,Basavanagudi,Quick Bites,"Pizza, Nachos, Salads, Peri Peri Fries, Brownie, Pasta Alfredo, Spaghetti","Salad, Healthy Food, Sandwich, Juices, Burger, Desserts, Pizza",500,Delivery,Banashankari,Medium,Excellent
+Tandoori Knight,Yes,No,3,290,"+91 9035297404
++91 9731504721",Banashankari,Quick Bites,"Chicken Grill, Biryani, Roti, Chicken Masala","North Indian, Chinese, Biryani, Kebab",450,Delivery,Banashankari,Low,Average
+Dev Sagar - Food Street,Yes,No,4.1,233,"+91 9886204745
+0161 26624745",Basavanagudi,Quick Bites,"Chaat, Pav Bhaji, Dabeli, Vada Pav, Tawa Pulav, Panipuri, Malpua",Street Food,200,Delivery,Banashankari,Low,Excellent
+Mitraa Da Pizza,Yes,No,3.8,115,"+91 7977809237
++91 7752956789",Kumaraswamy Layout,Quick Bites,"Pizza, Burgers","Fast Food, Pizza",250,Delivery,Banashankari,Low,Average
+Grazers,Yes,Yes,3.9,291,080 26650668,Jayanagar,Cafe,"Burgers, Panneer Butter Masala, Pasta, Hot Dog, Fries, Cheesy Pizza, Potato Wedges","Cafe, Burger, Continental, Italian, Desserts",650,Delivery,Banashankari,Medium,Average
+Shakes Theory,Yes,No,4.5,155,"+91 9886936896
++91 9620000463",Jayanagar,Beverage Shop,"Sandwiches, Thick Shakes, Paan Shake, Brownie Bomb, Fries, Spinach Corn Sandwich, Paneer Peri Peri","Beverages, Sandwich",300,Delivery,Banashankari,Low,Excellent
+@Italy,Yes,No,4.1,305,"+91 7760579999
++91 7026557799",Kumaraswamy Layout,Casual Dining,"Pizza, Pasta, Spinach Salsa, Garlic Bread, Lasagne, Bruschettas, Chocolate Bomb",Italian,700,Delivery,Banashankari,Medium,Excellent
+Old Mumbai Ice Cream,Yes,No,3.9,38,080 49652445,Banashankari,Dessert Parlor,Friendly Staff,Ice Cream,150,Delivery,Banashankari,Low,Average
+Donne Biriyani House,Yes,No,3.9,441,"+91 8197743537
+080 26690642",Banashankari,Quick Bites,Biryani,"South Indian, North Indian, Chinese, Biryani",400,Delivery,Banashankari,Low,Average
+Kedia's Fun Food,Yes,No,4.3,630,+91 8867769557,Jayanagar,Quick Bites,"Paratha, Vada Pav, Chaat, Pav Bhaji, Panipuri, Masala Poori, Dhokla","North Indian, Street Food, Juices",200,Delivery,Banashankari,Low,Excellent
+Just Shawarma,Yes,No,3.9,160,+91 7676764422,Kumaraswamy Layout,Quick Bites,"Whole Meat Shawarma, Fries",Arabian,300,Delivery,Banashankari,Low,Average
+Mini Punjabi Dhaba,Yes,No,4.2,287,"+91 9845044074
++91 7406012344",Banashankari,Quick Bites,"Panneer Butter Masala, Lassi, Paratha, Jeera Rice, Paneer Parantha, Bhindi Fry, Veg Kolhapuri",North Indian,350,Delivery,Banashankari,Low,Excellent
+CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Down The Alley,Yes,No,4.1,402,"080 26724489
++91 7406048982",Banashankari,Cafe,"Waffles, Pasta, Crispy Chicken, Honey Chilli Chicken, Sandwich, Coffee, Crepe",Cafe,500,Delivery,Banashankari,Medium,Excellent
+Gokul Veg,Yes,No,3.8,469,"+91 9980978388
+080 26627612",Basavanagudi,Casual Dining,"Masala Papad, Paneer Satay, Vegetable Biryani, Panneer Butter Masala, Tomato Soup, Manchow Soup, Roti","North Indian, Chinese, Beverages",750,Delivery,Banashankari,Medium,Average
+Olive - Era,Yes,No,3.3,511,"080 42017174
+080 42021219",Kumaraswamy Layout,Casual Dining,"Shawarma, Biryani, Bbq Chicken, Chicken Grill, Raita","BBQ, Arabian, Rolls, Chinese, North Indian, Juices, Kebab, Desserts",550,Delivery,Banashankari,Medium,Average
+Gama Gama,Yes,No,3.9,264,"+91 9739946098
++91 9538433344",Banashankari,Quick Bites,"Jowar Roti, Buttermilk, Sabudana Vada, Thali, Mirchi Bajji, Brinjal Curry",South Indian,200,Delivery,Banashankari,Low,Average
+The Vintage Cafe,Yes,No,3,62,"+91 9880016665
++91 8217311687",Banashankari,Cafe,"Burgers, Caramel Milkshake, Iced Coffee, Iced Tea","Cafe, French, North Indian",400,Delivery,Banashankari,Low,Average
+Pizza Hut,Yes,No,3.8,693,"080 39883988
+080 26710999",Banashankari,Casual Dining,"Supreme Pizza, Potato Wedges, Masala Lemonade, Tandoori Paneer, Exotic Garlic Bread","Pizza, Fast Food",750,Delivery,Banashankari,Medium,Average
+Mangalore Pearl,Yes,No,3.8,242,"+91 8880888315
++91 9019966667",Jayanagar,Casual Dining,"Neer Dosa, Sea Food, Ghee Rice, Marwai Sukka, Egg Biryani, Kori Roti, Thai Fish","Mangalorean, Seafood, Chinese, Biryani",650,Delivery,Banashankari,Medium,Average
+Twiststick House,Yes,No,4.1,163,+91 9916538249,Basavanagudi,Quick Bites,"White Pasta, Noodles, Babycorn Manchurian, Pizza, Veg Momos, Fry Momos, Tawa Pulav","Continental, Fast Food, Street Food, Momos",500,Delivery,Banashankari,Medium,Excellent
+Cool Corner,Yes,No,4.2,191,080 26916505,Basavanagudi,Quick Bites,"Masala Dosa, Sandwiches, Coffee, Onion Dosa, Rava Dosa, Chaat, Sandwich","Street Food, Fast Food",250,Delivery,Banashankari,Low,Excellent
+Pizza Mane,Yes,No,3.5,32,+91 9886212159,Banashankari,Quick Bites,"French Fries, Burgers","Pizza, Sandwich, Burger, Fast Food",150,Delivery,Banashankari,Low,Average
+Dal Tadkaa,Yes,No,2.5,247,"080 26691763
++91 9620138000",Banashankari,Casual Dining,"Paratha, Boondi Raita, Roti, Kulfi, Panneer Butter Masala, Sweet Lassi, Dal Tadka",North Indian,500,Delivery,Banashankari,Medium,Poor
+Chutney Chang,Yes,Yes,4.1,2339,"080 22443007
++91 9901967373",Jayanagar,Casual Dining,"Veg Momos, Brownie Chocolate, Palak Chaat, Mutton Biryani, Dahipuri, Fish, Sea Food","North Indian, Chinese, BBQ",1500,Delivery,Banashankari,High,Excellent
+Mystique Palate,Yes,No,4.1,337,"+91 9663313544
++91 9916685945",Jayanagar,Quick Bites,"Noodles, Pasta, Schezwan Momos, Chicken Momo, Teriyaki Chicken, Thukpa, Fries","Chinese, Fast Food",300,Delivery,Banashankari,Low,Excellent
+Thamboola,Yes,No,3.9,135,"080 26711258
++91 9845154172",Banashankari,Casual Dining,"Spring Roll, Manchow Soup, Babycorn Manchurian, Mint Cooler, Roti, Panneer Butter Masala","North Indian, Chinese, Continental",800,Delivery,Banashankari,Medium,Average
+Castle Rock,Yes,No,3.6,172,"080 42014000
++91 9845030125",Uttarahalli,Casual Dining,Biryani,"North Indian, Chinese",700,Delivery,Banashankari,Medium,Average
+Vietnamese Kitchen,Yes,No,3.6,105,"080 26697884
+080 26697883",Banashankari,Casual Dining,"Pho, Papaya Salad, Coffee, Veg Momos, Rolls",Vietnamese,700,Delivery,Banashankari,Medium,Average
+Smacznego,Yes,No,4.2,504,"+91 9945230807
++91 9743804471",Banashankari,Cafe,"Waffles, Pasta, Coleslaw Sandwich, Choco Waffle, Tacos, Momos, Cheese Nachos","Cafe, Mexican, Italian, Momos, Beverages",550,Delivery,Banashankari,Medium,Excellent
+Toscano,Yes,Yes,4.3,1129,"080 41558423
++91 7619320074",Jayanagar,Casual Dining,"Pizza, Pasta, Salads, Calamari, Ravioli, Pumpkin Soup, Wine","Italian, Salad",1300,Delivery,Banashankari,High,Excellent
+Stoned Monkey,Yes,No,4.3,860,"+91 9972710694
++91 9972710894",Banashankari,Dessert Parlor,"Nachos, Cup Cake, Hot Chocolate Fudge, Salsa, Cheesy Garlic Bread, Waffles, Tiramisu","Desserts, Ice Cream",500,Delivery,Banashankari,Medium,Excellent
+Central Jail Restaurant,Yes,No,3.8,412,"+91 7337886666
++91 8880004992",Jayanagar,Casual Dining,"Lime Soda, Manchow Soup, Biryani, Lemon Chicken, Tomato Soup, Butter Naan, Chilli Chicken","Andhra, Seafood, North Indian, Chinese",700,Delivery,Banashankari,Medium,Average
+Bella,Yes,Yes,3.9,142,"+91 8971285555
+080 49709755",Jayanagar,Casual Dining,"Murgh Ghee Roast, Fish Fry, Ghee Roast Paneer, Neer Dosa, Appam, Sea Food, Chicken Sukha","Mangalorean, Seafood, South Indian",1000,Delivery,Banashankari,High,Average
+New Prashanth Hotel,Yes,No,3.6,143,"080 26530150
++91 8861190190",Jayanagar,Casual Dining,"Ragi Mudde, Lemon Chicken, Chilli Chicken, Chicken Curry, Mutton Chops, Mutton Biryani","South Indian, Biryani, Chinese, North Indian",750,Delivery,Banashankari,Medium,Average
+Karma Kaapi,Yes,No,4.4,181,"+91 9380908955
++91 7483024632",Jayanagar,Beverage Shop,"Pasta, Potato Fries, Potato Wedges, Hot Chocolate, Chaat, Filter Coffee, Americano","Beverages, Tea",250,Delivery,Banashankari,Low,Excellent
+Tiwari's,Yes,No,3.8,70,"+91 9844733389
++91 7829398815",Jayanagar,Quick Bites,"Sweet Lassi, Gulab Jamun, Palak Paneer Paratha, Paneer Parantha","North Indian, Street Food",200,Delivery,Banashankari,Low,Average
+Pizza Stop,Yes,No,3.8,164,080 46640404,Basavanagudi,Quick Bites,"Pizza, White Sauce Pasta, Masala Garlic Bread","Pizza, Italian",600,Delivery,Banashankari,Medium,Average
+Biggies Burger 'n' More,Yes,No,3.6,58,"+91 9972972950
++91 9663729632",Kumaraswamy Layout,Quick Bites,"Burgers, Fries, Mojito, Chicken Burger","Cafe, Burger, Beverages",650,Delivery,Banashankari,Medium,Average
+Srinathji's Cafe,No,No,3.8,148,"080 26600704
++91 9342593424",Basavanagudi,"Casual Dining, Cafe","Paratha, Sandwich, Chilli Idli, Noodles, Sandwiches, Lime Soda","North Indian, Cafe, Chinese, Fast Food",550,Delivery,Banashankari,Medium,Average
+Kollapuri's,No,No,3.9,206,080 41205839,Basavanagudi,Quick Bites,"Chicken Biryani, Mutton Biryani, Egg Biryani, Chicken Fry, Mutton Fry","South Indian, Mangalorean",450,Delivery,Banashankari,Low,Average
+RS Shiv Sagar,No,No,3.7,217,"080 26604686
+080 26600115",Basavanagudi,Casual Dining,"Chaat, Brownie, Onion Rings, Tomato Soup, Paneer Manchurian, Thali, Faluda","North Indian, Chinese, South Indian, Fast Food, Juices",450,Delivery,Banashankari,Low,Average
+Harshi Super Sandwich,No,No,3.8,148,+91 9900924729,Basavanagudi,Quick Bites,"Sandwiches, Chocolate Sandwich, Chaat, Veg Cheese Sandwich, Chilli Cheese, Corn Sandwich","Fast Food, Street Food",150,Delivery,Banashankari,Low,Average
+Ugadi,Yes,No,2.9,177,+91 9742231320,Jayanagar,Casual Dining,"Prawn Biryani, Andhra Meal, Veg Thali, Fry Piece Biryani, Gongura Chicken, Paratha","North Indian, Chinese, Biryani, Andhra, Mangalorean",700,Delivery,Banashankari,Medium,Poor
+Subway,Yes,No,3.7,136,"080 42136088
+080 26719446",Banashankari,Quick Bites,"Veggie Delight, Paneer Tikka, Salad","Salad, Fast Food",600,Delivery,Banashankari,Medium,Average
+The Lassi Park,Yes,No,4.1,185,+91 8095957665,Jayanagar,Quick Bites,"Faluda, Brownie, Sandwich, Kulfi, Fruit Salad, Sweet Lassi, Chocolate Fudge","Juices, Desserts",200,Delivery,Banashankari,Low,Excellent
+A2B - Adyar Ananda Bhavan,Yes,No,3.8,155,"080 26746999
+080 26748999",Mysore Road,Casual Dining,"Pav Bhaji, Masala Dosa, Idli Vada, Filter Coffee, Pongal, Curd Rice, Kesari Bath","South Indian, North Indian, Chinese, Street Food",400,Delivery,Banashankari,Low,Average
+Srikrishna Bhavan,Yes,No,3.8,42,"+91 9590895055
++91 9845664745",Banashankari,Quick Bites,"Roti, Masala Dosa","South Indian, North Indian, Chinese",300,Delivery,Banashankari,Low,Average
+Timepass Dinner,Yes,No,3.8,286,"+91 9980040002
++91 9980063005",Basavanagudi,Casual Dining,"Onion Rings, Pasta, Kadhai Paneer, Salads, Salad, Roti, Jeera Rice",North Indian,600,Delivery,Banashankari,Medium,Average
+Green Gardenia,Yes,No,3.8,160,"080 26698822
++91 9945704570",Banashankari,Casual Dining,"Masala Papad, Paneer Satay, Paneer Hyderabadi, Butter Naan, Roti","North Indian, Chinese",700,Delivery,Banashankari,Medium,Average
+J Spice,Yes,No,3.8,59,"+91 8026739252
++91 9008520007",Banashankari,Casual Dining,"Stuffed Mushroom, Chicken Biryani, Jal-jeera","North Indian, Chinese",750,Delivery,Banashankari,Medium,Average
+Hatti Kaapi,Yes,No,4,89,080 40942666,Jayanagar,Quick Bites,"Filter Coffee, Tea, Hot Coffee, Hatti Samosa","South Indian, Beverages",200,Delivery,Banashankari,Low,Excellent
+Upahara Darshini,Yes,No,3.9,40,080 22454581,Basavanagudi,Casual Dining,Masala Dosa,"North Indian, Chinese, South Indian, Fast Food",600,Delivery,Banashankari,Medium,Average
+The Chaat Shop,Yes,No,2.5,35,+91 9066510817,Basavanagudi,Quick Bites,"Badam Milk, Potato Twister, Pav Bhaji, Panipuri, Tikki Chaat, Cheese Cutlet",Fast Food,200,Delivery,Banashankari,Low,Poor
+My Tea House,Yes,No,3.6,62,"080 65975430
++91 7337733798",Banashankari,"Quick Bites, Cafe","Pasta, Iced Tea","Italian, Fast Food, Cafe, European",600,Delivery,Banashankari,Medium,Average
+Samskruti - Sanman Gardenia,Yes,No,4.1,139,"080 26570711
++91 9663684499",Jayanagar,Casual Dining,"Roti, Butter Kulcha, Fried Rice, Tomato Soup, Curd Rice, Lunch Buffet, Paneer Tikka","North Indian, Chinese, South Indian",550,Delivery,Banashankari,Medium,Excellent
+Chumma Delicious,Yes,No,3.7,237,"+91 9341262402
++91 9108648373",Banashankari,Quick Bites,Chicken Biryani,"South Indian, Fast Food",200,Delivery,Banashankari,Low,Average
+New Prashanth Hotel,Yes,No,3.9,388,"080 49569558
++91 8197819686",Banashankari,Casual Dining,"Chicken Biryani, Ragi Mudde, Mutton Chops","Biryani, North Indian, Seafood, Andhra",650,Delivery,Banashankari,Medium,Average
+Dwaraka Grand,Yes,No,3.9,128,+91 9448214873,Kumaraswamy Layout,Casual Dining,"Masala Dosa, Coffee","South Indian, Chinese, Street Food, Juices",500,Delivery,Banashankari,Medium,Average
+Gufha - The President Hotel,Yes,Yes,4.1,1875,"080 41808777
++91 9900265022",Jayanagar,Casual Dining,"Cocktails, Paneer Tikka, Rasmalai, Rabri, Masala Papad, Vegetable Biryani, Chicken Curry","North Indian, Afghani, Mughlai",1200,Delivery,Banashankari,High,Excellent
+Cafe Vivacity,Yes,No,3.8,90,"080 26768182
++91 9845704455",Banashankari,Cafe,"Garlic Bread, Burgers, Sandwiches, Pizza, Hot Chocolate Fudge, Waffles, Potato Wedges",Cafe,650,Delivery,Banashankari,Medium,Average
+Mojo Pizza - 2X Toppings,Yes,No,4.2,179,022 33252828,Banashankari,Delivery,"Veggie Pizza, Garlic Bread, Lava Cake, Chocolava, Spicy Paneer",Pizza,600,Delivery,Banashankari,Medium,Excellent
+South Kitchen,Yes,No,4.3,275,+91 9880980009,Basavanagudi,Quick Bites,"Kharabath, Crispy Vada, Filter Coffee, Idli Vada, Idli Chutney, Kesari Bath, Gulab Jamun",South Indian,100,Delivery,Banashankari,Low,Excellent
+Chung Wah,Yes,No,3.7,323,"+91 9108945477
++91 9108945277",Jayanagar,Casual Dining,"Noodles, Veg Momos, Chowmein, Schezwan Fried Rice, Clear Soup, Sweet Corn Soup, Chicken Wings","Chinese, Thai, Momos",850,Delivery,Banashankari,Medium,Average
+Prems Graama Bhojanam,Yes,No,4.3,322,"080 26630542
++91 9611980542",Jayanagar,Casual Dining,"Veg Thali, Matka Kulfi, Pongal, Buttermilk, Vada, Ragi Mudde, Curd Rice",South Indian,400,Delivery,Banashankari,Low,Excellent
+Java City,Yes,No,2.6,157,080 41654693,Jayanagar,Cafe,"Coffee, Sandwich, Hot Chocolate, Ice Tea, Sandwiches, Chicken Lasagne, Pizza","Cafe, American, Pizza",450,Delivery,Banashankari,Low,Poor
+Kamat Bugle Rock,Yes,No,3.9,543,080 26605734,Basavanagudi,Quick Bites,"Jowar Roti, Buttermilk, Jolada Rotti, Brinjal Curry, Coffee, Pongal, Vegetable Biryani","South Indian, Fast Food",300,Delivery,Banashankari,Low,Average
+Woodee Pizza,Yes,No,3.7,180,+91 7406822844,Banashankari,Cafe,"Pizza, Garlic Bread","Cafe, Pizza, Fast Food, Beverages",500,Delivery,Banashankari,Medium,Average
+Puliyogare Point,Yes,No,4.2,444,"+91 9986953484
++91 9880156235",Basavanagudi,Quick Bites,"Sweet Pongal, Mini Idlis, Filter Coffee, Open Masala Dosa, Pakoda, Vada, Raagi Dosa",South Indian,100,Delivery,Banashankari,Low,Excellent
+Bangalore Agarwal Bhavan,Yes,No,3.9,134,"+91 9880988500
++91 9342943356",Jayanagar,Quick Bites,"Paratha, Coffee, Halwa, Lassi","Street Food, North Indian, South Indian",400,Delivery,Banashankari,Low,Average
+Rustic Stove,Yes,No,3.8,577,"080 26547755
++91 9686372742",Jayanagar,Casual Dining,"Vegetable Biryani, Pineapple Rasam, Cheese Garlic Naan, Potato Cheese Ball, Bamboo Chicken Biryani, Chicken Skewer, Fish","North Indian, South Indian, Biryani, Beverages",900,Delivery,Banashankari,Medium,Average
+De Thaali,Yes,No,3.9,144,080 22445267,Jayanagar,Casual Dining,"Malai Kofta, Sandwich, Naan","North Indian, Chinese, Rolls",550,Delivery,Banashankari,Medium,Average
+Spice Elephant,Yes,No,4.1,787,080 41714161,Banashankari,Casual Dining,"Momos, Lunch Buffet, Chocolate Nirvana, Thai Green Curry, Paneer Tikka, Dum Biryani, Chicken Biryani","Chinese, North Indian, Thai",800,Delivery,Banashankari,Medium,Excellent
+Matru Sagar,Yes,No,3.6,84,+91 9972368854,Banashankari,Quick Bites,"Coffee, Masala Dosa","South Indian, North Indian, Chinese",250,Delivery,Banashankari,Low,Average
+Sea Spice by 7 Star,Yes,Yes,4,349,080 49653393,Banashankari,Casual Dining,"Sea Food, Neer Dosa, Anjal Masala Fry, Coconut Pudding, Chicken Biryani, Roti, Fish Curry","Seafood, Biryani, Beverages, South Indian, North Indian, Kebab",1200,Delivery,Banashankari,High,Excellent
+Desi Dawat,Yes,No,3.7,248,+91 6363331588,Kumaraswamy Layout,Quick Bites,"Tandoori Chicken, Rolls","North Indian, Fast Food",400,Delivery,Banashankari,Low,Average
+Cafe Aira,Yes,No,4.1,216,"+91 9980570955
+080 41121975",Basavanagudi,Cafe,"Pasta, Nachos, Jalapeno Poppers, Burrito Bowl, Ferrero Rocher Shake, Falafal Sandwich, Banana Waffles","Cafe, Continental, Beverages, Desserts",500,Delivery,Banashankari,Medium,Excellent
+Penthouse Cafe,Yes,No,4,324,"+91 8884135549
++91 9449449316",Banashankari,Cafe,"Pizza, Mocktails, Coffee, Nachos, Salad, Pasta, Sandwiches","Cafe, Italian, Continental",700,Delivery,Banashankari,Medium,Excellent
+Mast Punjabi,Yes,No,2.6,231,+91 7338562176,Kumaraswamy Layout,Quick Bites,Aloo Paratha,"North Indian, Chinese, Rolls, Biryani, Kebab",400,Delivery,Banashankari,Low,Poor
+South Grand,Yes,No,3.4,102,080 26394647,Uttarahalli,Casual Dining,Rava Dosa,"South Indian, North Indian, Chinese, Beverages",400,Delivery,Banashankari,Low,Average
+Catch-up-ino,Yes,No,3.9,133,"+91 9972988038
++91 9900121238",Banashankari,Cafe,"Momos, Mushroom Bruschettas, Jalapeno Cheeseballs, Pasta, Red Velvet Shake, Red Velvet Milkshake, Maggi","Cafe, Fast Food, Continental, Chinese, Momos",800,Delivery,Banashankari,Medium,Average
+The Pizzeria,Yes,No,2.8,45,"+91 9845154172
++91 9620344606",Banashankari,Casual Dining,Pesto Pizza,"Pizza, Italian, Salad",800,Delivery,Banashankari,Medium,Poor
+Ruchis Point,Yes,No,3.8,75,+91 9901999970,Banashankari,Quick Bites,"Sandwiches, Noodles, Sandwich","Fast Food, Chinese",200,Delivery,Banashankari,Low,Average
+Firangi Bake,Yes,No,4,53,+91 7710090007,Rajarajeshwari Nagar,Delivery,"Lasagne, Steak, Masala Quesadilla, Garlic Bread","Mexican, Italian",600,Delivery,Banashankari,Medium,Excellent
+The Royal Corner - Pai Viceroy,Yes,Yes,4.2,815,"+91 9980909054
++91 9845184810",Jayanagar,Casual Dining,"Breakfast Buffet, Kulcha, Almond Soup, Lunch Buffet, Roti, Mocktails, Vegetarian","North Indian, Chinese",900,Delivery,Banashankari,Medium,Excellent
+Hara Fine Dine,Yes,Yes,4,633,"080 42112211
++91 9880412211",Banashankari,Casual Dining,"Hara Bhara Kabab, Crispy Corn, Patiala Paneer, Panneer Butter Masala, Dum Biryani, Jal-jeera, Butter Naan","North Indian, Chinese",800,Delivery,Banashankari,Medium,Excellent
+Chocoberry,Yes,No,3.5,56,+91 9742644747,Jayanagar,Dessert Parlor,"Waffles, Cup Cake, Chocolate Cake","Ice Cream, Desserts, Beverages",400,Delivery,Banashankari,Low,Average
+Waffle-A-Go Go,Yes,No,3.9,70,+91 9900281611,Banashankari,Dessert Parlor,Waffles,"Fast Food, Desserts, Ice Cream",400,Delivery,Banashankari,Low,Average
+Cross Road Cafe,Yes,No,3.9,91,080 41247022,Jayanagar,Cafe,"Momos, Burgers, Rolls, Sandwich, Hot Chocolate, Tea, Naga Thali","Cafe, Fast Food, Chinese",300,Delivery,Banashankari,Low,Average
+Bakers Town,Yes,No,3.8,77,+91 8884550298,Kumaraswamy Layout,Cafe,"Freak Shake, Fries, Pasta Alfredo","Cafe, Continental, Fast Food",650,Delivery,Banashankari,Medium,Average
+Ivy,Yes,No,3.8,210,080 42292888,Kumaraswamy Layout,Casual Dining,"Butter Chicken, Chicken Grill, Tandoori Chicken, Noodles, Biryani, Fried Rice Chicken","North Indian, Chinese, Fast Food",600,Delivery,Banashankari,Medium,Average
+The Airos,Yes,No,4.1,130,+91 7026390001,Jayanagar,Cafe,"Pizza, Pasta, Nachos, Burgers, Sandwich, Tea, Cheese Balls","Cafe, Italian, Pizza",650,Delivery,Banashankari,Medium,Excellent
+Chai Kraft,Yes,No,4.1,30,+91 9946666099,Jayanagar,Beverage Shop,"Masala Chai, Coffee, Masala Tea, Maggi","Beverages, Tea",100,Delivery,Banashankari,Low,Excellent
+Kirthi's Biryani,Yes,No,3.8,144,"080 26711554
++91 9741406338",Banashankari,Cafe,"Pasta, Gelato, Garlic Bread, Mojito, Nachos, Paneer Pizza, Mocktails","Chinese, Cafe, Italian",700,Delivery,Banashankari,Medium,Average
+The Trundle,Yes,No,3.7,133,+91 9986520008,Jayanagar,Casual Dining,"Salad, Mocktails, Chocolava, Pesto Pasta, Momos, Jasmine Rice, Tom Yum Soup","Chinese, Thai, Continental, North Indian",700,Delivery,Banashankari,Medium,Average
+The Krishna Grand Xpress,Yes,No,4,136,+91 9845108265,Jayanagar,Quick Bites,"Vada, Masala Dosa, Idli","South Indian, Fast Food",350,Delivery,Banashankari,Low,Excellent
+Udupi Grand,Yes,No,3.8,74,"+91 9242115999
++91 9591322733",Basavanagudi,Quick Bites,"Coffee, Masala Dosa, Vegetable Biryani","South Indian, North Indian, Chinese",300,Delivery,Banashankari,Low,Average
+Little Cafe,Yes,No,3.7,54,+91 9741248269,Basavanagudi,Cafe,"Pasta, Pizza, Burgers, Pancakes, Garlic Bread","Cafe, Beverages",600,Delivery,Banashankari,Medium,Average
+1980s Games Cafe,Yes,No,3.4,58,080 41677077,Basavanagudi,Cafe,"Maggi, Pasta, Burgers, Sandwiches, Fries","Cafe, Fast Food",400,Delivery,Banashankari,Low,Average
+Kadala Tarangaa,Yes,No,3.6,129,"+91 9743491480
++91 9483528275",Banashankari,Casual Dining,"Sea Food, Neer Dosa","Mangalorean, Seafood, North Indian",600,Delivery,Banashankari,Medium,Average
+As On Fire,Yes,No,3.5,41,+91 9731111852,South Bangalore,Food Truck,Pizza,"Pizza, Fast Food, BBQ",400,Delivery,Banashankari,Low,Average
+Curry Leaves,Yes,No,4.1,176,"+91 8048666976
++91 8026760130",Basavanagudi,Casual Dining,"Brownie, Mojito, Prawn Ghee Roast, Corn Tikki, Mushroom Ghee Roast, Pinacolada, Biryani","Andhra, North Indian, Chinese",800,Delivery,Banashankari,Medium,Excellent
+Magic Meals,Yes,No,3.7,47,"+91 9986281317
++91 8970050267",Jayanagar,"Quick Bites, Dessert Parlor","Biryani, Thick Shakes, Fries","Fast Food, Desserts, Beverages",400,Delivery,Banashankari,Low,Average
+Desi Cream Junction,Yes,Yes,3.7,36,"+91 9342943356
++91 9880988500",Jayanagar,Casual Dining,Vegetarian,"Chinese, North Indian, Pizza, Italian",650,Delivery,Banashankari,Medium,Average
+Eat Repeat,Yes,No,3.9,101,"+91 9945607074
++91 9880308011",Basavanagudi,Quick Bites,"Sweet Pongal, Curd Rice",South Indian,150,Delivery,Banashankari,Low,Average
+Salut,Yes,Yes,4.1,442,"+91 8971285555
+080 49709755",Jayanagar,"Pub, Casual Dining","Pesto Pizza, Buffalo Wings, Cocktails, Beer, Egg Ghee Roast, Brownie, Pepper Chicken","Continental, Finger Food, Seafood, Pizza",1200,Delivery,Banashankari,High,Excellent
+Sandwich Mama's And Frozen Monster,Yes,No,3.8,53,00 09945784161,Jayanagar,Quick Bites,"Waffles, Sandwiches, Maggi, Thick Shakes, Chocolate Sandwich","Ice Cream, Beverages, Fast Food",250,Delivery,Banashankari,Low,Average
+Food Springs,Yes,No,4,232,080 42010153,Jayanagar,Quick Bites,"Honey Chilli Potatoes, Nachos, Lemonade, Hakka Noodles, Babycorn Manchurian, Mushroom Manchurian, Spring Roll","South Indian, Chinese",400,Delivery,Banashankari,Low,Excellent
+Chung's Chinese Corner,Yes,No,3.9,221,"080 26644700
+080 41211700",Jayanagar,Casual Dining,"Manchow Soup, Momos, Wonton Soup, Chowmein, American Chopsuey, Chop Suey, Manchurian",Chinese,700,Delivery,Banashankari,Medium,Average
+Eurasia Pasta and Barbeque by Little Italy,Yes,Yes,4.1,1063,"080 22452202
+080 22452203",Jayanagar,"Casual Dining, Bar","Pasta, Pizza, Nachos, Gelato, Ravioli, Jalapeno Poppers, Cocktails","Italian, Fast Food, Salad, BBQ",1200,Delivery,Banashankari,High,Excellent
+Goli Vada Pav No. 1,Yes,No,3.7,93,"+91 9845208282
++91 9538308282",Basavanagudi,Quick Bites,"Masala Vada Pav, Cheese Vada Pav, Fries",Street Food,200,Delivery,Banashankari,Low,Average
+Ragoo's,Yes,No,3.9,233,"080 26762888
+080 26763888",Jayanagar,Casual Dining,"Corn Augratin, Lasagne, Fries, Garlic Bread, Pili Pili Pizza, Mexican Rice, Ravioli","Italian, Pizza, North Indian, Salad",800,Delivery,Banashankari,Medium,Average
+Pure & Natural,Yes,No,3.9,211,"+91 9880372471
+080 26633304",Jayanagar,Casual Dining,"Salads, Sandwiches, Pasta, Mocktails, Corn Sandwich, Garden Salad, Miso Salad","Fast Food, Continental, Beverages, Salad, Healthy Food",500,Delivery,Banashankari,Medium,Average
+Maiyas,Yes,No,4,1778,+91 9632411352,Jayanagar,Quick Bites,"Coffee, Thali, Kharabath, Masala Dosa, Idli Vada, Vanilla Ice Cream, Bisi Bele Bhaath","North Indian, South Indian, Fast Food, Juices",200,Delivery,Banashankari,Low,Excellent
+Sip n Dine,Yes,No,3.6,218,"+91 9741464017
+080 23402484",Vijay Nagar,Casual Dining,"Veg Jaipuri, Neer Dosa, Kulcha, Pepper Chicken, Chilli Mushroom, Murgh Platter, Paneer Tikka","North Indian, Chinese, South Indian",800,Delivery,Banashankari,Medium,Average
+Cafe Mondo,Yes,No,3.7,514,080 42088686,Basavanagudi,Cafe,"Pizza, Pasta Alfredo, Brownie, Garlic Bread, Sandwiches, Lemon Mojito, Mocha Fudge","Cafe, Italian, Beverages",600,Delivery,Banashankari,Medium,Average
+Jalpaan,Yes,Yes,4,866,"080 26761992
++91 9591996826",Jayanagar,Casual Dining,"Mocktails, Tomato Soup, Pasta, Nachos, Chaat, Potli Biryani, Lassi","North Indian, Continental",900,Delivery,Banashankari,Medium,Excellent
+Kataria's Pakwan,Yes,No,3.2,96,+91 9845089103,Kumaraswamy Layout,Quick Bites,"Paratha, Lassi, Manchurian, Thali",North Indian,400,Delivery,Banashankari,Low,Average
+Juicy Momos,Yes,No,3.5,80,+91 9538550509,Banashankari,Quick Bites,"Rolls, Burgers, Juicy Momos, Chicken Momo, Chocolate Momos, Mushroom Momo, Paneer Momos","Tibetan, Momos",250,Delivery,Banashankari,Low,Average
+Amande Patisserie,Yes,No,4,73,080 26761080,Basavanagudi,Bakery,"Macaroon, Mousse, Caramel Eclair","Bakery, French, Desserts",300,Delivery,Banashankari,Low,Excellent
+Anand Sweets and Savouries,Yes,No,3.9,84,080 22446973,Jayanagar,Sweet Shop,"Dahi Papadi Chaat, Papdi Chaat, Bhel Puri, Paratha, Kachori, Thali, Masala Poori","Mithai, Street Food",400,Delivery,Banashankari,Low,Average
+Chicken Hunt,Yes,No,3.5,88,"+91 8762427116
++91 9591490143",Banashankari,Quick Bites,Chicken Grill,"South Indian, North Indian, Chinese, Biryani",350,Delivery,Banashankari,Low,Average
+Swadesh Tadka,Yes,No,3.5,179,"080 42151252
++91 9886681252",Banashankari,Casual Dining,"Gulab Jamun, Roti, Masala Papad, Babycorn Manchurian, Paratha, Clear Soup, Biryani","North Indian, Chinese, Beverages",600,Delivery,Banashankari,Medium,Average
+Cane-O-La,Yes,No,3.8,61,080 22977700,Basavanagudi,Quick Bites,"Sugarcane Juice, Popcorn",Juices,100,Delivery,Banashankari,Low,Average
+New Biryani Mane,Yes,No,3.7,128,"+91 9241593725
++91 9880150550",Uttarahalli,Casual Dining,"Egg Biryani, Tandoori Chicken, Fish, Rumali Roti","North Indian, Chinese, Biryani, South Indian",450,Delivery,Banashankari,Low,Average
+Upahara Darshini,Yes,No,3.8,339,+91 9980919186,Jayanagar,Quick Bites,"Rava Dosa, Roti, Masala Dosa, Kulcha, Sandwiches, Vada Pav, Idli","South Indian, North Indian, Chinese",400,Delivery,Banashankari,Low,Average
+Karnataka Bhel House,Yes,No,4.1,449,+91 9845100870,Basavanagudi,Quick Bites,"Masala Poori, Bhel Puri, Panipuri, Chaat, Dahipuri, Sev Puri, Dahi Aloo Puri",Street Food,100,Delivery,Banashankari,Low,Excellent
+Sreeraj Lassi Bar,Yes,No,4.1,210,080 42198037,Jayanagar,"Dessert Parlor, Beverage Shop","Faluda, Mango Lassi, Sweet Lassi, Fruit Salad, Shrikhand, Matka Kulfi, Pudina Lassi",Beverages,150,Delivery,Banashankari,Low,Excellent
+Bunt's Biriyani Palace,Yes,No,3,213,"080 26697231
++91 8711090256",Banashankari,Quick Bites,"Neer Dosa, Sea Food, Pepper Chicken","North Indian, South Indian, Chinese, Biryani, Seafood",400,Delivery,Banashankari,Low,Average
+Chai Point,Yes,No,3.2,208,+91 8880141000,Jayanagar,"Beverage Shop, Quick Bites","Ginger Chai, Ginger Tea, Banana Cake, Samosa, Masala Chai, Banana Walnut","Tea, Beverages, Fast Food",250,Delivery,Banashankari,Low,Average
+Janahaar,Yes,No,3.8,70,+91 9740290589,Banashankari,Quick Bites,"Masala Dosa, Idli, Filter Coffee, Medu Dosa",South Indian,100,Delivery,Banashankari,Low,Average
+Redberrys,Yes,No,4,219,+91 9148421256,Basavanagudi,Cafe,"Pizza, Fries, Anjeer Ice Cream, Sandwiches, Gelato, Burgers, Kesar Badam","Cafe, Italian",600,Delivery,Banashankari,Medium,Excellent
+Utsav,Yes,No,3.7,59,+91 9632695401,Banashankari,Quick Bites,"Paratha, Kachori, Tea, Lassi, Samosa, Vada Pav","North Indian, Street Food",200,Delivery,Banashankari,Low,Average
+The Spice Saga,Yes,No,3.7,124,+91 7397773606,Kumaraswamy Layout,Casual Dining,"Biryani, Chicken Grill, Butter Chicken","Biryani, North Indian, Chinese, Seafood",750,Delivery,Banashankari,Medium,Average
+Jalsa,Yes,Yes,4.1,775,"080 42297555
++91 9743772233",Banashankari,Casual Dining,"Pasta, Lunch Buffet, Masala Papad, Paneer Lajawab, Tomato Shorba, Dum Biryani, Sweet Corn Soup","North Indian, Mughlai, Chinese",800,Delivery,Banashankari,Medium,Excellent
+Subz,Yes,Yes,4.2,2022,080 49652607,Jayanagar,Casual Dining,"Veg Buffet, Pasta, Salads, Rasmalai, Chaat, Biryani, Fries","North Indian, South Indian",1000,Delivery,Banashankari,High,Excellent
+Cafe Shuffle,Yes,Yes,4.2,150,+91 9742166777,Banashankari,Cafe,"Mocktails, Peri Fries, Lasagne, Pizza, Chicken Bbq Wings, Virgin Mojito, Nachos","Cafe, Italian, Continental",600,Delivery,Banashankari,Medium,Excellent
+Mint and Mustard,Yes,No,4,232,"+91 8296898737
++91 7003941601",Basavanagudi,Casual Dining,"Paneer Tikka, Masala Papad, Garlic Naan","North Indian, Chinese",750,Delivery,Banashankari,Medium,Excellent
+Punjabi Raswada,Yes,Yes,3.5,431,"+91 9740105551
+080 49784222",Jayanagar,Casual Dining,"Gajar Ka Halwa, Lassi, Jeera Rice, Shahi Paneer, Shikanji, Makke Ki Roti, Kofta Curry",North Indian,800,Delivery,Banashankari,Medium,Average
+Vinny's,Yes,Yes,4.2,2115,080 26716795,Banashankari,Casual Dining,"Pizza, Pasta, Garlic Bread, Nachos, Penne Alfredo, Mozzarella Sticks, Salad","Pizza, Italian, Continental, Desserts",800,Delivery,Banashankari,Medium,Excellent
+Sukh Sagar,Yes,No,3.8,155,080 26634132,Jayanagar,Casual Dining,"Pav Bhaji, Chaat, Sandwiches, Coffee, Noodles, Masala Dosa, Roti","South Indian, North Indian, Chinese, Street Food",450,Delivery,Banashankari,Low,Average
+Andhra Ruchulu,Yes,Yes,4.1,666,"+91 9980909192
++91 9900265022",Jayanagar,"Casual Dining, Bar","Andhra Meal, Mutton Biryani, Chicken Sholay, Chicken Biryani, Chicken Guntur, Andhra Thali, Guava Ice Cream","Andhra, Biryani, North Indian, Chinese",1000,Delivery,Banashankari,High,Excellent
+Steaming Mugs,Yes,No,3.9,240,"+91 9341234538
++91 9886414790",Basavanagudi,Cafe,"Fries, Oreo Shake, Pasta Arrabiata",Cafe,700,Delivery,Banashankari,Medium,Average
+San Churro Cafe,Yes,No,3.8,918,+91 9663487993,Banashankari,"Cafe, Casual Dining","Churros, Cannelloni, Minestrone Soup, Hot Chocolate, Pink Sauce Pasta, Salsa, Veg Supreme Pizza","Cafe, Mexican, Italian",800,Delivery,Banashankari,Medium,Average
+Rajathadri Food Fort,Yes,No,4,465,"080 26539798
++91 7619201123",Jayanagar,Casual Dining,"Butter Naan, Filter Coffee, Pav Bhaji, Vada, Babycorn Manchurian, Tea, Paneer Tikka Masala","South Indian, North Indian, Chinese, Street Food",600,Delivery,Banashankari,Medium,Excellent
+Brew Meister,Yes,Yes,4.1,970,080 49652498,Jayanagar,"Microbrewery, Casual Dining","Cocktails, Pasta, Paneer Tikka, Mocktails, Wheat Beer, Corn Paratha, Misal Pav","North Indian, Continental, Finger Food, American, Asian",1500,Delivery,Banashankari,High,Excellent
+Rasoi,Yes,No,3.3,128,"+91 9738019114
+080 66816116",Banashankari,Quick Bites,"Lassi, Panneer Butter Masala, Paratha, Thali","North Indian, Chinese",300,Delivery,Banashankari,Low,Average
+Mr. Singh Da Dhaba,Yes,No,3.6,241,+91 7406512549,Kumaraswamy Layout,Quick Bites,"Mughlai Paratha, Laccha Paratha, Rolls","North Indian, Chinese",300,Delivery,Banashankari,Low,Average
+Ayodhya Upachar,Yes,No,4.3,734,"080 26694999
+00 09901269901",Banashankari,Quick Bites,"Panneer Butter Masala, Vada, Curd Rice, Idli, Jeera Rice, Naan, Kulcha","South Indian, North Indian, Chinese, Street Food",200,Delivery,Banashankari,Low,Excellent
+Biriyani Mane,Yes,No,3.8,130,080 22444614,Jayanagar,Quick Bites,"Biryani, Chilli Chicken, Neer Dosa","North Indian, Biryani",400,Delivery,Banashankari,Low,Average
+Cafe Ajfan,Yes,No,4.2,261,"+91 7022022107
++91 9606791771",Jayanagar,Cafe,"Sandwiches, Pasta, Cobb Salad, Pizza, Burgers, Calzone, Fries","Cafe, Continental, Beverages",700,Delivery,Banashankari,Medium,Excellent
+Brundhavana Food Point,Yes,No,4,191,+91 9743518909,Kumaraswamy Layout,Quick Bites,Biryani,"South Indian, North Indian, Chinese, Street Food, Beverages",300,Delivery,Banashankari,Low,Excellent
+SLV Corner Restaurant,Yes,No,4.1,364,080 49653234,Basavanagudi,Casual Dining,"Masala Dosa, Filter Coffee, Maddur Vada, Curd Vadai, Onion Dosa, Upma, Sunday Breakfast","South Indian, Chinese, North Indian, Street Food, Rolls, Juices",550,Delivery,Banashankari,Medium,Excellent
+The Krishna Grand,Yes,No,3.9,888,"080 26711192
++91 7022268193",Banashankari,Casual Dining,"Spring Dosa, Coffee, Spring Roll, Masala Papad, Rava Idli, Panneer Butter Masala, Chaat","North Indian, South Indian, Chinese, Fast Food, Juices",750,Delivery,Banashankari,Medium,Average
+Roti Ghar,Yes,No,3.9,750,"080 26629734
++91 9880141967",Basavanagudi,Casual Dining,"Coffee, Spring Roll, Roti, Panneer Butter Masala, Noodles, Butter Naan, Masala Dosa","North Indian, Chinese, South Indian",500,Delivery,Banashankari,Medium,Average
+The Coffee Shack,Yes,Yes,4.2,164,+91 9731644212,Banashankari,Cafe,"Coffee, Spaghetti, Pancakes, Nachos, Pasta, Sandwich, Garlic Bread","Cafe, Chinese, Continental, Italian",500,Delivery,Banashankari,Medium,Excellent
+Baisakhi,Yes,No,3.8,527,+91 7204339999,Basavanagudi,Casual Dining,"Masala Chaach, Tomato Shorba, Gajar Ka Halwa, Biryani, Deluxe Punjabi Thali, Rajma, Paneer Tikka Masala",North Indian,500,Delivery,Banashankari,Medium,Average
+Corner House Ice Cream,No,No,4.3,345,"080 26713965
++91 9845444155",Banashankari,Dessert Parlor,"Hot Chocolate Fudge, Vanilla Ice Cream, Fudge Cake, Chocolate Mousse","Ice Cream, Desserts",400,Desserts,Banashankari,Low,Excellent
+Poonam Sweets,No,No,4.4,356,"080 26714711
++91 9844188316",Banashankari,Sweet Shop,"Dhokla, Jalebi, Badam Milk, Rabri, Rasgulla, Rasmalai, Samosa Kachori",Mithai,150,Desserts,Banashankari,Low,Excellent
+Old Mumbai Ice Cream,Yes,No,3.9,38,080 49652445,Banashankari,Dessert Parlor,Friendly Staff,Ice Cream,150,Desserts,Banashankari,Low,Average
+Polar Bear,Yes,No,3.9,116,080 45128775,Banashankari,Dessert Parlor,"Sandwiches, Hot Chocolate Fudge, Strawberry Milkshake","Ice Cream, Desserts, Beverages, Sandwich",400,Desserts,Banashankari,Low,Average
+San Churro Cafe,Yes,No,3.8,918,+91 9663487993,Banashankari,"Cafe, Casual Dining","Churros, Cannelloni, Minestrone Soup, Hot Chocolate, Pink Sauce Pasta, Salsa, Veg Supreme Pizza","Cafe, Mexican, Italian",800,Desserts,Banashankari,Medium,Average
+Kirthi's Biryani,Yes,No,3.8,144,"080 26711554
++91 9741406338",Banashankari,Cafe,"Pasta, Gelato, Garlic Bread, Mojito, Nachos, Paneer Pizza, Mocktails","Chinese, Cafe, Italian",700,Desserts,Banashankari,Medium,Average
+Stoned Monkey,Yes,No,4.3,860,"+91 9972710694
++91 9972710894",Banashankari,Dessert Parlor,"Nachos, Cup Cake, Hot Chocolate Fudge, Salsa, Cheesy Garlic Bread, Waffles, Tiramisu","Desserts, Ice Cream",500,Desserts,Banashankari,Medium,Excellent
+Floured-Baked With Love,No,No,3.8,45,"+91 9845552266
++91 9845552288",Banashankari,"Takeaway, Delivery","Cup Cake, Chocolate Cake",Bakery,400,Desserts,Banashankari,Low,Average
+Waffle-A-Go Go,Yes,No,3.9,70,+91 9900281611,Banashankari,Dessert Parlor,Waffles,"Fast Food, Desserts, Ice Cream",400,Desserts,Banashankari,Low,Average
+Sri Venkateshwara Sweet Meat Stall,No,No,4,98,080 26677131,Basavanagudi,"Sweet Shop, Quick Bites","Mysore Pak, Pav Bhaji, Chaat, Masala Poori, Badam Milk, Paratha, Panipuri","Mithai, Street Food, North Indian, Chinese",400,Desserts,Banashankari,Low,Excellent
+Redberrys,Yes,No,4,219,+91 9148421256,Basavanagudi,Cafe,"Pizza, Fries, Anjeer Ice Cream, Sandwiches, Gelato, Burgers, Kesar Badam","Cafe, Italian",600,Desserts,Banashankari,Medium,Excellent
+Amande Patisserie,Yes,No,4,73,080 26761080,Basavanagudi,Bakery,"Macaroon, Mousse, Caramel Eclair","Bakery, French, Desserts",300,Desserts,Banashankari,Low,Excellent
+A2B Veg - Adyar Ananda Bhavan,Yes,No,2.7,97,"080 26621222
+080 41203999",Basavanagudi,Casual Dining,Masala Dosa,"South Indian, North Indian, Chinese, Street Food",400,Desserts,Banashankari,Low,Poor
+The Krishna Grand,Yes,No,3.9,888,"080 26711192
++91 7022268193",Banashankari,Casual Dining,"Spring Dosa, Coffee, Spring Roll, Masala Papad, Rava Idli, Panneer Butter Masala, Chaat","North Indian, South Indian, Chinese, Fast Food, Juices",750,Dine-out,Banashankari,Medium,Average
+Sea Spice by 7 Star,Yes,Yes,4,349,080 49653393,Banashankari,Casual Dining,"Sea Food, Neer Dosa, Anjal Masala Fry, Coconut Pudding, Chicken Biryani, Roti, Fish Curry","Seafood, Biryani, Beverages, South Indian, North Indian, Kebab",1200,Dine-out,Banashankari,High,Excellent
+Mini Punjabi Dhaba,Yes,No,4.2,287,"+91 9845044074
++91 7406012344",Banashankari,Quick Bites,"Panneer Butter Masala, Lassi, Paratha, Jeera Rice, Paneer Parantha, Bhindi Fry, Veg Kolhapuri",North Indian,350,Dine-out,Banashankari,Low,Excellent
+Onesta,Yes,Yes,4.6,2556,"080 48653961
+080 48655715",Banashankari,"Casual Dining, Cafe","Farmhouse Pizza, Chocolate Banana, Virgin Mojito, Pasta, Paneer Tikka, Lime Soda, Prawn Pizza","Pizza, Cafe, Italian",600,Dine-out,Banashankari,Medium,Excellent
+Wamama,Yes,Yes,4.2,354,"+91 8042111599
++91 8971818009",Banashankari,Casual Dining,"Sushi, Noodles, Wine, Khau Suey, Mocktails, Yakisoba, Spring Roll","Asian, Korean, Indonesian, Japanese, Chinese, Thai, Momos",800,Dine-out,Banashankari,Medium,Excellent
+Jalsa,Yes,Yes,4.1,775,"080 42297555
++91 9743772233",Banashankari,Casual Dining,"Pasta, Lunch Buffet, Masala Papad, Paneer Lajawab, Tomato Shorba, Dum Biryani, Sweet Corn Soup","North Indian, Mughlai, Chinese",800,Dine-out,Banashankari,Medium,Excellent
+Vinny's,Yes,Yes,4.2,2115,080 26716795,Banashankari,Casual Dining,"Pizza, Pasta, Garlic Bread, Nachos, Penne Alfredo, Mozzarella Sticks, Salad","Pizza, Italian, Continental, Desserts",800,Dine-out,Banashankari,Medium,Excellent
+Jcubez,No,Yes,3.8,977,"+91 9740425235
++91 8746006497",Banashankari,Lounge,"Beer, Chicken Wings, Chilli Chicken, Onion Rings, Fries",Finger Food,1300,Dine-out,Banashankari,High,Average
+Gustoes Beer House,No,No,4.1,868,080 49653521,Banashankari,Pub,"Beer, Wedges, Pizza, Nachos, Salads, Papaya Salad, Buffalo Wings","Continental, Italian, Mexican, North Indian, Chinese, Steak",1200,Dine-out,Banashankari,High,Excellent
+Penthouse Cafe,Yes,No,4,324,"+91 8884135549
++91 9449449316",Banashankari,Cafe,"Pizza, Mocktails, Coffee, Nachos, Salad, Pasta, Sandwiches","Cafe, Italian, Continental",700,Dine-out,Banashankari,Medium,Excellent
+Spice Elephant,Yes,No,4.1,787,080 41714161,Banashankari,Casual Dining,"Momos, Lunch Buffet, Chocolate Nirvana, Thai Green Curry, Paneer Tikka, Dum Biryani, Chicken Biryani","Chinese, North Indian, Thai",800,Dine-out,Banashankari,Medium,Excellent
+Smacznego,Yes,No,4.2,504,"+91 9945230807
++91 9743804471",Banashankari,Cafe,"Waffles, Pasta, Coleslaw Sandwich, Choco Waffle, Tacos, Momos, Cheese Nachos","Cafe, Mexican, Italian, Momos, Beverages",550,Dine-out,Banashankari,Medium,Excellent
+CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© Down The Alley,Yes,No,4.1,402,"080 26724489
++91 7406048982",Banashankari,Cafe,"Waffles, Pasta, Crispy Chicken, Honey Chilli Chicken, Sandwich, Coffee, Crepe",Cafe,500,Dine-out,Banashankari,Medium,Excellent
+Cafe Shuffle,Yes,Yes,4.2,150,+91 9742166777,Banashankari,Cafe,"Mocktails, Peri Fries, Lasagne, Pizza, Chicken Bbq Wings, Virgin Mojito, Nachos","Cafe, Italian, Continental",600,Dine-out,Banashankari,Medium,Excellent
+The Coffee Shack,Yes,Yes,4.2,164,+91 9731644212,Banashankari,Cafe,"Coffee, Spaghetti, Pancakes, Nachos, Pasta, Sandwich, Garlic Bread","Cafe, Chinese, Continental, Italian",500,Dine-out,Banashankari,Medium,Excellent
+Peppy Peppers,No,No,4.2,244,"+91 8042297555
++91 7022455300",Banashankari,Casual Dining,"Pasta, Pepper Pizza, Paneer Pizza, Peppy Paneer, Nachos, Supreme Pizza, Manchow Soup","Italian, North Indian, Mexican",800,Dine-out,Banashankari,Medium,Excellent
+Anna Kuteera,Yes,No,4,771,+91 9620009302,Banashankari,Casual Dining,"Panner Tikka, Kulfi, Coffee, Pav Bhaji, Carrot Halwa, Fried Rice, Set Dosa","South Indian, North Indian, Chinese",450,Dine-out,Banashankari,Low,Excellent
+Szechuan Dragon,Yes,No,4.2,1647,"00 919663567711
++91 9916326323",Banashankari,Casual Dining,"Noodles, Momos, Veg Manchow Soup, Kung Pao Chicken, Chicken Lollipop, Chop Suey, Dragon Chicken","Chinese, Thai, Momos",600,Dine-out,Banashankari,Medium,Excellent
+1947,No,Yes,4,808,"080 26791213
++91 9739989446",Banashankari,Casual Dining,"Salads, Panneer Butter Masala, Rabri, Gajar Ka Halwa, Manchow Soup, Aam Panna, Tomato Basil Soup","North Indian, Chinese",850,Dine-out,Banashankari,Medium,Excellent
+Caf-Eleven,No,No,4,424,080 49577715,Banashankari,Cafe,"Sandwich, Omelette, Ice Tea, Virgin Mojito, Hot Chocolate, Pasta Arrabiata, Hazelnut Cappuccino","Cafe, Continental",450,Dine-out,Banashankari,Low,Excellent
+Thamboola,Yes,No,3.9,135,"080 26711258
++91 9845154172",Banashankari,Casual Dining,"Spring Roll, Manchow Soup, Babycorn Manchurian, Mint Cooler, Roti, Panneer Butter Masala","North Indian, Chinese, Continental",800,Dine-out,Banashankari,Medium,Average
+San Churro Cafe,Yes,No,3.8,918,+91 9663487993,Banashankari,"Cafe, Casual Dining","Churros, Cannelloni, Minestrone Soup, Hot Chocolate, Pink Sauce Pasta, Salsa, Veg Supreme Pizza","Cafe, Mexican, Italian",800,Dine-out,Banashankari,Medium,Average
+Cafe Vivacity,Yes,No,3.8,90,"080 26768182
++91 9845704455",Banashankari,Cafe,"Garlic Bread, Burgers, Sandwiches, Pizza, Hot Chocolate Fudge, Waffles, Potato Wedges",Cafe,650,Dine-out,Banashankari,Medium,Average
+Chung Wah,Yes,No,3.9,519,"080 41553388
++91 8041604095",Banashankari,Casual Dining,"Tom Yum Soup, Wine, Spring Roll, Singapore Noodles, Manchow Soup, Golden Fried Prawns, Lamb","Chinese, Momos, Thai, Vietnamese",900,Dine-out,Banashankari,Medium,Average
+Vietnamese Kitchen,Yes,No,3.6,105,"080 26697884
+080 26697883",Banashankari,Casual Dining,"Pho, Papaya Salad, Coffee, Veg Momos, Rolls",Vietnamese,700,Dine-out,Banashankari,Medium,Average
+Catch-up-ino,Yes,No,3.9,133,"+91 9972988038
++91 9900121238",Banashankari,Cafe,"Momos, Mushroom Bruschettas, Jalapeno Cheeseballs, Pasta, Red Velvet Shake, Red Velvet Milkshake, Maggi","Cafe, Fast Food, Continental, Chinese, Momos",800,Dine-out,Banashankari,Medium,Average
+Kirthi's Biryani,Yes,No,3.8,144,"080 26711554
++91 9741406338",Banashankari,Cafe,"Pasta, Gelato, Garlic Bread, Mojito, Nachos, Paneer Pizza, Mocktails","Chinese, Cafe, Italian",700,Dine-out,Banashankari,Medium,Average
+T3H Cafe,No,No,3.9,93,+91 8884726600,Banashankari,Cafe,"Cheese Maggi, Peri Peri Fries, Pasta Arrabiata","Cafe, Italian, American",300,Dine-out,Banashankari,Low,Average
+Srikrishna Bhavan,Yes,No,3.8,42,"+91 9590895055
++91 9845664745",Banashankari,Quick Bites,"Roti, Masala Dosa","South Indian, North Indian, Chinese",300,Dine-out,Banashankari,Low,Average
+Dal Tadkaa,Yes,No,2.5,247,"080 26691763
++91 9620138000",Banashankari,Casual Dining,"Paratha, Boondi Raita, Roti, Kulfi, Panneer Butter Masala, Sweet Lassi, Dal Tadka",North Indian,500,Dine-out,Banashankari,Medium,Poor
+The Vintage Cafe,Yes,No,3,62,"+91 9880016665
++91 8217311687",Banashankari,Cafe,"Burgers, Caramel Milkshake, Iced Coffee, Iced Tea","Cafe, French, North Indian",400,Dine-out,Banashankari,Low,Average
+Green Gardenia,Yes,No,3.8,160,"080 26698822
++91 9945704570",Banashankari,Casual Dining,"Masala Papad, Paneer Satay, Paneer Hyderabadi, Butter Naan, Roti","North Indian, Chinese",700,Dine-out,Banashankari,Medium,Average
+Kadala Tarangaa,Yes,No,3.6,129,"+91 9743491480
++91 9483528275",Banashankari,Casual Dining,"Sea Food, Neer Dosa","Mangalorean, Seafood, North Indian",600,Dine-out,Banashankari,Medium,Average
+Vi Ra's Bar and Restaurant,No,No,3.3,62,"+91 9845063930
++91 7411148111",Banashankari,Bar,Chilli Chicken,"South Indian, North Indian, Chinese",800,Dine-out,Banashankari,Medium,Average
+Nandhini Deluxe,No,No,2.6,283,"080 26890011
+080 26890033",Banashankari,Casual Dining,"Biryani, Chicken Guntur, Thali, Buttermilk, Manchurian",North Indian,600,Dine-out,Banashankari,Medium,Poor
+J Spice,Yes,No,3.8,59,"+91 8026739252
++91 9008520007",Banashankari,Casual Dining,"Stuffed Mushroom, Chicken Biryani, Jal-jeera","North Indian, Chinese",750,Dine-out,Banashankari,Medium,Average
+Swadesh Tadka,Yes,No,3.5,179,"080 42151252
++91 9886681252",Banashankari,Casual Dining,"Gulab Jamun, Roti, Masala Papad, Babycorn Manchurian, Paratha, Clear Soup, Biryani","North Indian, Chinese, Beverages",600,Dine-out,Banashankari,Medium,Average
+Iyer's Tiffin Centre,No,No,3.8,62,+91 9986669388,Banashankari,Quick Bites,"Kesari Bath, Masala Dosa","South Indian, Chinese",150,Dine-out,Banashankari,Low,Average
+Darbar,No,No,3,98,+91 8861271465,Banashankari,Bar,"Paneer Tikka, Dal Kichadi, French Fries","North Indian, Chinese",800,Dine-out,Banashankari,Medium,Average
+Beijing Bites,No,No,2.7,128,"080 42068388
+080 42068488",Banashankari,Casual Dining,"Cantonese Noodles, Basil Chicken, Hunan Chicken Gravy, Manchow Soup, Dragon Chicken, Chicken Grill","Chinese, Thai",850,Dine-out,Banashankari,Medium,Poor
+The Pizzeria,Yes,No,2.8,45,"+91 9845154172
++91 9620344606",Banashankari,Casual Dining,Pesto Pizza,"Pizza, Italian, Salad",800,Dine-out,Banashankari,Medium,Poor
+As On Fire,Yes,No,3.5,41,+91 9731111852,South Bangalore,Food Truck,Pizza,"Pizza, Fast Food, BBQ",400,Dine-out,Banashankari,Low,Average
+Pizza Hut,Yes,No,3.7,405,"080 39883988
+080 26799999",Banashankari,Casual Dining,"Pizza, Potato Wedges, Country Feast, Pasta, Garlic Bread, Lemonade","Pizza, Fast Food",750,Dine-out,Banashankari,Medium,Average
+New Prashanth Hotel,Yes,No,3.9,388,"080 49569558
++91 8197819686",Banashankari,Casual Dining,"Chicken Biryani, Ragi Mudde, Mutton Chops","Biryani, North Indian, Seafood, Andhra",650,Dine-out,Banashankari,Medium,Average
+Taaza Thindi,No,No,4.7,651,080 49510845,Banashankari,Quick Bites,"Masala Dosa, Vada, Upma, Filter Coffee, Kesari Bath, Idli Chutney, Kharabath",South Indian,100,Dine-out,Banashankari,Low,Excellent
+Ayodhya Upachar,Yes,No,4.3,734,"080 26694999
+00 09901269901",Banashankari,Quick Bites,"Panneer Butter Masala, Vada, Curd Rice, Idli, Jeera Rice, Naan, Kulcha","South Indian, North Indian, Chinese, Street Food",200,Dine-out,Banashankari,Low,Excellent
+Roving Feast,No,No,4,1047,"080 42024092
+080 42274242",Banashankari,Quick Bites,"Pasta, Momos, Rolls, Chicken Roll, Chilli Chicken, Paneer Roll, Spaghetti","Italian, Continental, Fast Food, Chinese, Momos",450,Dine-out,Banashankari,Low,Excellent
+KFC,Yes,No,3.8,505,080 33994444,Banashankari,Quick Bites,"Burgers, French Fries","Burger, Fast Food",450,Dine-out,Banashankari,Low,Average
+Gama Gama,Yes,No,3.9,264,"+91 9739946098
++91 9538433344",Banashankari,Quick Bites,"Jowar Roti, Buttermilk, Sabudana Vada, Thali, Mirchi Bajji, Brinjal Curry",South Indian,200,Dine-out,Banashankari,Low,Average
+McDonald's,Yes,No,3.9,286,"080 66000666
+080 42005285",Banashankari,Quick Bites,"Burgers, Fries, Hot Chocolate","Burger, Fast Food",500,Dine-out,Banashankari,Medium,Average
+Sri Laxmi Venkateshwara Coffee Bar,No,No,4.4,343,+91 8971691805,Banashankari,Quick Bites,"Masala Dosa, Idli Chutney, Kharabath, Filter Coffee, Kesari Bath, Idli Vada, Maddur Vada",South Indian,100,Dine-out,Banashankari,Low,Excellent
+Messy Bowl,No,No,3.8,70,+91 8553453196,Banashankari,Quick Bites,"Tandoori Maggi, Paneer Sizzler, Pasta, Pizza, Butter Garlic Fries, Peri Peri Maggi, Garlic Maggi","Fast Food, Beverages",500,Dine-out,Banashankari,Medium,Average
+Janahaar,Yes,No,3.8,70,+91 9740290589,Banashankari,Quick Bites,"Masala Dosa, Idli, Filter Coffee, Medu Dosa",South Indian,100,Dine-out,Banashankari,Low,Average
+Chumma Delicious,Yes,No,3.7,237,"+91 9341262402
++91 9108648373",Banashankari,Quick Bites,Chicken Biryani,"South Indian, Fast Food",200,Dine-out,Banashankari,Low,Average
+Bengaluru Coffee House,Yes,No,4.1,201,+91 9740180090,Banashankari,Quick Bites,"Masala Dosa, Tirupathi Pongal, Filter Coffee, Vada, Kharabath, Kali Dosa, Rava Idli","South Indian, North Indian, Chinese, Street Food",300,Dine-out,Banashankari,Low,Excellent
+Foodiction,Yes,No,2.8,506,+91 9916107070,Banashankari,Quick Bites,"Burgers, Lassi, Chicken Grill, Naan, Momos, Chicken Burger, Biryani","North Indian, Fast Food, Chinese, Burger",500,Dine-out,Banashankari,Medium,Poor
+The Biryani Cafe,No,No,4.1,520,+91 7010846043,Banashankari,Quick Bites,"Vegetable Biryani, Ginger Chicken, Chicken Biryani, Donne Biryani, Chicken Kebab, Egg Bhurji, Dum Biryani","Biryani, Chinese, Kebab",300,Dine-out,Banashankari,Low,Excellent
+Addhuri Udupi Bhojana,No,No,3.7,88,+91 9620009302,Banashankari,Quick Bites,Masala Dosa,"South Indian, North Indian",300,Dine-out,Banashankari,Low,Average
+Subway,Yes,No,3.7,136,"080 42136088
+080 26719446",Banashankari,Quick Bites,"Veggie Delight, Paneer Tikka, Salad","Salad, Fast Food",600,Dine-out,Banashankari,Medium,Average
+Hotel Mangala,No,No,3.9,88,+91 9480126092,Banashankari,Quick Bites,"Khali Dosa, Kali Dosa, Masala Dosa, Vada Sambar",South Indian,250,Dine-out,Banashankari,Low,Average
+SLV Swadishta,No,No,3.8,189,+91 9900166783,Banashankari,Quick Bites,"Coffee, Jeera Rice, Masala Dosa, Neer Dosa",South Indian,300,Dine-out,Banashankari,Low,Average
+Upahar Sagar,No,No,3.8,39,"+91 9164571705
+080 26760336",Banashankari,Quick Bites,Masala Dosa,"South Indian, Chinese, North Indian",350,Dine-out,Banashankari,Low,Average
+Domino's Pizza,Yes,No,3.9,540,"080 26710070
+18602100000",Banashankari,Quick Bites,"Pane Pizza, Lava Cake, Pasta, Stuffed Garlic Bread, Chocolava Cake, Tacos","Pizza, Fast Food",800,Dine-out,Banashankari,Medium,Average
+New Sagar Fast Food,No,No,3.6,71,080 26917517,Banashankari,Quick Bites,"Vegetable Biryani, Masala Dosa, Kulcha, Masala Papad, Tomato Soup","North Indian, South Indian",250,Dine-out,Banashankari,Low,Average
+Chicken Hunt,Yes,No,3.5,88,"+91 8762427116
++91 9591490143",Banashankari,Quick Bites,Chicken Grill,"South Indian, North Indian, Chinese, Biryani",350,Dine-out,Banashankari,Low,Average
+Pizza Stop,Yes,No,3,87,080 46640404,Banashankari,Quick Bites,"Garlic Bread, Pasta, Nachos, Salsa, Thin Crust Pizza","Pizza, Italian",600,Dine-out,Banashankari,Medium,Average
+Faasos,Yes,No,4.2,415,+91 7700020020,Banashankari,Quick Bites,"Rolls, Veggie Wrap, Chocolate Fantasy, Rice Bowls, Chicken Rice, Paneer Makhanwala, Chicken Tikka Wrap","North Indian, Biryani, Fast Food",500,Dine-out,Banashankari,Medium,Excellent
+Rasoi,Yes,No,3.3,128,"+91 9738019114
+080 66816116",Banashankari,Quick Bites,"Lassi, Panneer Butter Masala, Paratha, Thali","North Indian, Chinese",300,Dine-out,Banashankari,Low,Average
+SLV Refreshment,No,No,4.1,94,+91 9480243556,Banashankari,Quick Bites,"Coffee, Masala Dosa, Kharabath, Idli Vada, Kesari Bath",South Indian,100,Dine-out,Banashankari,Low,Excellent
+Chatar Patar,No,No,3.7,65,+91 7619353103,Banashankari,Quick Bites,"Panipuri, Chaat, Noodles, Dahi Bhalle","Fast Food, Street Food",300,Dine-out,Banashankari,Low,Average
+Kidambi's Kitchen,No,No,3.5,52,"080 42112211
++91 9880412211",Banashankari,Quick Bites,Rooftop Ambience,South Indian,300,Dine-out,Banashankari,Low,Average
+Tandoori Knight,Yes,No,3,290,"+91 9035297404
++91 9731504721",Banashankari,Quick Bites,"Chicken Grill, Biryani, Roti, Chicken Masala","North Indian, Chinese, Biryani, Kebab",450,Dine-out,Banashankari,Low,Average
+Utsav,Yes,No,3.7,59,+91 9632695401,Banashankari,Quick Bites,"Paratha, Kachori, Tea, Lassi, Samosa, Vada Pav","North Indian, Street Food",200,Dine-out,Banashankari,Low,Average
+Mane Thindi,No,No,3.7,130,+91 9964410276,Banashankari,Quick Bites,"Coffee, Tea, Kesari Bath, Open Dosa, Vada, Idli, Bread Dosa",South Indian,200,Dine-out,Banashankari,Low,Average
+Juicy Momos,Yes,No,3.5,80,+91 9538550509,Banashankari,Quick Bites,"Rolls, Burgers, Juicy Momos, Chicken Momo, Chocolate Momos, Mushroom Momo, Paneer Momos","Tibetan, Momos",250,Dine-out,Banashankari,Low,Average
+Donne Biriyani House,Yes,No,3.9,441,"+91 8197743537
+080 26690642",Banashankari,Quick Bites,Biryani,"South Indian, North Indian, Chinese, Biryani",400,Dine-out,Banashankari,Low,Average
+Matru Sagar,Yes,No,3.6,84,+91 9972368854,Banashankari,Quick Bites,"Coffee, Masala Dosa","South Indian, North Indian, Chinese",250,Dine-out,Banashankari,Low,Average
+Kavali,No,No,4,42,+91 9900998811,Banashankari,Quick Bites,"Cheese Dosa, Chocolate Dosa, Corn Dosa, Pesarattu, Bread Dosa","South Indian, Street Food",300,Dine-out,Banashankari,Low,Excellent
+Bunt's Biriyani Palace,Yes,No,3,213,"080 26697231
++91 8711090256",Banashankari,Quick Bites,"Neer Dosa, Sea Food, Pepper Chicken","North Indian, South Indian, Chinese, Biryani, Seafood",400,Dine-out,Banashankari,Low,Average
+Ranganna Military Hotel,No,No,4.2,725,080 43027346,Jayanagar,Quick Bites,"Mutton Biryani, Mutton Chops, Chicken Biryani, Chicken Fry, Paya, Mutton Fry, Chilli Chicken","South Indian, Biryani",350,Dine-out,Banashankari,Low,Excellent
+Roti Ghar,Yes,No,3.9,750,"080 26629734
++91 9880141967",Basavanagudi,Casual Dining,"Coffee, Spring Roll, Roti, Panneer Butter Masala, Noodles, Butter Naan, Masala Dosa","North Indian, Chinese, South Indian",500,Dine-out,Banashankari,Medium,Average
+Grand Village,No,No,3.8,166,"+91 8026612447
++91 9901210005",Basavanagudi,Casual Dining,"Panipuri, Gol Gappe","North Indian, Rajasthani",600,Dine-out,Banashankari,Medium,Average
+Vidyarthi Bhavan,No,No,4.4,4460,080 26677588,Basavanagudi,Quick Bites,"Filter Kaapi, Filter Coffee, Khara Bhath, Maddur Vada, Crispy Masala Dosa, Kesari Bath, Ghee Masala Dosa",South Indian,150,Dine-out,Banashankari,Low,Excellent
+Bharjari Oota,No,No,3.9,153,080 26629734,Basavanagudi,Casual Dining,"Curd Rice, Coriander Soup, Masala Dosa, Biryani, Thali",South Indian,350,Dine-out,Banashankari,Low,Average
+Gokul Veg,Yes,No,3.8,469,"+91 9980978388
+080 26627612",Basavanagudi,Casual Dining,"Masala Papad, Paneer Satay, Vegetable Biryani, Panneer Butter Masala, Tomato Soup, Manchow Soup, Roti","North Indian, Chinese, Beverages",750,Dine-out,Banashankari,Medium,Average
+SLV Corner Restaurant,Yes,No,4.1,364,080 49653234,Basavanagudi,Casual Dining,"Masala Dosa, Filter Coffee, Maddur Vada, Curd Vadai, Onion Dosa, Upma, Sunday Breakfast","South Indian, Chinese, North Indian, Street Food, Rolls, Juices",550,Dine-out,Banashankari,Medium,Excellent
+Timepass Dinner,Yes,No,3.8,286,"+91 9980040002
++91 9980063005",Basavanagudi,Casual Dining,"Onion Rings, Pasta, Kadhai Paneer, Salads, Salad, Roti, Jeera Rice",North Indian,600,Dine-out,Banashankari,Medium,Average
+Baisakhi,Yes,No,3.8,527,+91 7204339999,Basavanagudi,Casual Dining,"Masala Chaach, Tomato Shorba, Gajar Ka Halwa, Biryani, Deluxe Punjabi Thali, Rajma, Paneer Tikka Masala",North Indian,500,Dine-out,Banashankari,Medium,Average
+Eat Repeat,Yes,No,3.9,101,"+91 9945607074
++91 9880308011",Basavanagudi,Quick Bites,"Sweet Pongal, Curd Rice",South Indian,150,Dine-out,Banashankari,Low,Average
+Sri Guru Kottureshwara Davangere Benne Dosa,Yes,No,4.1,558,"+91 9448305384
++91 9060079480",Basavanagudi,Quick Bites,"Benne Dosa, Mirchi Bajji, Filter Coffee, Poha, Tea, Butter Dosa, Crispy Dosa",South Indian,150,Dine-out,Banashankari,Low,Excellent
+Srinathji's Cafe,No,No,3.8,148,"080 26600704
++91 9342593424",Basavanagudi,"Casual Dining, Cafe","Paratha, Sandwich, Chilli Idli, Noodles, Sandwiches, Lime Soda","North Indian, Cafe, Chinese, Fast Food",550,Dine-out,Banashankari,Medium,Average
+Soho Bar & Grill,No,No,2.7,377,"080 41609445
+080 41609443",Basavanagudi,Pub,"Thai Chicken, Chicken Lollipop, Cocktails, Jeera Rice, Rolls, Draught Beer, French Fries","North Indian, Chinese, Thai",1100,Dine-out,Banashankari,High,Poor
+Kollapuri's,No,No,3.9,206,080 41205839,Basavanagudi,Quick Bites,"Chicken Biryani, Mutton Biryani, Egg Biryani, Chicken Fry, Mutton Fry","South Indian, Mangalorean",450,Dine-out,Banashankari,Low,Average
+Bhavani Restaurant,No,No,3.9,100,"+91 7349414217
+080 43752748",Basavanagudi,Quick Bites,"Coffee, Vada, Curd Rice, Ghee Roast Paneer, Thali","South Indian, North Indian, Chinese",300,Dine-out,Banashankari,Low,Average
+Puliyogare Point,Yes,No,4.2,444,"+91 9986953484
++91 9880156235",Basavanagudi,Quick Bites,"Sweet Pongal, Mini Idlis, Filter Coffee, Open Masala Dosa, Pakoda, Vada, Raagi Dosa",South Indian,100,Dine-out,Banashankari,Low,Excellent
+Zephyr,No,No,3.9,133,"+91 9632248392
+080 41476255",Basavanagudi,Casual Dining,"Chilli Paneer Pizza, Mocktails, French Fries, White Sauce Pasta, Nachos, Manchurian","Italian, Continental",650,Dine-out,Banashankari,Medium,Average
+Redberrys,Yes,No,4,219,+91 9148421256,Basavanagudi,Cafe,"Pizza, Fries, Anjeer Ice Cream, Sandwiches, Gelato, Burgers, Kesar Badam","Cafe, Italian",600,Dine-out,Banashankari,Medium,Excellent
+Hotel Dwarka,No,No,4.2,253,"080 25905217
++91 9886757366",Basavanagudi,Quick Bites,"Khali Dosa, Kali Dosa, Upma, Filter Coffee, Kesari Bath, Set Dosa, Masala Dosa",South Indian,250,Dine-out,Banashankari,Low,Excellent
+Ma-Arya Family Restaurant,No,No,3.7,61,"080 26601211
++91 9620007561",Basavanagudi,Casual Dining,"Mutton Biryani, Crispy Fried Chicken","Biryani, South Indian, North Indian, Chinese, Andhra",600,Dine-out,Banashankari,Medium,Average
+A2B - Adyar Ananda Bhavan,Yes,No,3.8,155,"080 26746999
+080 26748999",Mysore Road,Casual Dining,"Pav Bhaji, Masala Dosa, Idli Vada, Filter Coffee, Pongal, Curd Rice, Kesari Bath","South Indian, Fast Food, Street Food",400,Dine-out,Banashankari,Low,Average
+Ragoo's,Yes,No,3.9,233,"080 26762888
+080 26763888",Jayanagar,Casual Dining,"Corn Augratin, Lasagne, Fries, Garlic Bread, Pili Pili Pizza, Mexican Rice, Ravioli","Italian, Pizza, North Indian, Salad",800,Dine-out,Banashankari,Medium,Average
+Imperial Restaurant,Yes,No,3.7,264,"+91 7338431313
+080 26741313",Mysore Road,Casual Dining,"Kadhai Paneer, Ghee Rice, Chicken Grill, Shawarma, Paratha, Biryani, Butter Chicken","North Indian, Chinese, Biryani, Beverages",750,Dine-out,Banashankari,Medium,Average
+Udupi Sri Krishna Bhavan,No,No,4.1,238,080 26676566,Basavanagudi,Quick Bites,"Masala Dosa, Vada, Obbattu, Badam Milk, Khara Bhath, Coffee, Puri Saagu",South Indian,600,Dine-out,Banashankari,Medium,Excellent
+Curry Leaves,Yes,No,4.1,176,"+91 8048666976
++91 8026760130",Basavanagudi,Casual Dining,"Brownie, Mojito, Prawn Ghee Roast, Corn Tikki, Mushroom Ghee Roast, Pinacolada, Biryani","Andhra, North Indian, Chinese",800,Dine-out,Banashankari,Medium,Excellent
+Goli Vada Pav No. 1,Yes,No,3.7,93,"+91 9845208282
++91 9538308282",Basavanagudi,Quick Bites,"Masala Vada Pav, Cheese Vada Pav, Fries",Street Food,200,Dine-out,Banashankari,Low,Average
+Ice Thunder,No,No,3.8,124,+91 9845366565,Basavanagudi,Quick Bites,"Masala Poori, Rumali Roti, Sandwiches, Chaat, Burgers","South Indian, Fast Food, North Indian, Desserts",300,Dine-out,Banashankari,Low,Average
+South Kitchen,Yes,No,4.3,275,+91 9880980009,Basavanagudi,Quick Bites,"Kharabath, Crispy Vada, Filter Coffee, Idli Vada, Idli Chutney, Kesari Bath, Gulab Jamun",South Indian,100,Dine-out,Banashankari,Low,Excellent
+Upahara Darshini,No,No,4.2,254,080 26611355,Basavanagudi,Quick Bites,"Masala Dosa, Vada, Set Dosa, Filter Coffee, Raita, Idli Sambar, Crispy Dosa",South Indian,150,Dine-out,Banashankari,Low,Excellent
+Mahalaxmi Tiffin Room,No,No,4.1,177,+91 8762687707,Basavanagudi,Quick Bites,"Filter Coffee, Rava Idli, Kali Dosa, Carrot Halwa, Idli Vada, Vada Sambar, Bonda",South Indian,100,Dine-out,Banashankari,Low,Excellent
+Sandwichwallas,Yes,No,4,132,+91 8277204538,Basavanagudi,Quick Bites,"Sandwiches, Veg Burger, Pizza Sandwich, Burgers, French Fries, Wedges, Club Sandwich",Fast Food,200,Dine-out,Banashankari,Low,Excellent
+Udupi Grand,Yes,No,3.8,74,"+91 9242115999
++91 9591322733",Basavanagudi,Quick Bites,"Coffee, Masala Dosa, Vegetable Biryani","South Indian, North Indian, Chinese",300,Dine-out,Banashankari,Low,Average
+Castle Rock,Yes,No,3.6,172,"080 42014000
++91 9845030125",Uttarahalli,Casual Dining,Biryani,"North Indian, Chinese",700,Dine-out,Banashankari,Medium,Average
+Kamat Bugle Rock,Yes,No,3.9,543,080 26605734,Basavanagudi,Quick Bites,"Jowar Roti, Buttermilk, Jolada Rotti, Brinjal Curry, Coffee, Pongal, Vegetable Biryani","South Indian, Fast Food",300,Dine-out,Banashankari,Low,Average
+Basavanagudi Mylari,No,No,4,52,+91 9880623407,Basavanagudi,Quick Bites,"Coffee, Idli, Masala Dosa, Sagu Dosa, Kesari Bath, Kharabath, Plain Dosa",South Indian,300,Dine-out,Banashankari,Low,Excellent
+RS Shiv Sagar,No,No,3.7,217,"080 26604686
+080 26600115",Basavanagudi,Casual Dining,"Chaat, Brownie, Onion Rings, Tomato Soup, Paneer Manchurian, Thali, Faluda","North Indian, Chinese, South Indian, Fast Food, Juices",450,Dine-out,Banashankari,Low,Average
+Pramukh Family Restaurant,No,No,3.9,111,"080 26622484
++91 8970968889",Basavanagudi,Casual Dining,"Murgh Ghee Roast, Malai Kofta, Butter Chicken, Donne Biryani, Cocktails, Palak Rice, Masala Peanuts","North Indian, Chinese, Mughlai",700,Dine-out,Banashankari,Medium,Average
+Chaatimes,Yes,No,3.8,133,+91 8884232233,Basavanagudi,Quick Bites,"Dabeli, Faluda, Masala Poori, Sandwiches, Tokri Chaat, Pav Bhaji, Dahipuri","Street Food, Fast Food",200,Dine-out,Banashankari,Low,Average
+Vybhava,No,No,3.8,39,+91 8026653198,Jayanagar,Quick Bites,"Masala Dosa, Idli, Vada Sambar","South Indian, North Indian",250,Dine-out,Banashankari,Low,Average
+Shree Venkateshwara North Karnataka Hotel,No,No,4,64,+91 8971951073,Basavanagudi,Quick Bites,"Buttermilk, Jolada Rotti",South Indian,200,Dine-out,Banashankari,Low,Excellent
+Harshi Super Sandwich,No,No,3.8,148,+91 9900924729,Basavanagudi,Quick Bites,"Sandwiches, Chocolate Sandwich, Chaat, Veg Cheese Sandwich, Chilli Cheese, Corn Sandwich","Fast Food, Street Food",150,Dine-out,Banashankari,Low,Average
+Belly Squad Food Truck,No,No,3.8,55,+91 7760617526,South Bangalore,Food Truck,"Biryani, Momos, Rolls","Chinese, Rolls, Biryani, Momos",300,Dine-out,Banashankari,Low,Average
+Jcubez,No,Yes,3.8,977,"+91 9740425235
++91 8746006497",Banashankari,Lounge,"Beer, Chicken Wings, Chilli Chicken, Onion Rings, Fries",Finger Food,1300,Drinks & nightlife,Banashankari,High,Average
+Gustoes Beer House,No,No,4.1,868,080 49653521,Banashankari,Pub,"Beer, Wedges, Pizza, Nachos, Salads, Papaya Salad, Buffalo Wings","Continental, Italian, Mexican, North Indian, Chinese, Steak",1200,Drinks & nightlife,Banashankari,High,Excellent
+Vi Ra's Bar and Restaurant,No,No,3.3,62,"+91 9845063930
++91 7411148111",Banashankari,Bar,Chilli Chicken,"South Indian, North Indian, Chinese",800,Drinks & nightlife,Banashankari,Medium,Average
+Darbar,No,No,3,98,+91 8861271465,Banashankari,Bar,"Paneer Tikka, Dal Kichadi, French Fries","North Indian, Chinese",800,Drinks & nightlife,Banashankari,Medium,Average
+Soho Bar & Grill,No,No,2.7,377,"080 41609445
+080 41609443",Basavanagudi,Pub,"Thai Chicken, Chicken Lollipop, Cocktails, Jeera Rice, Rolls, Draught Beer, French Fries","North Indian, Chinese, Thai",1100,Drinks & nightlife,Banashankari,High,Poor
+Deja Vu Resto Bar,Yes,Yes,4.4,2487,+91 9632499855,Bannerghatta Road,Pub,"Gajar Ka Halwa, Chilli Chicken, Hara Bhara Kebab, Custard, Brownie, Sev Puri, Pasta","North Indian, Italian",900,Buffet,Bannerghatta Road,Medium,Excellent
+Fattoush,Yes,Yes,4.2,1964,"080 41425553
++91 7337830044",Bannerghatta Road,Casual Dining,"Mango Chiller, Fattoush, Prawn, Salads, Vegetable Biryani, Irani Chicken Tikka, Chilli Chicken","Arabian, Biryani, Chinese, Middle Eastern, Fast Food, North Indian, Mughlai, Seafood",1000,Buffet,Bannerghatta Road,High,Excellent
+Empire Restaurant,Yes,No,4.3,3178,080 49653239,Bannerghatta Road,Casual Dining,"Chicken Satay, Mutton Brain, Egg Biryani, Paneer Tikka Masala, Rolls, Lemon Chicken, Butter Chicken","North Indian, Mughlai, South Indian, Chinese",750,Buffet,Bannerghatta Road,Medium,Excellent
+Abhiruchi Hotel,Yes,No,3.3,455,"+91 8041470003
++91 8049597979",Bannerghatta Road,Casual Dining,"Egg Biryani, Chicken Curry, Chicken Boneless Biryani, Chilli Chicken, Vegetable Biryani, Jeera Rice","Andhra, Biryani, North Indian, Chinese",550,Buffet,Bannerghatta Road,Medium,Average
+Barbeque Nation,No,Yes,4.7,3845,+91 8064806060,JP Nagar,Casual Dining,"Lunch Buffet, Goan Fish Curry, Mocktails, Chicken Biryani, Cocktails, Paan Kulfi, Pasta","North Indian, European, Mediterranean, BBQ, Kebab",1600,Buffet,Bannerghatta Road,High,Excellent
+Sattvam,No,No,4.3,353,"080 26595000
++91 9483275526",JP Nagar,Casual Dining,"Noodles, Veg Buffet, Mango Juice, White Pasta, Panipuri, Thin Crust Pizza, Dal Makhani","North Indian, South Indian",1200,Buffet,Bannerghatta Road,High,Excellent
+24th Main,No,Yes,4.1,1234,"+91 9900092563
++91 8722148555",JP Nagar,Casual Dining,"Carrot Halwa, Paneer Satay, Manchow Soup, Gajar Ka Halwa, Butter Naan, Mocktails, Tandoori Mushrooms","North Indian, South Indian, Chinese",800,Buffet,Bannerghatta Road,Medium,Excellent
+Zaitoon,Yes,Yes,4.1,1538,"080 41477977
+080 41488988",JP Nagar,Casual Dining,"Hummus Falafel, Gulab Jamun, Shawarma, Bbq Chicken, Mojito, Chicken Biryani, Manchow Soup","BBQ, Arabian, Chinese, North Indian, Desserts",1000,Buffet,Bannerghatta Road,High,Excellent
+Oye Amritsar,Yes,Yes,3.8,756,"080 49577007
++91 9945524705",JP Nagar,Casual Dining,"Lassi, Raita, Dal Makhani, Panneer Butter Masala, Jalebi, Biryani, Paneer Tikka",North Indian,1000,Buffet,Bannerghatta Road,High,Average
+Melt - Eden Park,Yes,Yes,4,347,+91 9606487102,JP Nagar,Casual Dining,"Tandoori Chicken, Biryani, Paneer Tikka, Chicken Curry, Plain Rice, Cheese Naan, Malaysian Noodles","North Indian, Chinese, Thai, Mughlai, Seafood",1000,Buffet,Bannerghatta Road,High,Excellent
+Spice Code,No,Yes,4,165,"+91 9513699007
++91 9513699006",JP Nagar,Casual Dining,"Fries, Lunch Buffet, Appam, Manchow Soup, Paneer Tikka, Vegetable Stew, Biryani","South Indian, North Indian, Chinese, Biryani",1000,Buffet,Bannerghatta Road,High,Excellent
+The Onyx - The HHI Select Bengaluru,No,No,3.3,177,"+91 9742281239
++91 8884404894",JP Nagar,Casual Dining,"Chaat, Custard, Fish, Pepper Chicken, Lunch Buffet, Chicken Tikka, Salads","North Indian, Chinese, Continental",950,Buffet,Bannerghatta Road,Medium,Average
+Sankranthi Veg Restaurant,Yes,No,3,102,+91 8095275614,BTM,Casual Dining,"Tea, Vada Sambar, Masala Dosa","South Indian, North Indian, Chinese",600,Buffet,Bannerghatta Road,Medium,Average
+Cafe Kabana,No,Yes,4,200,"+91 8884044348
++91 8762989999",Bannerghatta Road,Cafe,"Mocktails, Peri Peri Chicken Pizza, Wings, Pasta, English Breakfast, Fries, Jalapeno Cheeseballs","Cafe, Continental",700,Cafes,Bannerghatta Road,Medium,Excellent
+Butterly,Yes,No,3.9,102,+91 7338636363,Bannerghatta Road,Cafe,"Burgers, Sandwiches, Pizza, French Fries, Cheesecake","Cafe, Bakery, Beverages",450,Cafes,Bannerghatta Road,Low,Average
+Black Mug Cafe,Yes,No,3.7,171,"+91 9845561119
++91 8095257151",Bannerghatta Road,Cafe,Coffee,Cafe,300,Cafes,Bannerghatta Road,Low,Average
+#refuel,Yes,No,3.7,37,+91 8971227222,Bannerghatta Road,Cafe,"Thick Shakes, Sandwiches, Pasta, Mocktails","Cafe, Beverages",400,Cafes,Bannerghatta Road,Low,Average
+WAFL,Yes,No,3.9,40,+91 8951725759,Bannerghatta Road,Food Court,Waffles,"Cafe, Fast Food, Desserts, Beverages",400,Cafes,Bannerghatta Road,Low,Average
+Vaho Kafe & Pressery,No,No,3.9,125,"+91 9845687999
+080 41494199",Bannerghatta Road,Cafe,"Salad, Chicken Curry, Peri Peri Chicken, Thai Red Curry, Momos, Chicken Satay, Pasta","Cafe, Healthy Food, Asian, Italian, North Indian, Biryani, Juices",500,Cafes,Bannerghatta Road,Medium,Average
+Dreamcatcher,Yes,No,3.9,49,"+91 7090470823
++91 7996623818",Bannerghatta Road,Cafe,"English Breakfast, Sandwiches",Cafe,600,Cafes,Bannerghatta Road,Medium,Average
+Cafe Arabica,No,No,3.8,69,"080 64442444
++91 8050042444",Bannerghatta Road,"Cafe, Bakery","Coffee, French Fries, Lemon Tea, Veg Sandwich","Cafe, Bakery",700,Cafes,Bannerghatta Road,Medium,Average
+Kalmane Koffees,No,No,3.9,78,+91 9972900494,Bannerghatta Road,Cafe,"Brownie, Filter Coffee",Cafe,350,Cafes,Bannerghatta Road,Low,Average
+Brews N Bites,Yes,No,2.7,48,+91 9886791151,Bannerghatta Road,"Quick Bites, Cafe",Thin Crust Pizza,"Chinese, Fast Food, Cafe, Street Food, Finger Food",650,Cafes,Bannerghatta Road,Medium,Poor
+Slate Cafe,Yes,No,4.1,46,+91 8040923832,JP Nagar,Cafe,"Pasta, Sandwiches","Cafe, Sandwich, Burger",600,Cafes,Bannerghatta Road,Medium,Excellent
+Dialogues,No,No,4,129,+91 8800946279,JP Nagar,Cafe,"Mayo Sandwich, Pasta, Egg Sandwich, Coffee, Potato Wedges, Vegetable Noodles, Fries","Cafe, Continental",600,Cafes,Bannerghatta Road,Medium,Excellent
+Mudpipe Cafe,Yes,Yes,3.9,727,+91 9448056565,JP Nagar,Cafe,"Coffee, Pizza, Nachos, Kit Kat Shake, Garlic Bread, Mexican Rice, Burgers","Cafe, Continental, North Indian",800,Cafes,Bannerghatta Road,Medium,Average
+TAB - Take A Break,No,No,4.1,521,"+91 9535133088
++91 9448157110",JP Nagar,Cafe,"Pizza, Salads, Pasta, Sandwiches, Veg Quiche, Coffee, Tea","Cafe, Continental, Italian",550,Cafes,Bannerghatta Road,Medium,Excellent
+Biggies Burger 'n' More,Yes,No,4.1,203,"+91 9740962288
+080 41145111",JP Nagar,"Quick Bites, Cafe","Burgers, Mojito, Lamb Burger, French Fries, Hot Dog, Bbq Burger, Wedges","Cafe, Burger, Beverages",650,Cafes,Bannerghatta Road,Medium,Excellent
+Onesta,Yes,Yes,4.4,4381,"+91 8904001150
++91 8904001151",JP Nagar,"Casual Dining, Cafe","Chicken Alfredo Pizza, Coffee Mousse, Chicken Calzone, Banana Smoothie, Butter Chicken Pizza, Chocolate Pizza, Chicken Tikka Pizza","Pizza, Cafe, Italian",600,Cafes,Bannerghatta Road,Medium,Excellent
+Cafe Potpourri,Yes,No,3.7,131,"+91 8884553680
++91 7026274274",JP Nagar,Cafe,"Poha, Coffee, Pav Bhaji, Masala Chai, Sattu Paratha, Sandwich","Cafe, Sandwich, North Indian, Beverages, Desserts",400,Cafes,Bannerghatta Road,Low,Average
+Vinaya Coffee Moments,Yes,No,3.7,46,"+91 9538699211
+080 49566825",JP Nagar,Cafe,"Filter Coffee, Pizza, Pasta","Burger, Cafe, Desserts, Sandwich, Italian",450,Cafes,Bannerghatta Road,Low,Average
+Cuppa,No,No,3.4,48,080 40939471,JP Nagar,Cafe,"Coffee, Potato Wedges, Tea","Cafe, Fast Food",550,Cafes,Bannerghatta Road,Medium,Average
+Skytouch Le Cafe,Yes,No,3.7,127,"080 40932483
++91 9740848803",JP Nagar,Cafe,"Pizza, Pasta, Bubble Tea, Brownie, Pancakes, Cheesy Garlic Bread, Chocolate Waffles","Cafe, Italian, Desserts",700,Cafes,Bannerghatta Road,Medium,Average
+Woodee Pizza,Yes,No,2.7,85,+91 7406827272,JP Nagar,Cafe,"Pizza, Lemonade, Chilli Cheese Fries, Thick Shakes","Cafe, Pizza, Fast Food, Beverages",500,Cafes,Bannerghatta Road,Medium,Poor
+Sai Abhiruchi,Yes,No,3.7,335,080 49653037,BTM,Casual Dining,"Dum Biryani, Dal Fry, Paneer Biryani","Andhra, North Indian, Biryani",800,Delivery,Bannerghatta Road,Medium,Average
+Capsicum Family Restaurant,Yes,No,3.8,254,080 49652641,BTM,Casual Dining,Mutton Biryani,"Biryani, North Indian",800,Delivery,Bannerghatta Road,Medium,Average
+Easy Bites,Yes,No,4.1,63,080 43334321,JP Nagar,"Takeaway, Delivery","Sandwich, Crispy Chicken, French Fries","Fast Food, Sandwich",300,Delivery,Bannerghatta Road,Low,Excellent
+Hiyar Majhe Kolkata,Yes,No,4,244,"+91 9108919806
++91 9739059571",BTM,Quick Bites,"Radhaballavi, Biryani, Egg Noodles, Egg Roll, Fish Curry, Egg Devils, Thali","Bengali, North Indian",400,Delivery,Bannerghatta Road,Low,Excellent
+Sri Lakshmi Dhaba,Yes,No,2.9,255,"+91 8970548240
++91 9739369901",BTM,Quick Bites,"Paratha, Shahi Paneer",North Indian,250,Delivery,Bannerghatta Road,Low,Poor
+XO Belgian Waffle,Yes,No,4.5,549,080 45128804,BTM,Dessert Parlor,"Blueberry Waffles, Nutella Waffle, Hot Chocolate, Thick Shakes, Coffee, Oreo Shake, Chocolate Oreo","Desserts, Beverages",400,Delivery,Bannerghatta Road,Low,Excellent
+Swadista Aahar,Yes,No,4.1,775,"+91 9844006825
++91 9844615361",BTM,Quick Bites,"Panneer Butter Masala, Idli, Masala Dosa, Vada, Coffee, Roti, Thali","South Indian, North Indian, Chinese, Street Food",300,Delivery,Bannerghatta Road,Low,Excellent
+Al-Bek,Yes,No,3.6,208,080 43334321,JP Nagar,"Takeaway, Delivery","Chicken Grill, Biryani","Biryani, North Indian, Charcoal Chicken, Chinese, Seafood, Rolls",300,Delivery,Bannerghatta Road,Low,Average
+Aniram's,Yes,No,4.1,739,"+91 8867760111
++91 8867760222",JP Nagar,Delivery,"Chilli Chicken, Butter Chicken, Kadhai Paneer, Hyderabadi Chicken Biryani, Jeera Rice, Ghee Rice, Chicken Masala","Chinese, North Indian",500,Delivery,Bannerghatta Road,Medium,Excellent
+Punjabi Nawabi,Yes,No,3.8,310,"+91 9916713131
++91 9916813131",Bannerghatta Road,Quick Bites,"Dal Makhani, Lassi, Butter Chicken, Panneer Butter Masala, Mix Veg, Saag, Butter Naan",North Indian,400,Delivery,Bannerghatta Road,Low,Average
+Swad Punjab Da,Yes,No,4,126,+91 8360151853,BTM,Quick Bites,"Lassi, Roti, Veg Thali, Aloo Paratha, Egg Curry",North Indian,150,Delivery,Bannerghatta Road,Low,Excellent
+BOX8- Desi Meals,Yes,No,4.1,427,080 33552698,Bannerghatta Road,"Takeaway, Delivery","Paratha, Salads, Dal Makhani, Salad, Masala Lemonade, Paneer Biryani, Sandwiches","North Indian, Mughlai, Fast Food",500,Delivery,Bannerghatta Road,Medium,Excellent
+Roti Wala,Yes,No,4,197,+91 9731100002,BTM,Quick Bites,"Gulab Jamun, Buttermilk, Egg Bhurji, Sprout Salad, Roti",North Indian,300,Delivery,Bannerghatta Road,Low,Excellent
+Midnight Mania,Yes,No,4.1,601,+91 9066022868,BTM,Quick Bites,"Peri Peri Chicken, Chicken Pizza, White Pasta, Kit Kat Shake","Pizza, Italian, Beverages",700,Delivery,Bannerghatta Road,Medium,Excellent
+Kitchens@JP Nagar,Yes,No,3.9,488,080 43334321,JP Nagar,"Takeaway, Delivery",Vegetable Biryani,"Biryani, Kerala, Mughlai, Street Food, North Indian, Chinese, South Indian, Andhra",400,Delivery,Bannerghatta Road,Low,Average
+Krishna Kuteera,Yes,No,4,396,+91 9035011234,Bannerghatta Road,Quick Bites,"Pav Bhaji, Coffee, Set Dosa, Vada, Masala Poori","South Indian, North Indian, Chinese",400,Delivery,Bannerghatta Road,Low,Excellent
+Apna Punjab,Yes,No,3.6,474,+91 7411793215,BTM,Quick Bites,"Thali, Egg Masala, Chole, Paratha, Roti, Butter Chicken, Paneer Manchurian","North Indian, Chinese, Fast Food",450,Delivery,Bannerghatta Road,Low,Average
+Paratha Junction,Yes,No,2.9,172,+91 9535673059,BTM,Quick Bites,"Paratha, Kadai Paneer","North Indian, Chinese",300,Delivery,Bannerghatta Road,Low,Poor
+Nellore Bhojanam,Yes,No,3.1,175,+91 7760358195,Bannerghatta Road,Quick Bites,Biryani,Andhra,250,Delivery,Bannerghatta Road,Low,Average
+Momoz,Yes,No,4,939,"+91 9986304455
+080 41677117",BTM,Casual Dining,"Momos, Noodles, Thukpa, Crispy Honey Chicken, Manchow Soup, Manchurian, Chicken Momo","Chinese, Momos",600,Delivery,Bannerghatta Road,Medium,Excellent
+Kalingas,Yes,No,3.9,173,080 42038180,BTM,Quick Bites,"Rasgulla, Mutton Kosha, Chicken Kasha, Samosa Chaat, Kheer, Veg Thali","Oriya, Fast Food",250,Delivery,Bannerghatta Road,Low,Average
+Kanteen The Eatery,Yes,No,3.9,77,080 43749430,Bannerghatta Road,Quick Bites,"Chole Bhature, Pav Bhaji, Misal Pav",North Indian,400,Delivery,Bannerghatta Road,Low,Average
+Kullad Cafe,Yes,No,3.9,326,"+91 8861570148
++91 9972089231",BTM,Cafe,"Poha, Coffee, Chai, Rolls, Ginger Tea, Aloo Paratha, Elaichi Tea","North Indian, Cafe, Fast Food, Beverages",200,Delivery,Bannerghatta Road,Low,Average
+Donne Biriyani House,Yes,No,3.3,212,"080 41614200
++91 9886944200",JP Nagar,Quick Bites,"Biryani, Kshatriya Kebab","Biryani, Andhra",350,Delivery,Bannerghatta Road,Low,Average
+Litti Twist,Yes,No,4.1,464,+91 8884270523,BTM,Quick Bites,"Litti, Liti Chokha, Lassi, Tea, Paratha, Thali, Chai","North Indian, Bihari",300,Delivery,Bannerghatta Road,Low,Excellent
+FreshMenu,Yes,No,3.3,628,+91 9019245000,Bannerghatta Road,Delivery,"Rolls, Salads, Salad, Sandwiches, Pasta, Burgers, Croissants","Healthy Food, Chinese, Biryani, North Indian, Continental, Salad, American, Burger",450,Delivery,Bannerghatta Road,Low,Average
+Shanthi Sagar,Yes,No,3.6,518,+91 8217521220,JP Nagar,Casual Dining,"Coffee, Mushroom Masala, Masala Dosa, Palak Paneer","South Indian, North Indian, Chinese",400,Delivery,Bannerghatta Road,Low,Average
+Cakebuy,Yes,No,3.9,70,+91 8496934114,Bannerghatta Road,Dessert Parlor,Chocolate Truffle,Desserts,350,Delivery,Bannerghatta Road,Low,Average
+Five Star Chicken,Yes,No,3.9,62,+91 8884121777,JP Nagar,Quick Bites,Fries,"Burger, Fast Food, Roast Chicken, Finger Food",300,Delivery,Bannerghatta Road,Low,Average
+Corner House Ice Cream,Yes,No,4.4,819,080 26540925,Jayanagar,Dessert Parlor,"Hot Chocolate Fudge, Chocolate Malt, Thick Shakes, Chocolate Nut Sundae, Ice Cream Sundae, Fudge Cake, Coffee","Ice Cream, Desserts",400,Delivery,Bannerghatta Road,Low,Excellent
+Fattoush,Yes,Yes,4.2,1964,"080 41425553
++91 7337830044",Bannerghatta Road,Casual Dining,"Mango Chiller, Fattoush, Prawn, Salads, Vegetable Biryani, Irani Chicken Tikka, Chilli Chicken","Arabian, Biryani, Chinese, Middle Eastern, Fast Food, North Indian, Mughlai, Seafood",1000,Delivery,Bannerghatta Road,High,Excellent
+Behrouz Biryani,Yes,No,4,138,091 7700050050,Bannerghatta Road,Delivery,"Gulab Jamun, Vegetable Biryani, Mint Raita",Biryani,650,Delivery,Bannerghatta Road,Medium,Excellent
+Abhiruchi Hotel,Yes,No,3.3,455,"+91 8041470003
++91 8049597979",Bannerghatta Road,Casual Dining,"Egg Biryani, Chicken Curry, Chicken Boneless Biryani, Chilli Chicken, Vegetable Biryani, Jeera Rice","Andhra, Biryani, North Indian, Chinese",550,Delivery,Bannerghatta Road,Medium,Average
+Hind Ka Chulah,Yes,No,3.8,181,"+91 9738933467
++91 8970646882",Bannerghatta Road,Food Court,"Butter Chicken, Chole, Chicken Tikka, Biryani Combo, Roti, Tandoori Chicken, Naan","North Indian, Biryani",600,Delivery,Bannerghatta Road,Medium,Average
+Bohra Bohra CafÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©,Yes,No,3.6,43,"+91 9880101051
++91 9742661909",JP Nagar,Quick Bites,"Fruit Custard, Russian Cutlet",Bohri,300,Delivery,Bannerghatta Road,Low,Average
+Pizza Hut,Yes,No,2.7,159,080 39883988,JP Nagar,Quick Bites,Prompt Service,Pizza,750,Delivery,Bannerghatta Road,Medium,Poor
+Subway,Yes,No,3.2,166,"080 41252625
++91 9972004499",Bannerghatta Road,Quick Bites,Salad,"Salad, Fast Food",600,Delivery,Bannerghatta Road,Medium,Average
+Biryani Durbar,Yes,No,3.7,128,080 49652102,Bannerghatta Road,"Takeaway, Delivery","Chicken Biryani, Chicken Kebab","Biryani, North Indian",400,Delivery,Bannerghatta Road,Low,Average
+Mahesh Friends Food Center,Yes,No,2.9,126,+91 9731081364,BTM,Quick Bites,Lassi,"Chinese, North Indian",300,Delivery,Bannerghatta Road,Low,Poor
+Kabab Magic,Yes,No,4,952,080 26490895,Jayanagar,Quick Bites,"Chicken Grill, Biryani, Shawarma Roll, Rolls, Chicken Kebab, Chicken Shwarma Roll, Pulpy Grape Juice","North Indian, Kebab, Chinese, Fast Food",400,Delivery,Bannerghatta Road,Low,Excellent
+Burger King,Yes,No,3.8,472,080 33558000,Bannerghatta Road,Quick Bites,"Burgers, Whopper Meal, Crispy Chicken, French Fries, Grilled Wings","Burger, Fast Food, Beverages",600,Delivery,Bannerghatta Road,Medium,Average
+Dadi's Dum Biryani,Yes,Yes,4,739,"+91 7090377777
+080 43716050",Bannerghatta Road,Casual Dining,"Chicken Biryani, Basmati Rice, Prawn, Tandoori Chicken, Vegetable Biryani, Galauti Kebab, Faluda","Biryani, North Indian, Mughlai",800,Delivery,Bannerghatta Road,Medium,Excellent
+Alankrutha,Yes,No,3.9,255,080 71967536,BTM,Casual Dining,"Chicken Biryani, Hyderabadi Biryani, Dum Biryani","Andhra, Biryani, North Indian, Chinese",500,Delivery,Bannerghatta Road,Medium,Average
+Paradise,Yes,No,4,1974,"+91 9513477574
++91 9901842605",JP Nagar,Casual Dining,"Kalmi Kabab, Hyderabadi Dum Biryani, Vegetable Biryani, Haleem, Supreme Mutton Biryani, Paneer Tikka, Hyderabadi Mutton Biryani","Biryani, North Indian, Kebab",800,Delivery,Bannerghatta Road,Medium,Excellent
+Andhra Ruchulu,Yes,Yes,4.2,1428,"+91 8970409660
++91 9900262033",JP Nagar,Casual Dining,"Paneer Tikka, Bhuna Gosht, Andhra Meal, Chicken Biryani, Chicken Guntur, Chicken Sholey Kebab, Andhra Biryani","Andhra, North Indian",800,Delivery,Bannerghatta Road,Medium,Excellent
+Adithya,Yes,No,4,332,080 49652760,JP Nagar,Quick Bites,"Neer Dosa, Coffee, Pav Bhaji, Khali Dosa, Panipuri, Masala Dosa, Tea","South Indian, North Indian, Chinese",300,Delivery,Bannerghatta Road,Low,Excellent
+Cheesiano Pizza,Yes,Yes,4,199,"+91 8043761455
++91 7678077768",JP Nagar,Quick Bites,"Pasta, Fries, Cheesiano Pizza, Veggie Pizza, Cheesy Garlic Bread, Peri Peri Paneer Pizza","Pizza, Italian",700,Delivery,Bannerghatta Road,Medium,Excellent
+KFC,Yes,No,3.9,437,080 33994444,JP Nagar,Quick Bites,"Burgers, Wings, Fries, Rice Bowl, Popcorn Chicken, Zinger Burger, Chicken Snacker","Burger, Fast Food",400,Delivery,Bannerghatta Road,Low,Average
+Dande's Hyderabad Biryani,Yes,No,3.8,207,080 41454647,Bannerghatta Road,Casual Dining,"Chicken Boneless Biryani, Lemon Chicken, Dum Biryani","Biryani, Andhra, North Indian",700,Delivery,Bannerghatta Road,Medium,Average
+Onesta,Yes,Yes,4.4,4381,"+91 8904001150
++91 8904001151",JP Nagar,"Casual Dining, Cafe","Chicken Alfredo Pizza, Coffee Mousse, Chicken Calzone, Banana Smoothie, Butter Chicken Pizza, Chocolate Pizza, Chicken Tikka Pizza","Pizza, Cafe, Italian",600,Delivery,Bannerghatta Road,Medium,Excellent
+Upahara Bhavan,Yes,No,3.8,55,"+91 8746969469
+080 40972565",Bannerghatta Road,Quick Bites,"Masala Dosa, Idli, Coffee, Vada, Set Dosa","South Indian, North Indian, Chinese",300,Delivery,Bannerghatta Road,Low,Average
+Shuddh Desi Khana,Yes,No,4,597,080 49653152,Bannerghatta Road,Quick Bites,"Paratha, Chicken Kebab, Biryani, Lassi, Butter Chicken, Veg Kolhapuri, Pahari Chicken",North Indian,400,Delivery,Bannerghatta Road,Low,Excellent
+Sankranthi Veg Restaurant,Yes,No,3,102,+91 8095275614,BTM,Casual Dining,"Tea, Vada Sambar, Masala Dosa","South Indian, North Indian, Chinese",600,Delivery,Bannerghatta Road,Medium,Average
+Aramane Donne Biriyani,Yes,No,3.9,189,"+91 7411877401
++91 7829588445",BTM,Quick Bites,"Egg Biryani, Donne Biryani","Biryani, Fast Food",300,Delivery,Bannerghatta Road,Low,Average
+Cafe Potpourri,Yes,No,3.7,131,"+91 8884553680
++91 7026274274",JP Nagar,Cafe,"Poha, Coffee, Pav Bhaji, Masala Chai, Sattu Paratha, Sandwich","Cafe, Sandwich, North Indian, Beverages, Desserts",400,Delivery,Bannerghatta Road,Low,Average
+Mani's Dum Biryani,Yes,No,4.2,373,+91 9606441698,JP Nagar,Casual Dining,"Paneer Biryani, Raita, Gulab Jamun, Vegetable Biryani, Dum Biryani, Chicken Boneless Biryani, Chicken Kebab Biryani","Biryani, Kebab",750,Delivery,Bannerghatta Road,Medium,Excellent
+Amontron,Yes,No,3.9,435,+91 9742326196,BTM,Casual Dining,"Katla Kalia, Basanti Pulao, Biryani, Aloo Posto, Mutton Kosha, Ilish, Mutton Dak Bunglow",Bengali,650,Delivery,Bannerghatta Road,Medium,Average
+Birinz,Yes,No,4.1,292,"+91 8197022223
++91 9141111222",BTM,Casual Dining,"Chicken Boneless Biryani, Hyderabadi Biryani, Egg Chilli, Tomato Soup, Mutton Biryani, Butter Chicken Biryani, Paneer Biryani","Biryani, Chinese, Mughlai, Fast Food, Kebab",700,Delivery,Bannerghatta Road,Medium,Excellent
+Just Shawarma,Yes,No,3.6,137,+91 7676764422,Bannerghatta Road,Quick Bites,"Fries, Whole Meat Shawarma",Arabian,300,Delivery,Bannerghatta Road,Low,Average
+Hyderabadi Bawarchi,Yes,No,3.2,133,"+91 7829488222
++91 7829588222",Bannerghatta Road,Casual Dining,"Raita, Vegetable Biryani, Hyderabadi Biryani, Chicken Curry, Chicken Biryani","North Indian, Chinese, Biryani",500,Delivery,Bannerghatta Road,Medium,Average
+Fish Chain,Yes,No,3.9,37,+91 7676564444,JP Nagar,"Takeaway, Delivery",Fish Curry,"Seafood, BBQ, Biryani",250,Delivery,Bannerghatta Road,Low,Average
+Prasiddhi Food Corner,Yes,No,3.7,170,"+91 9448473299
++91 9900330039",JP Nagar,Quick Bites,Coffee,"Fast Food, North Indian, South Indian",200,Delivery,Bannerghatta Road,Low,Average
+Hyderabad Biryaani House,Yes,No,3.6,794,"+91 9845699901
++91 9986438789",Bannerghatta Road,Casual Dining,"Hyderabadi Biryani, Chicken Biryani, Raita, Mutton Biryani, Vegetable Biryani, Butter Chicken, Basmati Rice","Biryani, North Indian, Chinese",550,Delivery,Bannerghatta Road,Medium,Average
+Galito's,Yes,No,4.6,404,+91 8067922374,Bannerghatta Road,Casual Dining,"Chicken Grill, Garlic Bread, Mocktails, Burgers, Fries, Salads, Pudding","African, Burger",1000,Delivery,Bannerghatta Road,High,Excellent
+Rajdhani Thali Restaurant,Yes,Yes,3.9,561,"080 67080088
+080 67080099",Bannerghatta Road,Casual Dining,"Mango Lassi, Dhokla, Khichda, Kesaria Lassi, Rajdhani Thali, Rabri, Buttermilk",North Indian,900,Delivery,Bannerghatta Road,Medium,Average
+PHEW (Play Hard Eat Wild),Yes,Yes,3.9,486,+91 9365075799,BTM,Cafe,"Noodles, Shawarma, Brownie, Chicken Nachos, Veg Platter, Manchurian, Onion Rings","Continental, Lebanese, Middle Eastern, North Indian, Chinese, BBQ, Cafe",700,Delivery,Bannerghatta Road,Medium,Average
+Chicken County Grand,Yes,No,3.9,320,"080 26533377
+080 26533378",Bannerghatta Road,Casual Dining,"Chicken Grill, Fish, Shawarma, Rolls, Tandoori Chicken, Hyderabadi Chicken, Chicken Roll","North Indian, Chinese",650,Delivery,Bannerghatta Road,Medium,Average
+Roll Over,Yes,No,4.1,237,"+91 9901999868
++91 9986034959",JP Nagar,Dessert Parlor,"Rolls, Ice Cream Roll, Fries, Chocolate Icecreams, Banana Nutella, Chocolate Ball, Waffles","Desserts, Ice Cream, Beverages, Fast Food, Sandwich",500,Delivery,Bannerghatta Road,Medium,Excellent
+Savoury - Sea Shell Restaurant,Yes,Yes,3.9,1227,"080 49994999
+080 65555988",Bannerghatta Road,Casual Dining,"Shawarma, Biryani, Chicken Grill, Rolls, Tomato Soup, Haleem, Sea Food","Arabian, North Indian, Chinese, Seafood, Biryani, Rolls, Beverages",900,Delivery,Bannerghatta Road,Medium,Average
+Firangi Bake,Yes,No,4,95,+91 7710090007,Bannerghatta Road,Delivery,Lasagne,"Mexican, Italian",600,Delivery,Bannerghatta Road,Medium,Excellent
+Zaitoon,Yes,Yes,4.1,1538,"080 41477977
+080 41488988",JP Nagar,Casual Dining,"Hummus Falafel, Gulab Jamun, Shawarma, Bbq Chicken, Mojito, Chicken Biryani, Manchow Soup","BBQ, Arabian, Chinese, North Indian, Desserts",1000,Delivery,Bannerghatta Road,High,Excellent
+Kundana,Yes,No,3.7,110,080 49652729,Bannerghatta Road,Casual Dining,"Lemon Chicken, Chicken Dum Biryani, Mutton Biryani","Andhra, Biryani",800,Delivery,Bannerghatta Road,Medium,Average
+The Shawarma Shop,Yes,No,4.1,381,+91 9343665007,BTM,Quick Bites,"Rumali Roti, Rumali Shawarma, Burgers, Shawarma Burger",Arabian,250,Delivery,Bannerghatta Road,Low,Excellent
+Faasos,Yes,No,3.9,251,+91 7700020020,Bannerghatta Road,Delivery,"Rolls, Sabudana Vada, Veggie Wrap, Chicken Wrap, Dal Makhani, Paneer Wrap, Meat Balls","North Indian, Biryani, Fast Food",500,Delivery,Bannerghatta Road,Medium,Average
+Punjabi Food Corner,Yes,No,3,353,"080 26850061
++91 9611826251",JP Nagar,Quick Bites,"Kheer, Lassi, Paratha, Amritsari Kulcha, Dal Makhani, Chole Bhature, Aloo Kulcha","North Indian, Chinese, Street Food",400,Delivery,Bannerghatta Road,Low,Average
+Mealer.in,Yes,No,4,205,"080 48542046
++91 9513771133",JP Nagar,Delivery,"Rajma, Dal Makhani, Kadhi Chawal, Dal Tadka","North Indian, Biryani",450,Delivery,Bannerghatta Road,Low,Excellent
+Pathaan Sir,Yes,No,3.9,183,080 42244044,BTM,Quick Bites,"Rolls, Momos, Paratha, Chicken Tikka Roll, Mutton Keema, Egg Roll","Fast Food, Rolls, Momos",250,Delivery,Bannerghatta Road,Low,Average
+Cold Stone Creamery,Yes,No,3.9,99,080 67922488,Bannerghatta Road,Dessert Parlor,"Brownie, Chocolate Devotion, Icecream Cake, Cotton Candy Ice Cream, Coffee, Strawberry Smoothie","Ice Cream, Desserts",400,Delivery,Bannerghatta Road,Low,Average
+Amritsari Kulcha Land,Yes,No,4.1,260,"+91 8884449474
++91 7986965273",JP Nagar,Quick Bites,"Lassi, Amritsari Kulcha, Punjabi Kulcha, Paneer Kulcha, Punjabi Chole, Aloo Kulcha, Paratha",North Indian,300,Delivery,Bannerghatta Road,Low,Excellent
+Chokha Chowka,Yes,No,3.9,355,"+91 8045128659
++91 7204304000",BTM,Quick Bites,"Chaat, Samosa, Thali, Sweet Lassi, Biryani, Egg Roll, Masala Paneer","North Indian, Chinese",400,Delivery,Bannerghatta Road,Low,Average
+Gorbandh,Yes,No,4.1,83,080 49652562,BTM,Quick Bites,"Aloo Paratha, Samosa, Kachori, Poha, Chaat","Fast Food, North Indian",400,Delivery,Bannerghatta Road,Low,Excellent
+Grills & Rolls,Yes,No,2.5,321,080 26593949,JP Nagar,Quick Bites,"Shawarma, Chicken Grill, Tandoori Chicken, Butter Chicken, Rolls, Chicken Tikka, Grape Juice","North Indian, Chinese, Fast Food, Rolls, Juices",400,Delivery,Bannerghatta Road,Low,Poor
+Bathinda Junction,Yes,No,3.9,362,+91 9740701619,BTM,Casual Dining,"Lassi, Shikanji, Dal Makhani, Makke Ki Roti, Butter Chicken, Paneer Punjabi, Chicken Curry",North Indian,600,Delivery,Bannerghatta Road,Medium,Average
+Stories,Yes,Yes,4.2,2166,080 49653116,JP Nagar,"Pub, Casual Dining","Cocktails, Pizza, Fries, Pasta, Chicken Sizzler, Mocktails, Long Island Iced Tea","American, Chinese, Continental, North Indian",1200,Delivery,Bannerghatta Road,High,Excellent
+Kanti Sweets,Yes,No,4,182,"080 22960634
+080 41744131",JP Nagar,Sweet Shop,"Rasmalai, Pav Bhaji","Mithai, Street Food",400,Delivery,Bannerghatta Road,Low,Excellent
+Seasons,Yes,Yes,3.8,500,"+91 7411898898
++91 7411798798",Bannerghatta Road,Casual Dining,"Biryani, Sea Food, Egg Masala, Barbeque Chicken, Fish Grill, Appam, Raita","North Indian, South Indian, Chinese, Seafood, Kerala, Arabian, Juices",1000,Delivery,Bannerghatta Road,High,Average
+Chung Wah,Yes,No,4,532,"080 41215557
+080 41215333",Bannerghatta Road,Casual Dining,"Chicken Chowmein, Chicken Manchow Soup, Clear Soup, Momos, Fried Noodles, Chop Suey, Spring Roll","Chinese, Thai, Momos, Vietnamese",800,Delivery,Bannerghatta Road,Medium,Excellent
+Marwa Restaurant,Yes,Yes,3.5,551,080 49653014,Bannerghatta Road,Casual Dining,"Kalmi Kabab, Gulab Jamun, Chicken Grill, Shawarma Roll, Vegetarian, Barbeque Chicken, Dal Fry","North Indian, Chinese, Fast Food, BBQ",600,Delivery,Bannerghatta Road,Medium,Average
+Shanghai Court,Yes,No,4.2,421,080 42086199,Bannerghatta Road,Casual Dining,"Chicken Manchow Soup, Hunan Chicken, Pad Thai, Singapore Noodles, Dragon Rolls, Momos, Thai Red Curry","Chinese, Thai",700,Delivery,Bannerghatta Road,Medium,Excellent
+Bhojohori Manna,Yes,No,3.7,662,"+91 9916972666
+080 26593666",JP Nagar,Casual Dining,"Fish, Kosha Mangsho, Mishti Doi, Aam Panna, Prawn, Nolen Gurer Ice Cream, Luchi","Bengali, Mughlai",650,Delivery,Bannerghatta Road,Medium,Average
+Hunger Bee,Yes,No,3.8,54,"+91 7337613999
++91 7338032999",Bannerghatta Road,Quick Bites,"Chicken Curry, Chicken Biryani, Jeera Rice, Paneer Biryani, Ghee Rice, Roti, Aloo Matar","Biryani, North Indian, South Indian",500,Delivery,Bannerghatta Road,Medium,Average
+Yum In My Tum,Yes,No,4.1,92,+91 9108084789,BTM,Quick Bites,"Momos, Manchow Soup, Pizza Sandwich, Spring Roll, Noodles, Fries, Fried Rice","Chinese, Continental, Fast Food, Healthy Food",300,Delivery,Bannerghatta Road,Low,Excellent
+Biryani Miya,Yes,No,3.7,36,080 49652509,JP Nagar,Delivery,Chicken Biryani,"Biryani, North Indian",600,Delivery,Bannerghatta Road,Medium,Average
+Chulha Chauki Da Dhaba,Yes,No,4.2,2350,"080 41204283
++91 7349738056",JP Nagar,Casual Dining,"Egg Chilli, Chilli Babycorn, Chicken Curry, Sweet Lassi, Palak Paneer, Chaach, Butter Chicken",North Indian,800,Delivery,Bannerghatta Road,Medium,Excellent
+Dreamcatcher,Yes,No,3.9,49,"+91 7090470823
++91 7996623818",Bannerghatta Road,Cafe,"English Breakfast, Sandwiches",Cafe,600,Delivery,Bannerghatta Road,Medium,Average
+Magix's Parattha Roll,Yes,No,3.7,184,080 49652620,BTM,Quick Bites,"Rolls, Chicken Roll, Tandoori Chicken, Biryani, Chicken Lollipop, Paratha, Chicken Grill","Fast Food, North Indian, Chinese, Mughlai, Rolls",400,Delivery,Bannerghatta Road,Low,Average
+Elegant Dining,Yes,Yes,3.6,225,"+91 9900900063
++91 9916087820",Bannerghatta Road,Casual Dining,"Chicken Tikka, Chicken Biryani, Roti, Naan, Panneer Butter Masala","Biryani, North Indian, Chinese",700,Delivery,Bannerghatta Road,Medium,Average
+Waffle Head,Yes,No,4,35,080 49653258,BTM,"Dessert Parlor, Beverage Shop","Marshmallow, Chocolate Waffles","Desserts, Beverages, Bakery, Ice Cream",300,Delivery,Bannerghatta Road,Low,Excellent
+Basmati Delights,Yes,No,4,869,"080 65996599
++91 9141111222",BTM,Delivery,"Tandoori Chicken, Mutton Biryani, Andhra Biryani, Raita, Hyderabadi Dum Biryani, Chicken Boneless Biryani, Vegetable Biryani","Biryani, Chinese, Mughlai, Fast Food, Kebab",500,Delivery,Bannerghatta Road,Medium,Excellent
+Samosa Singh,Yes,No,4,153,"+91 7349542202
++91 9148998212",JP Nagar,Quick Bites,"Samosa, Chicken Chettinad, Murgh Makhani","Street Food, Fast Food, Rolls, Desserts",200,Delivery,Bannerghatta Road,Low,Excellent
+Cravings,Yes,No,3.7,139,+91 9986624240,Bannerghatta Road,Quick Bites,"Malai Kofta, Sandwiches, Aloo Paratha, Chole Bhature, Panneer Butter Masala, Kulcha, Poori Chole","North Indian, Chinese, Rolls",400,Delivery,Bannerghatta Road,Low,Average
+Matka,Yes,No,3.7,181,+91 9513366655,Bannerghatta Road,Delivery,Biryani,"Biryani, North Indian",500,Delivery,Bannerghatta Road,Medium,Average
+Punjabi Swag,Yes,No,3.9,669,"+91 9902920892
++91 9902820893",BTM,Casual Dining,"Lassi, Murgh Lababdar, Makke Ki Roti, Chaap, Butter Paneer, Butter Chicken, Patiala Paneer",North Indian,500,Delivery,Bannerghatta Road,Medium,Average
+Taco Bell,Yes,No,3.7,168,"+91 8448797303
++91 8971535487",Bannerghatta Road,Quick Bites,"Tacos, Fries, Nachos, Burrito","Mexican, American, Fast Food",600,Delivery,Bannerghatta Road,Medium,Average
+Mother's Rasoi,Yes,No,3.8,170,"+91 9008416337
++91 9741877160",Bannerghatta Road,Quick Bites,"Buttermilk, Dal Makhani, Boondi Raita, Baingan Bharta, Aloo Paratha, Roti, Thali","North Indian, Chinese, Momos",250,Delivery,Bannerghatta Road,Low,Average
+Dosa Bazaar,Yes,No,4,112,"+91 8971331138
++91 9177782676",JP Nagar,Quick Bites,"Cheese Dosa, Tea, Pizza Dosa","Street Food, South Indian",200,Delivery,Bannerghatta Road,Low,Excellent
+The Bong Palate,Yes,No,3.8,58,"+91 6363053927
++91 9886076868",BTM,Quick Bites,"Mutton Kosha, Basanti Pulao, Chicken Biryani","Bengali, North Indian, Chinese",300,Delivery,Bannerghatta Road,Low,Average
+Upahara Darshini,Yes,No,4,167,+91 9845530078,Jayanagar,Quick Bites,"Vada, Coffee, Masala Dosa, Gulab Jamun, Roti, Idli, Tomato Soup","South Indian, North Indian, Chinese",400,Delivery,Bannerghatta Road,Low,Excellent
+Bikaner Jn,Yes,No,3.9,85,+91 9163568669,JP Nagar,Quick Bites,"Thali, Dhokla, Samosa, Poha, Club Kachori, Paratha, Tea",Rajasthani,300,Delivery,Bannerghatta Road,Low,Average
+Crunch Pizzas,Yes,No,2.6,473,"+91 9538258708
++91 8884908439",BTM,Quick Bites,"Pie, Thin Crust Pizza, Cheesy Pizza, Pepperoni Pizza, Paneer Pizza","Italian, Pizza",600,Delivery,Bannerghatta Road,Medium,Poor
+Kakal-Kai Ruchi,Yes,No,3.7,217,+91 9448395832,JP Nagar,Casual Dining,"Masala Dosa, Babycorn Manchurian, Filter Coffee, Chaat, Dahipuri, Masala Papad, Raagi Dosa","North Indian, South Indian, Chinese",500,Delivery,Bannerghatta Road,Medium,Average
+Calorie Express,Yes,No,3.6,192,+91 9663868626,BTM,Delivery,Chicken Sandwich,Healthy Food,450,Delivery,Bannerghatta Road,Low,Average
+BANGALORE BOX,Yes,Yes,4.2,611,"+91 9901402636
++91 8049577779",BTM,"Casual Dining, Bar","Biryani, Chicken Bbq Wings, Mocktails, Sangria, Cocktails, Burgers, Pasta","Asian, Continental, Finger Food",1500,Delivery,Bannerghatta Road,High,Excellent
+Ovenstory Pizza,Yes,No,4,166,18002700913,Bannerghatta Road,Delivery,Cheesy Pizza,Pizza,750,Delivery,Bannerghatta Road,Medium,Excellent
+Slate Cafe,Yes,No,4.1,46,+91 8040923832,JP Nagar,Cafe,"Pasta, Sandwiches","Cafe, Sandwich, Burger",600,Delivery,Bannerghatta Road,Medium,Excellent
+Chavadi,Yes,Yes,4.4,2233,080 49653031,Bannerghatta Road,"Casual Dining, Bar","Pizza, Cocktails, Saffron Rice, Pie, Sulemani Chai, Prawn Crackers, Waffles","Continental, North Indian, Pizza, Italian",1200,Delivery,Bannerghatta Road,High,Excellent
+Nanna Munna Paratha House,Yes,No,4,107,"+91 8088120161
++91 9738720798",BTM,Quick Bites,"Paratha, Palak Paneer",North Indian,300,Delivery,Bannerghatta Road,Low,Excellent
+Cucumber Town,Yes,No,4.2,306,"+91 8884566443
++91 8043365726",BTM,Delivery,"Appam, Chicken Biryani, Kuluki Sarbat, Panneer Butter Masala, Meen Pollichathu, Vellarikka Pattanam, Sea Food","Kerala, North Indian",600,Delivery,Bannerghatta Road,Medium,Excellent
+Oye Amritsar,Yes,Yes,3.8,756,"080 49577007
++91 9945524705",JP Nagar,Casual Dining,"Lassi, Raita, Dal Makhani, Panneer Butter Masala, Jalebi, Biryani, Paneer Tikka",North Indian,1000,Delivery,Bannerghatta Road,High,Average
+Brewsky,Yes,Yes,4.4,4309,"+91 9880438170
++91 9880661701",JP Nagar,Microbrewery,"Pork Chops, Craft Beer, Chicken Biryani, Chowmein, Drunken Chicken Wings, Cocktails, Mocktails","Continental, American",1600,Delivery,Bannerghatta Road,High,Excellent
+Chefeana,Yes,No,4,212,+91 8050752925,Bannerghatta Road,Quick Bites,"Paratha, Chole Bhature, Lassi, Thali, Paneer Parantha",North Indian,400,Delivery,Bannerghatta Road,Low,Excellent
+Bangaliana,Yes,No,2.9,153,080 26488095,Bannerghatta Road,Quick Bites,"Masala Prawn, Mutton Kosha, Thali, Mutton Curry, Luchi, Fish Cutlet, Bengali Pulao",Bengali,600,Delivery,Bannerghatta Road,Medium,Poor
+Gud Dhani,Yes,No,4,827,080 50060017,BTM,Casual Dining,"Buttermilk, Jal-jeera, Churma, Palak Kofta, Lassi, Gulab Jamun, Dahi Bhindi",Rajasthani,500,Delivery,Bannerghatta Road,Medium,Excellent
+McDonald's,Yes,No,4,256,080 66000666,Bannerghatta Road,Quick Bites,"Burgers, Mocha Frappe, French Fries, Maharaja Mac, Oreo Shake, Egg Wrap","Burger, Fast Food",500,Delivery,Bannerghatta Road,Medium,Excellent
+WAFL,Yes,No,3.9,40,+91 8951725759,Bannerghatta Road,Food Court,Waffles,"Cafe, Fast Food, Desserts, Beverages",400,Delivery,Bannerghatta Road,Low,Average
+Deejas Kitchen,Yes,No,3.9,73,+91 7259298695,Bannerghatta Road,"Takeaway, Delivery","Pothichoru, Roast Chicken, Fish Fry","South Indian, Kerala",400,Delivery,Bannerghatta Road,Low,Average
+Pancuzzi,Yes,No,4.2,169,+91 9742737794,JP Nagar,Cafe,"Waffles, Burgers, Masala Fries, Crunchy Veg Burger, Tiramisu, Chocolate Pancakes, Oreo Shake","Cafe, Beverages, Desserts",600,Delivery,Bannerghatta Road,Medium,Excellent
+Zhang's - Chinese Restaurant,Yes,No,4.1,586,"080 26595988
+080 26596420",JP Nagar,Casual Dining,"Momos, Chilli Mushroom, Chop Suey, Sweet Corn Soup, Clear Soup, Hakka Noodles, Honey Chilli Potatoes","Chinese, Momos",700,Delivery,Bannerghatta Road,Medium,Excellent
