@@ -1,16 +1,8 @@
 import streamlit as st
 import pandas as pd
 import sqlite3
-
-# ─────────────────────────────────────────
-# DB CONNECTION
-# ─────────────────────────────────────────
 def get_conn():
     return sqlite3.connect("uber_data.db")
-
-# ─────────────────────────────────────────
-# PAGE CONFIG
-# ─────────────────────────────────────────
 st.set_page_config(
     page_title="Uber Eats Bangalore Analytics",
     page_icon="🍽️",
@@ -24,10 +16,6 @@ st.markdown("""
     .block-container {padding-top: 1.5rem;}
 </style>
 """, unsafe_allow_html=True)
-
-# ─────────────────────────────────────────
-# SIDEBAR NAVIGATION
-# ─────────────────────────────────────────
 st.sidebar.title("🍽️ Uber Eats BLR")
 st.sidebar.markdown("---")
 page = st.sidebar.radio(
@@ -35,9 +23,7 @@ page = st.sidebar.radio(
     ["📊 Dashboard", "❓ Restaurant Q&A", "📦 Orders Q&A"]
 )
 
-# ─────────────────────────────────────────
-# PAGE 1 — DASHBOARD
-# ─────────────────────────────────────────
+
 if page == "📊 Dashboard":
 
     st.title("📊 Uber Eats Bangalore — Dashboard")
@@ -109,10 +95,6 @@ if page == "📊 Dashboard":
 
     st.markdown(f"### Results — {len(df)} restaurants found")
     st.dataframe(df, use_container_width=True)
-
-# ─────────────────────────────────────────
-# PAGE 2 — RESTAURANT Q&A
-# ─────────────────────────────────────────
 elif page == "❓ Restaurant Q&A":
 
     st.title("❓ Restaurant Business Q&A")
@@ -377,10 +359,6 @@ elif page == "❓ Restaurant Q&A":
 
     st.markdown(f"**{len(df)} rows returned**")
     st.dataframe(df, use_container_width=True)
-
-# ─────────────────────────────────────────
-# PAGE 3 — ORDERS Q&A
-# ─────────────────────────────────────────
 elif page == "📦 Orders Q&A":
 
     st.title("📦 Orders Data — Business Q&A")
